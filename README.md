@@ -576,58 +576,37 @@ adj. 	调整的; 具有监管权的，监管的;
 这是由于监管和技术的发展。
 
 
-reputational 	
-	
+reputation  英 [ˌrepjuˈteɪʃn] 美 [ˌrɛpjəˈteʃən
 adj. 	reputation（名声，声誉）的变形;
 [例句]They must tackle a problem that can earn companies fines, criminal charges and huge reputational damage.
 他们必须解决一个问题，而这个问题可能会导致企业遭受罚款、刑事指控和巨大的名誉损害。
 
 
-hurdles 	
-	
+hurdles  英 [ˈhɜ:dl] 美 [ˈhɜ:rdl]	
 n. 	障碍( hurdle的名词复数 ); 跳栏; （供人或马跳跃的） 栏架; 跨栏赛;
 [例句]Davis won the 400m. hurdles in a new Olympic time of 49.3 sec.
 戴维斯以49.3秒的成绩刷新奥运会纪录，在400米跨栏赛跑中一举夺冠。
 [其他] 	原型： hurdle 
 
-hurdle
-英 [ˈhɜ:dl] 美 [ˈhɜ:rdl]
-
-n.
-障碍，困难;跳栏;障碍赛跑;[史]囚笼，囚车
-
-vi.
-克服困难;越过障碍;参加跨栏赛跑
-
-vt.
-跳过障碍;跳栏;用疏篱围住;克服困难
-
-
+hurdle 英 [ˈhɜ:dl] 美 [ˈhɜ:rdl]
+n.障碍，困难;跳栏;障碍赛跑;[史]囚笼，囚车
+vi.克服困难;越过障碍;参加跨栏赛跑
+vt.跳过障碍;跳栏;用疏篱围住;克服困难
 
 premature  英 [ˈpremətʃə(r)] 美 [ˌpri:məˈtʃʊr]
-
 adj.过早的;早产的;提前的;草率的
-
 n.早产儿
 
-
 diabetes 英 [ˌdaɪəˈbi:ti:z] 美 [ˌdaɪəˈbitɪs, -tiz]
-
 n.<医>糖尿病;多尿症;中消
 
-
 dementia 英 [dɪˈmenʃə] 美 [dɪˈmɛnʃə]
-
 n.[医]痴呆
 
 
-fractures
-
-n.
-断裂;（指状态）骨折( fracture的名词复数 );（指事实）骨折
-
-v.
-（使）折断，破碎( fracture的第三人称单数 )
+fractures 英 [ˈfræktʃə(r)] 美 [ˈfræktʃɚ]
+n.断裂;（指状态）骨折( fracture的名词复数 );（指事实）骨折
+v.（使）折断，破碎( fracture的第三人称单数 )
 
 
 stellar 	英 [ˈstelə(r)]
@@ -661,10 +640,8 @@ n. 	袭扰; 骚扰，扰乱; 折磨人的东西; 烦恼，忧虑;
 [例句]The party has accused the police of harassment.
 该党指责警方有侵扰行为。
 
-whether 	英 [ˈweðə(r)]
-	美 [ˈhwɛðɚ, ˈwɛð-]
-pron. 	其中的哪一个;
-n. 	可能的选择;
+whether 	英 [ˈweðə(r)] 美 [ˈhwɛðɚ, ˈwɛð-]
+pron. 	其中的哪一个; n. 	可能的选择;
 [例句]To this day, it's unclear whether he shot himself or was murdered
 至今尚不清楚他究竟是饮弹自杀还是被谋杀。
 
@@ -735,14 +712,51 @@ adj. 	值得崇拜的，可敬重的; 可爱的，讨人喜欢的;
 [例句]We have three adorable children.
 我们有3个可爱的孩子。
 
-
 blocked 英 [blɒkt] 美 [blɒkt]
-
 adj.封锁的，闭塞的，联锁的
-
 v.堵塞( block的过去式和过去分词 );阻碍;设计（电视录像的摄像镜头布局）;[球类]（合法）阻挡（对手）
 
-
 scattered 英 [ˈskætəd] 美 [ˈskætərd]
-
 adj.分散的;零散的;疏落的;到处都是…的
+
+pipe dream 	英 [paip dri:m] 美 [paɪp drim]
+n. 	白日梦，幻想;
+[例句]I would like to buy a villa in Spain when I retire, but with my limited resources it is only a pipe dream.
+我退休后想在西班牙买一栋别墅，但就我有限的财力而言，这只是一种空想。
+
+hyperloop 	英 ['haɪpəlu:p] 美 ['haɪpəlu:p]
+n. 	超回路，超回线;
+[例句]Elon Musk just brought his Hyperloop project one step closer to reality.
+埃伦·穆斯克最近让他的Hyperloop超级高铁项目距离成为现实又近了一步。
+
+taxpayer 	英 [ˈtækspeɪə(r)] 美 [ˈtæksˌpeɚ]
+n. 	纳税人，纳税的机构; 所收租金只够支付地产税的建筑物;
+[例句]The new 37th issue of National Savings Certificates is a must for any taxpayer
+新发行的第37期国家储蓄债券是任何一个纳税人的必然之选。
+
+vacuum 	英 [ˈvækjuəm]美 [ˈvækjuəm]
+n. 	真空; 空白; 空虚; 清洁;
+v. 	用真空吸尘器清扫;
+[例句]The collapse of the army left a vacuum in the area
+这支军队的溃败使这个地区出现了军事真空。
+[其他] 	第三人称单数：vacuums 复数：vacua 现在分词：vacuuming 过去式：vacuumed 过去分词：vaccumed 
+
+elaborate 	英 [ɪˈlæbərət] 美 [ɪˈlæbəret]
+vi. 	详尽说明; 变得复杂;
+vt. 	详细制定; 详尽阐述; [生理学] 加工; 尽心竭力地做;
+adj. 	精心制作的; 精巧的; 复杂的; （结构） 复杂的;
+[例句]He is known for his elaborate costumes.
+他以着装精致而闻名。
+[其他] 	第三人称单数：elaborates 现在分词：elaborating 过去式：elaborated 过去分词：elaborated 
+
+ cargo packed 货物包装 
+
+proposal 	英 [prəˈpəʊzl] 美 [prəˈpoʊzl]
+n. 	建议; 提议; 求婚; 〈美〉投标;
+[例句]The President is to put forward new proposals for resolving the country's constitutional crisis
+总统将提出解决国家宪法危机的新议案。
+
+electromagnetic propulsion 英 [ɪˌlektrəʊmægˈnetɪk prəˈpʌlʃən] 美 [ɪˌlɛktromæɡˈnɛtɪk prəˈpʌlʃən]
+[词典] 	电磁推进（压铸金属液）;
+[例句]Design of the Trigger Used in Electromagnetic Propulsion Based on FPGA
+基于FPGA的电磁推进装置同步触发系统的优化设计
