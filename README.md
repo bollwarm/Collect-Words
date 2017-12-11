@@ -630,3 +630,24 @@ electromagnetic propulsion 英 [ɪˌlektrəʊmægˈnetɪk prəˈpʌlʃən] 美 [
 [词典] 	电磁推进（压铸金属液）;
 [例句]Design of the Trigger Used in Electromagnetic Propulsion Based on FPGA
 基于FPGA的电磁推进装置同步触发系统的优化设计
+
+fiancee  英 [fiˈɒnseɪ] 美 [ˌfi:ɑ:nˈseɪ]
+n. 	<法>未婚妻;
+[例句]He was also a writer of beautiful stories, some of which are collaborations with his fiancee.
+他还写了一些美妙的故事，其中有些是和他的未婚妻合著的。
+
+meditation 	英 [ˌmedɪˈteɪʃn] 美 [ˌmɛdɪˈteʃən]
+n. 	冥想; 沉思; 默想; 默念;
+[例句]Many busy executives have begun to practice yoga and meditation.
+许多忙碌的主管开始练习瑜伽和冥想。
+[其他] 
+
+philanthropist  英 [fɪˈlænθrəpɪst] 美 [fəˈlænθrəpɪst]
+n. 	慈善家;
+[例句]Indeed, he is a philanthropist, he has had to.
+的确，他作为一个慈善家，他已经尽力了。
+
+refer to  英 [riˈfə: tu:]  美 [rɪˈfɚ tu]
+[词典] 	参考; 指的是; 涉及; 适用于;
+[例句]I mention this point now in passing and shall refer to it again.
+这一点现在顺便提一下，以后还会讲到。
