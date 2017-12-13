@@ -651,3 +651,53 @@ refer to  英 [riˈfə: tu:]  美 [rɪˈfɚ tu]
 [词典] 	参考; 指的是; 涉及; 适用于;
 [例句]I mention this point now in passing and shall refer to it again.
 这一点现在顺便提一下，以后还会讲到。
+
+soar 英 [sɔ:(r)] 美 [sɔr, sor]
+vi.  高飞; 飞腾; 猛增，剧增; 高耸，屹立;
+n. 	高飞; 高涨; 高飞范围; 上升高度;
+vt. 	高飞越过; 飞升到;
+[例句]Insurance claims are expected to soar
+预计保险索赔数量会急剧增加。
+[其他] 	第三人称单数：soars 现在分词：soaring 过去式：soared 过去分词：soared 
+
+acquisition 英 [ˌækwɪˈzɪʃn] 美 [ˌækwɪˈzɪʃən]
+n. 	收购; 获得; 购置物; 获得物;
+[例句]How did you go about making this marvellous acquisition then?
+那么你是怎么买到这一绝品的？
+[其他] 	复数：acquisitions 
+
+munchies  英 [ˈmʌntʃɪz] 美 [ˈmʌntʃiz]
+n. 	<口>饥饿感，吃点心欲； 快餐，小吃;
+[例句]We got the munchies, so we decided we'd go to hot dog heaven.
+我们饿了，所以我们决定去热狗的天堂。
+
+marijuana 	英 [ˌmærəˈwɑ:nə] 美 [ˌmærəˈwɑːnə]
+n. 	大麻，大麻毒品; 野生烟草;
+[例句]In this section we will describe common myths about cigarettes, alcohol, and marijuana
+在这一节，我们将说明有关烟、酒和大麻的常见谬论。
+
+snack 英 [snæk] 美 [snæk]
+n. 	快餐，点心; 加餐;
+vi. 	吃快餐;
+[例句]Lunch was a snack in the fields.
+午饭是在野外吃的便餐。
+
+craving 	英 [ˈkreɪvɪŋ] 美 [ˈkrevɪŋ]
+n. 	渴望，渴求;
+v. 	渴望，热望( crave的现在分词 ); 恳求，请求;
+[例句]This can help you satisfy the craving without setting up problems later on.
+这可以帮你满足欲望，而且事后又不会惹出问题。
+[其他] 	原型： crave 复数：cravings 
+
+selfie 	
+[词典] 	自拍照（尤指那些自拍后上传到社交网站的照片）;
+[例句]My homework was too boring, so I took a selfie and posted it to tumblr.
+做作业太无趣了，所以我拍了一张自拍照、发布到了Tumblr网上。
+
+delicate 英 [ˈdelɪkət] 美 [ˈdɛlɪkɪt]
+adj. 	微妙的; 熟练的; 纤弱的; 易损的;
+[例句]He had delicate hands.
+他有一双纤细的手。
+
+dedicate 英 [ˈdedɪkeɪt] 美 [ˈdɛdɪˌket]
+vt.奉献，献身;（为表示感情或敬意将著作、乐曲、艺术作品等）题献给（某人、某事业等）(to);（在书、音乐或作品的前部）题献辞;以…供奉
