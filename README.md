@@ -701,3 +701,30 @@ adj. 	微妙的; 熟练的; 纤弱的; 易损的;
 
 dedicate 英 [ˈdedɪkeɪt] 美 [ˈdɛdɪˌket]
 vt.奉献，献身;（为表示感情或敬意将著作、乐曲、艺术作品等）题献给（某人、某事业等）(to);（在书、音乐或作品的前部）题献辞;以…供奉
+
+overhaul  英 [ˈəʊvəhɔ:l]  美 [ˈoʊvərhɔ:l]
+vt. 	彻底检查; 翻修，检修; 赶上（他船）; 解松（船的）绳索;
+n. 	大修; 检查; 彻底检修; 详细检查;
+[例句]They had ensured the plumbing was overhauled a year ago
+他们曾保证水管一年前彻底检修过。
+[其他] 	第三人称单数：overhauls 复数：overhauls 现在分词：overhauling 过去式：overhauled 过去分词：overhauled 
+
+momentum  英 [məˈmentəm] 美 [moʊˈmentəm]
+n. 	势头; 动力; [物] 动量; 要素，契机;
+[例句]This campaign is really gaining momentum
+该运动的势头越来越猛。
+[其他] 	复数：momentums 
+
+legislation  英 [ˌledʒɪsˈleɪʃn]  美 [ˌlɛdʒɪˈsleʃən]
+n. 	立法，制定法律; 法律，法规;
+[例句]The new industrial relations legislation curbed the power of the unions.
+新的劳资关系法规限制了工会的权力。
+[其他] 	复数：legislations 
+
+dragging themselves out of bed  起床
+
+fraction 	英 [ˈfrækʃn] 美 [ˈfrækʃən]
+n. 	[数] 分数; 一小部分，些微; 不相连的一块，片段; [化] 分馏;
+[例句]She hesitated for a fraction of a second before responding
+她在回答之前犹豫了一下。
+[其他] 
