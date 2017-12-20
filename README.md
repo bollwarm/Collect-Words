@@ -7,9 +7,11 @@ n. 	特许经营人;
 如果你来考核加盟商，你会用什么样的方法来考核？
 [其他] 	复数：franchisees 
 
-scrutiny 英 [?b?si:n] 美 [ɑb?sin, ?b-] 
-n. 详细审查；监视；细看；选票复查
-[ 复数 scrutinies ]
+scrutiny 英 [ˈskru:təni] 美 [ˈskrutni]
+n. 	监督; 细看，细阅; 仔细的观察;
+[例句]His private life came under media scrutiny
+他的私生活受到媒体的密切关注。
+[其他] 	复数：scrutinies 
 
 departure 英 [d?'pɑ?t??] 美 [d?'pɑrt??]
 n. 离开；出发；违背
