@@ -1,7 +1,7 @@
 # Collect-Words
 个人英文单词学习集
 
-franchisee 	英 [ˌfræntʃaɪˈzi:] 美 [ˌfræntʃaɪˈzi]
+franchisee 英 [ˌfræntʃaɪˈzi:] 美 [ˌfræntʃaɪˈzi]
 n. 	特许经营人;
 [例句]If you have to assess franchisee, you will use to assess what kind of methods?
 如果你来考核加盟商，你会用什么样的方法来考核？
@@ -16,8 +16,10 @@ n. 离开；出发；违背
 
 utterly obscene coming-of-age cartoons to original stand-up comedy.
 
-utterly 英 ['?t?li:] 美 [??t?li]
-adv.十分;全然，完全地;彻底地，绝对的;十足地
+utterly 英 ['ʌtəli:] 美 [ˈʌtəli]
+adv. 	十分; 全然，完全地; 彻底地，绝对的; 十足地;
+[例句]Everything about the country seemed utterly different from what I'd experienced before
+这个国家的一切似乎与我以前的经历完全不同。
 
 obscene 英 [?b?si:n] 美 [ɑb?sin, ?b-]
 adj. 淫秽的;   下流的;   猥亵的;   可憎的;
@@ -38,7 +40,7 @@ adv.恶名昭彰地;声名狼藉地;著名地;众所周知地
 headquarters 英 [?hed?kw?:t?z] 美 [?hedkw?:rt?rz]
 n.指挥部;司令部;（机构，企业等的）总部;总店
 
-churning 	英 ['tʃɜ:nɪŋ]  美 ['tʃɜ:nɪŋ]
+churning 英 ['tʃɜ:nɪŋ]  美 ['tʃɜ:nɪŋ]
 n. 	搅拌;
 v. 	搅拌（牛奶或乳脂）以制黄油( churn的现在分词 ); 搅动，扰乱某物; （尤指液体） 翻腾;
 [例句]Inside, he admits, his emotions may be churning, but you would never guess it.
@@ -47,33 +49,33 @@ v. 	搅拌（牛奶或乳脂）以制黄油( churn的现在分词 ); 搅动，�
 
 churning out 产出
 
-trillion 	英 [ˈtrɪljən] 美 [ˈtrɪljən]
+trillion 英 [ˈtrɪljən] 美 [ˈtrɪljən]
 n. 	万亿; 兆; [英] 百万兆; 大量;
 adj. 	万亿的;
 num. 	数万亿;
 [例句]Between July 1st and October 1st, the central bank printed over 2 trillion roubles.
 在7月1日至10月1日之间，中央银行印发了逾两万亿卢布。
 
-shelves 	英 [ʃelvz] 美 [ʃelvz]
+shelves 英 [ʃelvz] 美 [ʃelvz]
 n. 	架子; 架( shelf的名词复数 ); 棚; 沙洲; 暗礁;
 v. 	将（书等）放置在架子上( shelve的第三人称单数 ); 将…搁在一边; （陆地） 逐渐倾斜;
 [例句]I worked stocking shelves in a grocery store
 我在一家杂货店工作，负责为货架上货。
 [其他] 	原型： shelf / shelve 
 
-mast 	英 [mɑ:st] 美 [mæst]
+mast 英 [mɑ:st] 美 [mæst]
 n. 	桅杆; 栓柱; 橡树果实;   vt. 在…上装桅杆;
 [例句]He has nailed his colours firmly to Mr Dobson's mast
 他表示坚决支持多布森先生。
 [其他] 	第三人称单数：masts 复数：masts 现在分词：masting 过去式：masted 过去分词：masted 
 
-aisle 	英 [aɪl] 美 [aɪl]
+aisle 英 [aɪl] 美 [aɪl]
 n. 	过道，通道; 侧廊，耳堂; 狭长的通路;
 [例句]He started down the centre aisle.
 他从中间过道开始往前走。
 [其他] 	复数：aisles 
 
-threshold 	英 [ˈθreʃhəʊld]
+threshold 英 [ˈθreʃhəʊld]
 	美 [ˈθreʃhoʊld]
 n. 	门槛，入口，开始; [物理学] 临界值; <英>级限协定; [航空学] 跑道入口;
 adj. 	阈值的，临界值的; <英>按物价指数变动工资的，工资极限的，级限的;
@@ -85,13 +87,13 @@ kiosks 	n. 	小摊棚，售货亭( kiosk的名词复数 ); 公用电话亭;
 [例句]It is targeted not just for desktops and laptops, but also for mobile devices and kiosks.
 它不仅仅针对台式机和笔记本，还适用于移动设备和kiosk。
 
-initiative 	英 [ɪˈnɪʃətɪv] 美 [ɪˈnɪʃətɪv]
+initiative 英 [ɪˈnɪʃətɪv] 美 [ɪˈnɪʃətɪv]
 n. 	倡议; 主动性; 主动权; 主动精神;
 adj. 	自发的; 创始的; 初步的;
 [例句]Government initiatives to help young people have been inadequate
 政府在积极帮助年轻人方面做得还不够。
 
-ditch 	英 [d?t?] 美 [d?t?]
+ditch 英 [d?t?] 美 [d?t?]
 n. 	沟渠; 壕沟;
 vt. 	摆脱，抛弃; 在…上掘沟; 把…开入沟里; 使（火车）出轨;
 vi. 	使（飞机）在海上紧急降落，（在海上）迫降; 开沟;
@@ -99,25 +101,25 @@ vi. 	使（飞机）在海上紧急降落，（在海上）迫降; 开沟;
 我决定把沙发床扔了。
 [其他] 	第三人称单数：ditches 复数：ditches 现在分词：ditching 过去式：ditched 过去分词：ditched 
 
-widespread 	英 [?wa?dspred]
+widespread 英 [?wa?dspred]
 	美 [?wa?d?spr?d]
 adj. 	普遍的; 分布广的; 广泛应用; 普及的;
 [例句]There is widespread support for the new proposals
 
-autonomous 	英 [?:?t?n?m?s]
+autonomous 英 [?:?t?n?m?s]
 	美 [?:?tɑ:n?m?s]
 adj. 	自治的; 有自主权的; [生，植] 自发的;
 [例句]They proudly declared themselves part of a new autonomous province.
 他们自豪地宣布成为新自治省的一部分。
 
-unveiled 	英 [??n've?ld]
+unveiled 英 [??n've?ld]
 	美 [??n've?ld]
 v. 	揭去…的面罩( unveil的过去式和过去分词 ); 拉开…的帷幔; 使公之于众; 揭露;
 [例句]Mr Werner unveiled his new strategy this week
 沃纳先生本周公布了其新策略。
 [其他] 
 
-massacre  英 [ˈmæsəkə(r)] 美 [ˈmæsəkɚ]
+massacre 英 [ˈmæsəkə(r)] 美 [ˈmæsəkɚ]
 n. 	大屠杀，残杀; （牲畜的） 成批屠宰;
 vt. 	屠杀，残杀; 损害，毁坏; <口>彻底击败; <口>惨败;
 [例句]300 civilians are believed to have been massacred by the rebels
@@ -145,7 +147,7 @@ vt. 	<口>忍耐，忍受（常与out连用）;
 他树立了铁面生意人的名声。
 [其他] 	比较级：tougher 最高级：toughest 第三人称单数：toughs 复数：toughs 现在分词：toughing 过去式：toughed 过去分词：toughed 
 
-insured  英 [ɪnˈʃʊəd] 美 [ɪnˈʃʊrd]
+insured 英 [ɪnˈʃʊəd] 美 [ɪnˈʃʊrd]
 n. 	被保险者，保户;
 adj. 	加入保险的;
 v. 	投保; 保证（ insure的过去式和过去分词 ）; 确保; 为…保险;
@@ -167,29 +169,29 @@ throngs of the people
 outlet 英 [?a?tlet] 美 [?a?t?l?t, -l?t]
 n.出口，出路;批发商店;排水口，通风口;发泄（情感）的方法
 
-variation 	英 [ˌveəriˈeɪʃn]  美 [ˌveriˈeɪʃn]
+variation 英 [ˌveəriˈeɪʃn]  美 [ˌveriˈeɪʃn]
 n. 	变化，变动; 变异，演变; 变奏曲; 变量;
 [例句]This delicious variation on an omelette is quick and easy to prepare
 这种稍加变化的可口煎蛋卷做起来又快又容易。
 
-consortium 	英 [kənˈsɔ:tiəm] 美 [kənˈsɔ:rtiəm]
+consortium 英 [kənˈsɔ:tiəm] 美 [kənˈsɔ:rtiəm]
 n. 	财团; 组合，共同体; [法] 配偶的地位和权利; <美>大学联盟协定;
 [例句]The consortium includes some of the biggest building contractors in Britain.
 该联合企业包括英国最大的一些建筑承包商。
 
-makeup 	英 ['meɪkʌp]  美 [ˈmekˌʌp]
+makeup 英 ['meɪkʌp]  美 [ˈmekˌʌp]
 n. 	化妆; 补充; 构造; 体格;
 [例句]I was wearing a purple jumpsuit, high heeled shoes, and lots of makeup.
 我穿着紫色连衫裤和高跟鞋，脸上抹着厚厚的化妆品。
 
-carving  英 [ˈkɑ:vɪŋ]  美 [ˈkɑ:rvɪŋ]
+carving 英 [ˈkɑ:vɪŋ]  美 [ˈkɑ:rvɪŋ]
 n. 	雕刻; 雕刻品;
 v. 	雕刻( carve的现在分词); 分割;
 [例句]I found wood carving satisfying and painting fun.
 我发觉刻木雕过瘾，画油画好玩。
 [其他] 	原型： carve 复数：carvings 
 
-allure 	英 [əˈlʊə(r)] 美 [əˈlʊr]
+allure 英 [əˈlʊə(r)] 美 [əˈlʊr]
 n. 诱惑力，魅力;
 vt. 吸引; 引诱，诱惑;
 vt. 引诱，诱惑; 勾引;
@@ -197,7 +199,7 @@ vt. 引诱，诱惑; 勾引;
 这是一项的确已失去了魅力的游戏。
 [其他] 	第三人称单数：allures 现在分词：alluring 过去式：allured 过去分词：allured 
 
-arch 	英 [ɑ:t?] 美 [ɑ:rt?]
+arch 英 [ɑ:t?] 美 [ɑ:rt?]
 n.拱门; 弓形; 拱形物; 足弓，齿弓;
 vt.（使） 弯成拱形; 用拱连接; 向后弯;
 vi. 拱起; 成为弓形;
@@ -224,7 +226,7 @@ n. 	刺钢丝; <美>带刺铁丝网; 刺绳; 刺丝;
 [例句]The factory was surrounded by barbed wire.
 工厂用带刺的铁丝网围着。
 
-conduct  英 [kənˈdʌkt] 美 [kənˈdʌkt]
+conduct 英 [kənˈdʌkt] 美 [kənˈdʌkt]
 vt.  传导; 引导; 带领; 控制;
 vt.  实施; 执行; 组织; 安排;
 adj.  指挥，带领，护送;
@@ -238,13 +240,13 @@ n. 	含义; 含蓄，含意，言外之意; 卷入，牵连，牵涉，纠缠; [
 司法部长很清楚他决定起诉可能引发的政治后果。
 [其他] 	复数：implications 
 
-offence 	英 [əˈfens] 美 [əˈfɛns]
+offence 英 [əˈfens] 美 [əˈfɛns]
 n. 	犯罪，违反; 冒犯，触怒; 攻击;
 [例句]Thirteen people have been charged with treason — an offence which can carry the death penalty
 13人被控犯有叛国罪——一种可处死刑的罪行。
 [其他] 	复数：offences 
 
-appeal 	英 [??pi:l] 美 [??pil]
+appeal 英 [??pi:l] 美 [??pil]
 n. 	上诉; 呼吁; [体育] 诉请; （迫切的） 要求（帮助、同情等）恳求;
 vi. 	（迫切） 要求; 有吸引力; 求助（于）; 提请注意;
 vt. 	将…移交上级法院审理;
@@ -252,26 +254,26 @@ vt. 	将…移交上级法院审理;
 这不是为赈济饥荒的又一次募捐。
 [其他] 	第三人称单数：appeals 复数：appeals 现在分词：appealing 过去式：appealed 过去分词：appealed 
 
-ruling 	英 [?ru:l??] 美 [?rul??]
+ruling 英 [?ru:l??] 美 [?rul??]
 adj. 	统治的; 支配的; 管辖的; 流行的;
 n. 	统治; 裁定; 支配; [法] 判决;
 [例句]Goodwin tried to have the court ruling overturned
 古德温想推翻法院作出的裁决。
 [其他] 
 
-rider 	英 [?ra?d?(r)] 美 [?ra?d?]
+rider 英 [?ra?d?(r)] 美 [?ra?d?]
 n. 	骑手，骑马的人，善于骑马的人，骑师; （精密天平上的） 游（动砝）码; 附文，附加条附加条款款; 扶手;
 [例句]She is a very good and experienced rider
 她是一位经验丰富的优秀骑师。
 [其他] 
 
-lawsuit 	英 [?l?:su:t] 美 [?l??sut]
+lawsuit 英 [?l?:su:t] 美 [?l??sut]
 n. 	诉讼; 诉讼案件;
 [例句]The dispute culminated last week in a lawsuit against the government.
 上周这一纠纷达到高潮，政府被告上了法庭。
 [其他] 
 
-accuse 	英 [??kju:z] 美 [??kjuz]
+accuse 英 [??kju:z] 美 [??kjuz]
 v. 	指控; 指责，谴责;
 [例句]He was accusing my mum of having an affair with another man
 他指责我妈妈与另一个男人有染。
@@ -279,7 +281,7 @@ v. 	指控; 指责，谴责;
 
 burst their banks 决堤
 
-evacuated 	英 [?'v?kj?e?t?d] 美 [?'v?kj?e?t?d]
+evacuated 英 [?'v?kj?e?t?d] 美 [?'v?kj?e?t?d]
 adj. 	撤退者的;
 v. 	撤离，疏散( evacuate的过去式和过去分词 ); 排空（胃肠），排泄（粪便）; （从危险的地方） 撤出，搬出，撤空;
 [例句]The inhabitants were evacuated from the flooded village.
@@ -305,12 +307,12 @@ ELLE
 [例句]Elle: And, of course, he's a total psychopath.
 而且，当然了，他就是个精神病。
 
-lotion 	英 [?l???n] 美 [?lo??n]
+lotion 英 [?l???n] 美 [?lo??n]
 n. 	洗液，洗剂; 护肤液，乳液;
 [例句]The lotion moisturizes while it cleanses.
 这种乳液具有清洁和润肤的功效。
 
-perfume 	英 [?p?:fju:m]
+perfume 英 [?p?:fju:m]
 	美 [p?r?fju:m]
 n. 	香水; 香料; 香味，香气;
 vt. 	使…充满香气; 喷香水于…;
@@ -318,7 +320,7 @@ vt. 	使…充满香气; 喷香水于…;
 大厅里弥漫着她母亲身上的香水味。
 [其他] 	第三人称单数：perfumes 复数：perfumes 现在分词：perfuming 过去式：perfumed 过去分词：perfumed
 
-signature 	英 [?s?gn?t??(r)]
+signature 英 [?s?gn?t??(r)]
 	美 [?s?ɡn?t??]
 n. 	签名; 署名; 识别标志，鲜明特征; [医] 药的用法说明;
 [例句]I was writing my signature at the bottom of the page.
@@ -326,7 +328,7 @@ n. 	签名; 署名; 识别标志，鲜明特征; [医] 药的用法说明;
 [其他] 
 著名
 
-elbow 	英 [ˈelbəʊ] 美 [ˈelboʊ]
+elbow 英 [ˈelbəʊ] 美 [ˈelboʊ]
 n. 	肘部; 弯头，扶手; 肘形管，弯管;
 vt. 	用肘推挤（另一人或另一些人）; 用手肘推开;
 vi. 	用肘推搡着前进; 在拐角处转弯;
@@ -341,7 +343,7 @@ n. 	皮肤科医生; 皮肤病学家;
 
 swears by the stuff  死忠
 
-swear  英 [sweə(r)] 美 [swer]
+swear 英 [sweə(r)] 美 [swer]
 v. 	发誓; 咒骂;
 n. 	咒骂; 发誓，宣誓;
 [例句]It's wrong to swear and shout
@@ -353,7 +355,7 @@ adv. 	笃信地，虔诚地;
 [例句]She didn't stick religiously to the program
 她并没有严格遵守项目规定。
 
-unforeseen 	英 [ˌʌnfɔ:ˈsi:n] 美 [ˌʌnfɔ:rˈsi:n]
+unforeseen 英 [ˌʌnfɔ:ˈsi:n] 美 [ˌʌnfɔ:rˈsi:n]
 adj. 	未预见到的，无法预料的; 意外的，偶然的;
 [例句]Radiation may damage cells in a way that was previously unforeseen
 辐射可能以一种我们过去未能预见到的方式破坏细胞。
@@ -363,12 +365,12 @@ n. 	谈判; 协商( negotiation的名词复数 ); 完成（难事）; 通过;
 [例句]The negotiations broke down.
 谈判破裂了。
 
-asset  英 [ˈæset] 美 [ˈæsˌɛt]
+asset 英 [ˈæset] 美 [ˈæsˌɛt]
 n. 	资产，财产; 有价值的人或物; 有用的东西; 优点;
 [例句]Her leadership qualities were the greatest asset of the Conservative Party
 她的领导才能是保守党最宝贵的财富。
 
-approached 	英 [æp'rəʊeɪtʃt] 美 [æp'roʊeɪtʃt]
+approached 英 [æp'rəʊeɪtʃt] 美 [æp'roʊeɪtʃt]
 v. 	接洽; 接近，走近，靠近( approach的过去式和过去分词 ); （在性质、数量、质量、情形、时间等方面） 近似; 使移近;
 [例句]When I approached, they grew silent
 当我走近时，他们就不说话了。
@@ -377,12 +379,12 @@ pop-ups  [词典] 	弹出窗口;
 [例句]Don't let blinking icons and pop-ups disrupt your work flow.
 不要让闪烁的图标和弹出的窗口打断你的工作流程。
 
-take heart 	英 [teik hɑ:t] 美 [tek hɑrt]
+take heart 英 [teik hɑ:t] 美 [tek hɑrt]
 [词典] 	鼓起勇气，振作起来;
 [例句]I swear, I will take heart to love those who love me.
 我发誓，我会用心好好去爱那些爱我的人；
 
-bureau 	英 [ˈbjʊərəʊ] 美 [ˈbjʊroʊ]
+bureau 英 [ˈbjʊərəʊ] 美 [ˈbjʊroʊ]
 n. 	局; （提供某方面信息的） 办事处; （美国政府部门） 局; （附抽屉及活动写字台的） 书桌;
 [例句]Contact the Tourist Information Bureau for further details
 详情请洽旅游信息处。
@@ -395,7 +397,7 @@ n. 	索赔; 声称; （根据权利而提出的） 要求; 断言;
 他声称这一切都是一场针对他的阴谋。
 [其他] 	第三人称单数：claims 复数：claims 现在分词：claiming 过去式：claimed 过去分词：claimed 
 
-syrups 	英 ['sɪrəps] 美 ['sɪrəps]
+syrups 英 ['sɪrəps] 美 ['sɪrəps]
 n. 	糖浆，糖汁( syrup的名词复数 ); 糖浆类药品;
 [例句]Many individuals have used this ingredient in creating syrups and other types of food toppings and glazes.
 许多人用这种原料制作糖浆和其他类型的食品配料和釉料。
@@ -405,7 +407,7 @@ n. 	饮料;
 [例句]Alcoholic beverages are served in the hotel lounge.
 酒店的公共休息室出售酒精饮料。
 
-debut 	英 ['deɪbju:] 美 [deˈbju, ˈdeˌbju]
+debut 英 ['deɪbju:] 美 [deˈbju, ˈdeˌbju]
 n. 	初次露面，初次表演，首次出场，处女秀;
 v. 	初次表演，初次登台;
 adj. 	首张的，首场的，首次的;
@@ -413,12 +415,12 @@ adj. 	首张的，首场的，首次的;
 邓迪联队的戴夫·鲍曼首次亮相国际比赛。
 [其他] 	第三人称单数：debuts 复数：debuts 现在分词：debuting 过去式：debuted 过去分词：debuted 
 
-obesity  英 [əʊ'bi:sətɪ] 美 [oˈbisɪti]
+obesity 英 [əʊ'bi:sətɪ] 美 [oˈbisɪti]
 n. 	肥胖症; 肥胖，过胖;
 [例句]The study also demonstrated a direct link between obesity and mortality
 该研究还表明了肥胖症和死亡率之间存在直接的联系。
 
-survivor  英 [səˈvaɪvə(r)] 美 [sərˈvaɪvə(r)]
+survivor 英 [səˈvaɪvə(r)] 美 [sərˈvaɪvə(r)]
 n. 	生还者; 幸存者，残存者; 遗物，残存物; 重新正常生活的人;
 [例句]Officials said there were no survivors of the plane crash.
 官方说这次飞机失事无一人生还。
@@ -429,7 +431,7 @@ vt. 诊断; 判断; vi.  做出诊断;
 这些士兵经诊断患了流感。
 [其他] 	第三人称单数：diagnoses 现在分词：diagnosing 过去式：diagnosed 过去分词：diagnosed 
 
-reinstate 	英 [ˌri:ɪnˈsteɪt]  美 [ˌriɪnˈstet]
+reinstate 英 [ˌri:ɪnˈsteɪt]  美 [ˌriɪnˈstet]
 vt. 	使复原; 使恢复; 使恢复健康; 使复任;
 [例句]There have now been 139 executions since the death penalty was reinstated in 1976.
 自1976年恢复死刑以来共有139人被处决。
@@ -437,32 +439,32 @@ vt. 	使复原; 使恢复; 使恢复健康; 使复任;
 bring this utter joy into our lives.
 把这全然的欢乐带入我们的生活。 
 
-sabbatical 	英 [səˈbætɪkl] 美 [səˈbætɪkəl]
+sabbatical 英 [səˈbætɪkl] 美 [səˈbætɪkəl]
 adj. 	休假的，公休的;
 n. 	学术休假;
 [例句]He took a year's sabbatical from the Foreign Office
 他向外交部请了一年的假。
 [其他] 	复数
 
-intent 	英 [ɪnˈtent] 美 [ɪnˈtɛnt]
+intent 英 [ɪnˈtent] 美 [ɪnˈtɛnt]
 n. 	意图，目的; 意思，含义;
 adj. 	专心的，专注的; 意愿坚决的; 急切的; 一心想…的;
 [例句]The rebels are obviously intent on keeping up the pressure
 叛乱分子显然决心继续施压。
 [其他] 	比较级：more intent 最高级：most intent 复数：intents 
 
-regulatory 	英 [ˈregjələtəri]
+regulatory 英 [ˈregjələtəri]
 	美 [ˈregjələtɔ:ri]
 adj. 	调整的; 具有监管权的，监管的;
 [例句]This is due to regulatory and technological developments.
 这是由于监管和技术的发展。
 
-reputation  英 [ˌrepjuˈteɪʃn] 美 [ˌrɛpjəˈteʃən
+reputation 英 [ˌrepjuˈteɪʃn] 美 [ˌrɛpjəˈteʃən
 adj. 	reputation（名声，声誉）的变形;
 [例句]They must tackle a problem that can earn companies fines, criminal charges and huge reputational damage.
 他们必须解决一个问题，而这个问题可能会导致企业遭受罚款、刑事指控和巨大的名誉损害。
 
-hurdles  英 [ˈhɜ:dl] 美 [ˈhɜ:rdl]	
+hurdles 英 [ˈhɜ:dl] 美 [ˈhɜ:rdl]	
 n. 	障碍( hurdle的名词复数 ); 跳栏; （供人或马跳跃的） 栏架; 跨栏赛;
 [例句]Davis won the 400m. hurdles in a new Olympic time of 49.3 sec.
 戴维斯以49.3秒的成绩刷新奥运会纪录，在400米跨栏赛跑中一举夺冠。
@@ -473,7 +475,7 @@ n.障碍，困难;跳栏;障碍赛跑;[史]囚笼，囚车
 vi.克服困难;越过障碍;参加跨栏赛跑
 vt.跳过障碍;跳栏;用疏篱围住;克服困难
 
-premature  英 [ˈpremətʃə(r)] 美 [ˌpri:məˈtʃʊr]
+premature 英 [ˈpremətʃə(r)] 美 [ˌpri:məˈtʃʊr]
 adj.过早的;早产的;提前的;草率的
 n.早产儿
 
@@ -487,13 +489,13 @@ fractures 英 [ˈfræktʃə(r)] 美 [ˈfræktʃɚ]
 n.断裂;（指状态）骨折( fracture的名词复数 );（指事实）骨折
 v.（使）折断，破碎( fracture的第三人称单数 )
 
-stellar 	英 [ˈstelə(r)]
+stellar 英 [ˈstelə(r)]
 	美 [ˈstɛlɚ]
 adj. 	星的; 星球的; 主要的; 主角的;
 [例句]A stellar wind streams outward from the star.
 从那颗恒星上不断吹出恒星风。
 
-fantasy  英 [ˈfæntəsi]
+fantasy 英 [ˈfæntəsi]
 	美 [ˈfæntəsi, -zi]
 n. 	幻想; 空想的产物; 幻想作品; 非正式的货币;
 vt. 	幻想; 想像; 奏幻想曲;
@@ -501,7 +503,7 @@ vt. 	幻想; 想像; 奏幻想曲;
 这部影片与其说是恐怖片，不如说是带有讽刺意味的奇幻片。
 [其他] 	第三人称单数：fantasies 复数：fantasies 现在分词：fantasying 过去式：fantasied 过去分词：fantasied 
 
-amass 	英 [əˈmæs] 美 [əˈmæs]
+amass 英 [əˈmæs] 美 [əˈmæs]
 vt. 积累，积聚;
 [例句]How had he amassed his fortune?
 他是如何积累财富的呢？
@@ -509,18 +511,18 @@ vt. 积累，积聚;
 
 sexual harassment allegations 性骚扰
 
-harassment 	英 ['hærəsmənt]
+harassment 英 ['hærəsmənt]
 	美 [hə'ræsmənt]
 n. 	袭扰; 骚扰，扰乱; 折磨人的东西; 烦恼，忧虑;
 [例句]The party has accused the police of harassment.
 该党指责警方有侵扰行为。
 
-whether 	英 [ˈweðə(r)] 美 [ˈhwɛðɚ, ˈwɛð-]
+whether 英 [ˈweðə(r)] 美 [ˈhwɛðɚ, ˈwɛð-]
 pron. 	其中的哪一个; n. 	可能的选择;
 [例句]To this day, it's unclear whether he shot himself or was murdered
 至今尚不清楚他究竟是饮弹自杀还是被谋杀。
 
-dedicate 	英 [ˈdedɪkeɪt] 美 [ˈdɛdɪˌket]
+dedicate 英 [ˈdedɪkeɪt] 美 [ˈdɛdɪˌket]
 vt. 	奉献，献身; （为表示感情或敬意将著作、乐曲、艺术作品等） 题献给（某人、某事业等）(to); （在书、音乐或作品的前部） 题献辞; 以…供奉;
 [例句]Back on the island, he dedicated himself to politics
 回到岛上后，他便投身于政治。
@@ -533,51 +535,51 @@ vt. 	委派代表; 授权给; [法律] 债务转移;
 他打算把更多的权力交给副手。
 [其他] 	第三人称单数：delegates 复数：delegates 现在分词：delegating 过去式：delegated 过去分词：delegated 
 
-cartel 	英 [kɑ:ˈtel] 美 [kɑ:rˈtel]
+cartel 英 [kɑ:ˈtel] 美 [kɑ:rˈtel]
 n. 	<经>卡特尔，企业联合;
 [例句]A cartel of merchants used to fix the price but the Chinese have broken this.
 一个商人联盟过去固定价格，但中国的商人打破了这一困局。
 
-petroleum 	英 [pəˈtrəʊliəm] 美 [pəˈtroʊliəm]
+petroleum 英 [pəˈtrəʊliəm] 美 [pəˈtroʊliəm]
 n. 	石油;
 [例句]We ought to and can produce more petroleum.
 我们应该并且能够生产更多的石油。
 
-mindfulness 	英 ['maɪndfʊlnɪs] 美 ['maɪndfʊlnɪs]
+mindfulness 英 ['maɪndfʊlnɪs] 美 ['maɪndfʊlnɪs]
 n. 	注意，留神，不忘;
 [例句]Their mindfulness is indeed very touching to see.
 这实在是看了很感动。
 
-meditation 	英 [ˌmedɪˈteɪʃn] 美 [ˌmɛdɪˈteʃən]
+meditation 英 [ˌmedɪˈteɪʃn] 美 [ˌmɛdɪˈteʃən]
 n. 	冥想; 沉思; 默想; 默念;
 [例句]Many busy executives have begun to practice yoga and meditation.
 许多忙碌的主管开始练习瑜伽和冥想。
 
-efforts 	英 ['efəts] 美 ['efəts]
+efforts 英 ['efəts] 美 ['efəts]
 n. 	努力( effort的名词复数 ); 气力; 努力的结果; 努力（或艰难尝试）的成果; 项目
 [例句]Our efforts are beginning to have an actual effect.
 我们的努力开始有了实效。
 
 pattern recognition  模式识别
 
-engagement 	英 [ɪnˈgeɪdʒmənt] 美 [ɛnˈɡedʒmənt]
+engagement 英 [ɪnˈgeɪdʒmənt] 美 [ɛnˈɡedʒmənt]
 n. 	约会; 订婚，婚约; 约定，契约; 雇用;
 [例句]He had an engagement at a restaurant in Greek Street at eight.
 他8点在希腊街的一个餐厅有个约会。
 
-naughty 	英 [ˈnɔ:ti] 美 [ˈnɔti]
+naughty 英 [ˈnɔ:ti] 美 [ˈnɔti]
 adj. 	顽皮的; 淘气的; 不听话的; 下流的;
 [例句]Girls, you're being very naughty
 姑娘们，你们真是淘气。
 [其他] 	比较级：naughtier 最高级：naughtiest
 
-close-up 	英 [ˈkləʊs ʌp] 美 [ˈkloʊs]
+close-up 英 [ˈkləʊs ʌp] 美 [ˈkloʊs]
 n. 	[影视] 特写镜头; 〈美俚〉精密观察; 小传;
 [例句]The camera moved in on the hero for a close-up sequence.
 摄影机向男主角移近，准备拍摄一组特写镜头。
 [其他] 	复数：close-ups 
 
-adorable 	英 [əˈdɔ:rəbl] 美 [əˈdɔrəbəl,əˈdor-]
+adorable 英 [əˈdɔ:rəbl] 美 [əˈdɔrəbəl,əˈdor-]
 adj. 	值得崇拜的，可敬重的; 可爱的，讨人喜欢的;
 [例句]We have three adorable children.
 我们有3个可爱的孩子。
@@ -589,29 +591,29 @@ v.堵塞( block的过去式和过去分词 );阻碍;设计（电视录像的摄�
 scattered 英 [ˈskætəd] 美 [ˈskætərd]
 adj.分散的;零散的;疏落的;到处都是…的
 
-pipe dream 	英 [paip dri:m] 美 [paɪp drim]
+pipe dream 英 [paip dri:m] 美 [paɪp drim]
 n. 	白日梦，幻想;
 [例句]I would like to buy a villa in Spain when I retire, but with my limited resources it is only a pipe dream.
 我退休后想在西班牙买一栋别墅，但就我有限的财力而言，这只是一种空想。
 
-hyperloop 	英 ['haɪpəlu:p] 美 ['haɪpəlu:p]
+hyperloop 英 ['haɪpəlu:p] 美 ['haɪpəlu:p]
 n. 	超回路，超回线;
 [例句]Elon Musk just brought his Hyperloop project one step closer to reality.
 埃伦·穆斯克最近让他的Hyperloop超级高铁项目距离成为现实又近了一步。
 
-taxpayer 	英 [ˈtækspeɪə(r)] 美 [ˈtæksˌpeɚ]
+taxpayer 英 [ˈtækspeɪə(r)] 美 [ˈtæksˌpeɚ]
 n. 	纳税人，纳税的机构; 所收租金只够支付地产税的建筑物;
 [例句]The new 37th issue of National Savings Certificates is a must for any taxpayer
 新发行的第37期国家储蓄债券是任何一个纳税人的必然之选。
 
-vacuum 	英 [ˈvækjuəm]美 [ˈvækjuəm]
+vacuum 英 [ˈvækjuəm]美 [ˈvækjuəm]
 n. 	真空; 空白; 空虚; 清洁;
 v. 	用真空吸尘器清扫;
 [例句]The collapse of the army left a vacuum in the area
 这支军队的溃败使这个地区出现了军事真空。
 [其他] 	第三人称单数：vacuums 复数：vacua 现在分词：vacuuming 过去式：vacuumed 过去分词：vaccumed 
 
-elaborate 	英 [ɪˈlæbərət] 美 [ɪˈlæbəret]
+elaborate 英 [ɪˈlæbərət] 美 [ɪˈlæbəret]
 vi. 	详尽说明; 变得复杂;
 vt. 	详细制定; 详尽阐述; [生理学] 加工; 尽心竭力地做;
 adj. 	精心制作的; 精巧的; 复杂的; （结构） 复杂的;
@@ -621,7 +623,7 @@ adj. 	精心制作的; 精巧的; 复杂的; （结构） 复杂的;
 
 cargo packed 货物包装 
 
-proposal 	英 [prəˈpəʊzl] 美 [prəˈpoʊzl]
+proposal 英 [prəˈpəʊzl] 美 [prəˈpoʊzl]
 n. 	建议; 提议; 求婚; 〈美〉投标;
 [例句]The President is to put forward new proposals for resolving the country's constitutional crisis
 总统将提出解决国家宪法危机的新议案。
@@ -631,23 +633,23 @@ electromagnetic propulsion 英 [ɪˌlektrəʊmægˈnetɪk prəˈpʌlʃən] 美 [
 [例句]Design of the Trigger Used in Electromagnetic Propulsion Based on FPGA
 基于FPGA的电磁推进装置同步触发系统的优化设计
 
-fiancee  英 [fiˈɒnseɪ] 美 [ˌfi:ɑ:nˈseɪ]
+fiancee 英 [fiˈɒnseɪ] 美 [ˌfi:ɑ:nˈseɪ]
 n. 	<法>未婚妻;
 [例句]He was also a writer of beautiful stories, some of which are collaborations with his fiancee.
 他还写了一些美妙的故事，其中有些是和他的未婚妻合著的。
 
-meditation 	英 [ˌmedɪˈteɪʃn] 美 [ˌmɛdɪˈteʃən]
+meditation 英 [ˌmedɪˈteɪʃn] 美 [ˌmɛdɪˈteʃən]
 n. 	冥想; 沉思; 默想; 默念;
 [例句]Many busy executives have begun to practice yoga and meditation.
 许多忙碌的主管开始练习瑜伽和冥想。
 [其他] 
 
-philanthropist  英 [fɪˈlænθrəpɪst] 美 [fəˈlænθrəpɪst]
+philanthropist 英 [fɪˈlænθrəpɪst] 美 [fəˈlænθrəpɪst]
 n. 	慈善家;
 [例句]Indeed, he is a philanthropist, he has had to.
 的确，他作为一个慈善家，他已经尽力了。
 
-refer to  英 [riˈfə: tu:]  美 [rɪˈfɚ tu]
+refer to 英 [riˈfə: tu:]  美 [rɪˈfɚ tu]
 [词典] 	参考; 指的是; 涉及; 适用于;
 [例句]I mention this point now in passing and shall refer to it again.
 这一点现在顺便提一下，以后还会讲到。
@@ -666,12 +668,12 @@ n. 	收购; 获得; 购置物; 获得物;
 那么你是怎么买到这一绝品的？
 [其他] 	复数：acquisitions 
 
-munchies  英 [ˈmʌntʃɪz] 美 [ˈmʌntʃiz]
+munchies 英 [ˈmʌntʃɪz] 美 [ˈmʌntʃiz]
 n. 	<口>饥饿感，吃点心欲； 快餐，小吃;
 [例句]We got the munchies, so we decided we'd go to hot dog heaven.
 我们饿了，所以我们决定去热狗的天堂。
 
-marijuana 	英 [ˌmærəˈwɑ:nə] 美 [ˌmærəˈwɑːnə]
+marijuana 英 [ˌmærəˈwɑ:nə] 美 [ˌmærəˈwɑːnə]
 n. 	大麻，大麻毒品; 野生烟草;
 [例句]In this section we will describe common myths about cigarettes, alcohol, and marijuana
 在这一节，我们将说明有关烟、酒和大麻的常见谬论。
@@ -682,7 +684,7 @@ vi. 	吃快餐;
 [例句]Lunch was a snack in the fields.
 午饭是在野外吃的便餐。
 
-craving 	英 [ˈkreɪvɪŋ] 美 [ˈkrevɪŋ]
+craving 英 [ˈkreɪvɪŋ] 美 [ˈkrevɪŋ]
 n. 	渴望，渴求;
 v. 	渴望，热望( crave的现在分词 ); 恳求，请求;
 [例句]This can help you satisfy the craving without setting up problems later on.
@@ -702,20 +704,20 @@ adj. 	微妙的; 熟练的; 纤弱的; 易损的;
 dedicate 英 [ˈdedɪkeɪt] 美 [ˈdɛdɪˌket]
 vt.奉献，献身;（为表示感情或敬意将著作、乐曲、艺术作品等）题献给（某人、某事业等）(to);（在书、音乐或作品的前部）题献辞;以…供奉
 
-overhaul  英 [ˈəʊvəhɔ:l]  美 [ˈoʊvərhɔ:l]
+overhaul 英 [ˈəʊvəhɔ:l]  美 [ˈoʊvərhɔ:l]
 vt. 	彻底检查; 翻修，检修; 赶上（他船）; 解松（船的）绳索;
 n. 	大修; 检查; 彻底检修; 详细检查;
 [例句]They had ensured the plumbing was overhauled a year ago
 他们曾保证水管一年前彻底检修过。
 [其他] 	第三人称单数：overhauls 复数：overhauls 现在分词：overhauling 过去式：overhauled 过去分词：overhauled 
 
-momentum  英 [məˈmentəm] 美 [moʊˈmentəm]
+momentum 英 [məˈmentəm] 美 [moʊˈmentəm]
 n. 	势头; 动力; [物] 动量; 要素，契机;
 [例句]This campaign is really gaining momentum
 该运动的势头越来越猛。
 [其他] 	复数：momentums 
 
-legislation  英 [ˌledʒɪsˈleɪʃn]  美 [ˌlɛdʒɪˈsleʃən]
+legislation 英 [ˌledʒɪsˈleɪʃn]  美 [ˌlɛdʒɪˈsleʃən]
 n. 	立法，制定法律; 法律，法规;
 [例句]The new industrial relations legislation curbed the power of the unions.
 新的劳资关系法规限制了工会的权力。
@@ -723,12 +725,12 @@ n. 	立法，制定法律; 法律，法规;
 
 dragging themselves out of bed  起床
 
-fraction 	英 [ˈfrækʃn] 美 [ˈfrækʃən]
+fraction 英 [ˈfrækʃn] 美 [ˈfrækʃən]
 n. 	[数] 分数; 一小部分，些微; 不相连的一块，片段; [化] 分馏;
 [例句]She hesitated for a fraction of a second before responding
 她在回答之前犹豫了一下。
 
-acquisition 	英 [ˌækwɪˈzɪʃn] 美 [ˌækwɪˈzɪʃən]
+acquisition 英 [ˌækwɪˈzɪʃn] 美 [ˌækwɪˈzɪʃən]
 n. 	收购; 获得; 购置物; 获得物;
 [例句]How did you go about making this marvellous acquisition then?
 那么你是怎么买到这一绝品的？
@@ -747,7 +749,7 @@ vt. 	在…旅行或旅行到过…;
 从巴黎有快车前往波尔多，全程不到4个小时。
 [其他] 	第三人称单数：journeys 复数：journeys 现在分词：journeying 过去式：journeyed 过去分词：journeyed 
 
-lunar rover 	英 [ˈlju:nə ˈrəuvə] 美 [ˈlunɚ ˈrovɚ]
+lunar rover 英 [ˈlju:nə ˈrəuvə] 美 [ˈlunɚ ˈrovɚ]
 [词典] 	月球车;
 [例句]This paper is focus on localization and path planning for lunar rover based on stereo vision.
 因此本文围绕着基于立体视觉传感器的月球车在定位和路径规划两个方面进行了研究。
@@ -795,7 +797,7 @@ vt. 	给…服麻醉剂; 使昏昏沉沉; 给…用兴奋剂; 在…中加入麻
 一名男子问他们想不想买些毒品。
 [其他] 	第三人称单数：dopes 复数：dopes 现在分词：doping 过去式：doped 过去分词：doped 
 
-athlete  英 [ˈæθli:t] 美 [ˈæθˌlit]
+athlete 英 [ˈæθli:t] 美 [ˈæθˌlit]
 n. 	运动员; 体育家; 强壮的人;
 [例句]Daley Thompson was a great athlete.
 戴利·汤普森是位著名的运动员。
