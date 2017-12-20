@@ -21,8 +21,11 @@ adv. 	十分; 全然，完全地; 彻底地，绝对的; 十足地;
 [例句]Everything about the country seemed utterly different from what I'd experienced before
 这个国家的一切似乎与我以前的经历完全不同。
 
-obscene 英 [?b?si:n] 美 [ɑb?sin, ?b-]
-adj. 淫秽的;   下流的;   猥亵的;   可憎的;
+obscene 英 [əbˈsi:n] 美 [ɑbˈsin, əb-]
+adj. 	淫秽的; 猥亵的; 下流的; 可憎的;
+[例句]I'm not prudish but I think these photographs are obscene
+我并不是个守旧的人，但是我认为这些照片不堪入目。
+[其他] 	比较级：more obscene 最高级：most obscene 
 
 coming-of-age 英 ['k?m??'?v'e?d?] 美 ['k?m??'?v'e?d?]
 n.成年，成熟 
