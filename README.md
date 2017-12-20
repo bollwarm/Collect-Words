@@ -727,4 +727,83 @@ fraction 	英 [ˈfrækʃn] 美 [ˈfrækʃən]
 n. 	[数] 分数; 一小部分，些微; 不相连的一块，片段; [化] 分馏;
 [例句]She hesitated for a fraction of a second before responding
 她在回答之前犹豫了一下。
-[其他] 
+
+acquisition 	英 [ˌækwɪˈzɪʃn] 美 [ˌækwɪˈzɪʃən]
+n. 	收购; 获得; 购置物; 获得物;
+[例句]How did you go about making this marvellous acquisition then?
+那么你是怎么买到这一绝品的？
+
+pharmacy 英 [ˈfɑ:məsi]  美 [ˈfɑ:rməsi]
+n. 	药房; 配药学，药学; 制药业; 一批备用药品;
+[例句]Make sure you understand exactly how to take your medicines before you leave the pharmacy.
+在离开药房之前，一定要弄明白自己的药该怎么吃。
+[其他] 	复数：pharmacies 
+
+journey 英 [ˈdʒɜ:ni] 美 [ˈdʒɜ:rni]
+n. 	旅行，旅程行期; 历程，过程;
+vi. 	旅行，出游;
+vt. 	在…旅行或旅行到过…;
+[例句]There is an express service from Paris which completes the journey to Bordeaux in under 4 hours.
+从巴黎有快车前往波尔多，全程不到4个小时。
+[其他] 	第三人称单数：journeys 复数：journeys 现在分词：journeying 过去式：journeyed 过去分词：journeyed 
+
+lunar rover 	英 [ˈlju:nə ˈrəuvə] 美 [ˈlunɚ ˈrovɚ]
+[词典] 	月球车;
+[例句]This paper is focus on localization and path planning for lunar rover based on stereo vision.
+因此本文围绕着基于立体视觉传感器的月球车在定位和路径规划两个方面进行了研究。
+
+rover 英 [ˈrəʊvə(r)] 美 [ˈroʊvə(r)]
+n. 	流浪者，漫游者;
+[例句]I ran a 1960 Rover 100 from 1977 until 1983.
+我从1977年到1983年一直开着一辆1960年产的罗孚100。
+
+penguin 英 [ˈpeŋgwɪn] 美 [ˈpɛŋɡwɪn, ˈpɛn-]
+n. 	企鹅;
+[例句]Now he's gone with the penguin.
+现在他带着企鹅跑了。
+[其他] 	复数：penguins 
+
+extinction 英 [ɪkˈstɪŋkʃn] 美 [ɪkˈstɪŋkʃən]
+n. 	熄灭; 消灭，灭绝; 废除; [物] 消光，自屏，衰减;
+[例句]An operation is beginning to try to save a species of crocodile from extinction
+一项努力拯救一个鳄鱼物种、使其免于灭绝的行动已经开始。
+
+dinosaur 英 [ˈdaɪnəsɔ:(r)] 美 [ˈdaɪnəˌsɔr]
+n. 	[生] 恐龙; 守旧落伍的人，过时落后的东西;
+[例句]The dinosaur became extinct before the appearance of man.
+恐龙在人类出现以前就灭绝了。
+[其他] 	复数：dinosaurs 
+
+diagnosis 英 [ˌdaɪəgˈnəʊsɪs] 美 [ˌdaɪəgˈnoʊsɪs]
+n. 	诊断; 诊断结论; 判断; 结论;
+[例句]I need to have a second test to confirm the diagnosis
+我需要再进行一次检查以确诊。
+[其他] 	复数：diagnoses 
+
+gigantic 英 [dʒaɪˈgæntɪk] 美 [dʒaɪˈɡæntɪk]
+adj. 	巨大的，庞大的; 巨人似的; 硕大无比; 排山倒海;
+[例句]A gigantic task of national reconstruction awaits us.
+重建国家的艰巨任务等待着我们去完成。
+
+Anti-doping 	
+adj. 	反兴奋剂的
+
+dope 英 [dəʊp] 美 [doʊp]
+n. 	兴奋剂; 笨蛋; 麻醉剂; 内幕消息;
+vt. 	给…服麻醉剂; 使昏昏沉沉; 给…用兴奋剂; 在…中加入麻醉剂;
+[例句]A man asked them if they wanted to buy some dope
+一名男子问他们想不想买些毒品。
+[其他] 	第三人称单数：dopes 复数：dopes 现在分词：doping 过去式：doped 过去分词：doped 
+
+athlete  英 [ˈæθli:t] 美 [ˈæθˌlit]
+n. 	运动员; 体育家; 强壮的人;
+[例句]Daley Thompson was a great athlete.
+戴利·汤普森是位著名的运动员。
+[其他] 	复数：athletes 
+
+boycott 英 [ˈbɔɪkɒt] 美 [ˈbɔɪkɑ:t]
+vt. 	联合抵制; 抵制（货物等）; 拒绝参加;
+n. 	联合抵制; 联合拒绝购买; 拒绝参加;
+[例句]The main opposition parties are boycotting the elections.
+主要反对党都抵制此次选举。
+[其他] 	第三人称单数：boycotts 复数：boycotts 现在分词：boycotting 过去式：boycotted 过去分词：boycotted 
