@@ -13,8 +13,10 @@ n. 	监督; 细看，细阅; 仔细的观察;
 他的私生活受到媒体的密切关注。
 [其他] 	复数：scrutinies 
 
-departure 英 [d?'pɑ?t??] 美 [d?'pɑrt??]
-n. 离开；出发；违背
+departure 英 [dɪˈpɑ:tʃə(r)] 美 [dɪˈpɑ:rtʃə(r)]
+n. 	背离; 离开，离去; 起程; 东西距离;
+[例句]They hoped this would lead to the departure of all foreign forces from the country
+他们希望这将驱使所有外国部队撤离该国。
 
 utterly obscene coming-of-age cartoons to original stand-up comedy.
 
