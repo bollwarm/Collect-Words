@@ -816,3 +816,68 @@ n. 	联合抵制; 联合拒绝购买; 拒绝参加;
 [例句]The main opposition parties are boycotting the elections.
 主要反对党都抵制此次选举。
 [其他] 	第三人称单数：boycotts 复数：boycotts 现在分词：boycotting 过去式：boycotted 过去分词：boycotted 
+
+stash 英 [stæʃ] 美 [stæʃ]
+n. 	隐（贮）藏物; （旧） 藏身处;
+v. 	贮藏; 隐藏，藏匿; 〈英〉停止;
+[例句]We went for the bottle of whiskey that we had stashed behind the bookcase
+我们去拿那瓶藏在书架后面的威士忌。
+[其他] 	第三人称单数：stashes 复数：stashes 现在分词：stashing 过去式：stashed 过去分词：stashed 
+
+cosmetic 英 [kɒzˈmetɪk] 美 [kɑ:zˈmetɪk]
+n. 	化妆品; 美发油，发蜡; 装饰品; 美容术;
+adj. 	美容的; 化妆用的; 装点门面的; 表面的;
+[例句]It is a cosmetic measure which will do nothing to help the situation long term
+这项举措只是表面文章，长期来看对于改善情况不会有任何帮助。
+[其他] 	复数：cosmetics 
+
+be in for a treat 英 [bi: in fɔ: ə tri:t] 美 [bi ɪn fɔr e trit]
+[词典] 	某人会喜欢的;
+
+deal 英 [di:l] 美 [dil]
+vt. 	[牌戏] 分; 分配; 经营; 施予;
+n. 	（一笔） 交易; 许多; 待遇; 发牌;
+vi. 	交易; 论述; （有效地或成功地） 处理; 惩处;
+[例句]I am in a position to save you a good deal of time.
+我能够为你节省许多时间。
+
+ambitious 英 [æmˈbɪʃəs] 美 [æmˈbɪʃəs]
+adj. 	有雄心的; 有野心的; 费力的; 耗资的;
+[例句]Chris is so ambitious, so determined to do it all
+克里斯踌躇满志，决心要将它都做完。
+[其他] 	比较级：more ambitious 最高级：most ambitious 
+
+renovation 	英 [ˌrenə'veɪʃn] 美 [ˌrenə'veɪʃn]
+n. 	翻新; 整修; 修复; 恢复活力;
+[例句]Mass movements are often a factor in the awakening and renovation of stagnant societies.
+群众性运动经常是能唤醒和振兴停滞不前的社会的一个因素。
+[其他] 	复数：renovations 
+
+flagship 英 [ˈflægʃɪp] 美 [ˈflæɡˌʃɪp]
+n. 	旗舰; 〈比喻〉最重要的一个; 佼佼者;
+[例句]The hospital has been the government's flagship, leading the health service reforms
+这家医院一直是政府的旗舰机构，引领着医疗服务的改革。
+[其他] 	复数：flagships 
+
+approximatel 英 [əˈprɒksɪmətli] 美 [əˈprɑ:ksɪmətli]
+adv. 	近似地，大约; 许;
+[例句]In the course of the 1930s steel production in Britain approximately doubled
+在20世纪30年代，英国的钢铁产量几乎翻了一番。
+
+cheetah  英 [ˈtʃi:tə] 美 [ˈtʃitə]
+n. 	<动>（奔跑极快的）非洲猎豹;
+[例句]The cheetah can attain speeds of up to97 kph.
+猎豹的奔跑速度每小时可达97公里。
+[其他] 	复数：cheetahs 
+
+vulnerable 英 [ˈvʌlnərəbl] 美 [ˈvʌlnərəbəl]
+adj. （地方） 易受攻击的; 易受伤的; 易受批评的; [桥牌] 已成局的;
+[例句]Old people are particularly vulnerable members of our society.
+老年人是社会中尤为明显的弱势群体。
+
+endangered 英 [ɪn'deɪndʒəd] 美 [ɪnˈdendʒɚd]
+adj. 	快要绝种的; 濒危的
+v. 	危及，使遭受危险( endanger的过去式和过去分词 );
+[例句]Poison gas blew off and endangered the lives of hundreds of persons.
+毒气喷出来，危及了几百人的生命。
+[其他] 	原型： endanger 
