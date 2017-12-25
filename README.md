@@ -881,3 +881,44 @@ v. 	危及，使遭受危险( endanger的过去式和过去分词 );
 [例句]Poison gas blew off and endangered the lives of hundreds of persons.
 毒气喷出来，危及了几百人的生命。
 [其他] 	原型： endanger 
+
+nugget 英 [ˈnʌgɪt] 美 [ˈnʌɡɪt]
+n. 	（天然） 块金，块;
+[例句]He had felt on the telephone that Jordan had a little nugget of information tucked away somewhere.
+他已从电话里感到乔丹掖着点儿什么有价值的情报。
+[其他] 	复数：nuggets 
+
+furious 英 [ˈfjʊəriəs] 美 [ˈfjʊriəs]
+adj. 	激烈的; 狂怒的，暴怒的; 热烈兴奋的; 喧闹的;
+[例句]He is furious at the way his wife has been treated
+妻子受到的待遇让他感到异常愤怒。
+[其他] 	比较级：more furious 最高级：most furious 
+
+amass 英 [əˈmæs] 美 [əˈmæs]
+vt. 积累，积聚;
+[例句]How had he amassed his fortune?
+他是如何积累财富的呢？
+[其他] 	第三人称单数：amasses 现在分词：amassing 过去式：amassed 过去分词：amassed 
+
+sue 英 [su:] 美 [su]
+vt. 起诉; 控告，控诉，和…打官司; 请求; 提起（诉讼）要求判决;
+[例句]The company could be sued for damages
+该公司可能会被起诉，要求其赔偿损失。
+[其他] 	第三人称单数：sues 现在分词：suing 过去式：sued 过去分词：sued 
+
+lawsuit 英 [ˈlɔ:su:t] 美 [ˈlɔˌsut]
+n. 	诉讼; 诉讼案件;
+[例句]The dispute culminated last week in a lawsuit against the government.
+上周这一纠纷达到高潮，政府被告上了法庭。
+[其他] 	复数：lawsuits 
+
+violate 英 [ˈvaɪəleɪt] 美 [ˈvaɪəˌlet]
+vt.  违反; 侵犯; 妨碍; 亵渎，强奸;
+[例句]They went to prison because they violated the law
+他们触犯了法律，因此坐了牢。
+[其他] 	第三人称单数：violates 现在分词：violating 过去式：violated 过去分词：violated
+
+notification 英 [ˌnəʊtɪfɪˈkeɪʃn] 美 [ˌnoʊtɪfɪˈkeɪʃn]
+n. 	通知; 通知单; 布告; 公布;
+[例句]Names of the dead and injured are being withheld pending notification of relatives
+在正式通知亲属前，伤亡人员名单暂时保密。
