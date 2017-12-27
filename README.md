@@ -922,3 +922,30 @@ notification 英 [ˌnəʊtɪfɪˈkeɪʃn] 美 [ˌnoʊtɪfɪˈkeɪʃn]
 n. 	通知; 通知单; 布告; 公布;
 [例句]Names of the dead and injured are being withheld pending notification of relatives
 在正式通知亲属前，伤亡人员名单暂时保密。
+
+intermittent 英 [ˌɪntəˈmɪtənt] 美 [ˌɪntərˈmɪtənt]
+adj. 	间歇性; 间歇的; ，断断续续的;
+[例句]After three hours of intermittent rain, the game was abandoned.
+3个小时断断续续的降雨之后，比赛取消了。
+
+starve 英 [stɑ:v] 美 [stɑ:rv]
+vi. 挨饿; [非正式用语] 饥饿; 受饿; [古语] 冻死;
+vt. 饿死; 使挨饿;
+[例句]A number of the prisoners we saw are starving
+我们看到的一些囚犯快要饿死了。
+[其他] 	第三人称单数：starves 现在分词：starving 过去式：starved 过去分词：starved 
+
+prosperous 英 [ˈprɒspərəs] 美 [ˈprɑ:spərəs]
+adj.  富裕的; 繁荣的，兴旺的; 幸福的，运气好的; 良好的;
+[例句]The place looks more prosperous than ever.
+这地方显得空前繁荣。
+
+conglomerate 英 [kənˈglɒmərət] 美 [kənˈglɑ:mərət]
+n. 	砾岩; 联合大企业; 合成物; 组合物;
+adj. 成团的; 砾岩性的;
+vt.  使聚结; 使成团;
+[例句]Fiat is Italy's largest industrial conglomerate.
+菲亚特是意大利最大的产业集团。
+[其他] 	复数：conglomerates 
+
+
