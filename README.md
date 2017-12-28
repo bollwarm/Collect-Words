@@ -948,4 +948,42 @@ vt.  使聚结; 使成团;
 菲亚特是意大利最大的产业集团。
 [其他] 	复数：conglomerates 
 
+messy 英 [ˈmesi] 美 [ˈmɛsi]
+adj.  凌乱的，散乱的; 肮脏的，污秽的; 复杂的，麻烦的，难以应付的;
+[例句]She was a good, if messy, cook 尽管不爱干净，她还是个好厨子。
+[其他] 	比较级：messier 最高级：messiest 
+
+qualify  英 [ˈkwɒlɪfaɪ] 美 [ˈkwɑ:lɪfaɪ]
+vt.  （使） 具有资格; 有权; 达标;
+vt.  限定，修饰; 描述，形容; 使合适; 证明…合格;
+vi.  合格或成为合格; 取得…的资格;
+[例句]But when I'd qualified and started teaching it was a different story
+可是等我获得资格开始教书的时候，却是另一番情形了。
+[其他] 	第三人称单数：qualifies 现在分词：qualifying 过去式：qualified 过去分词：qualified 
+
+in a tough spot 处境艰难。
+
+criteria 英 [kraɪ'tɪərɪə] 美 [kraɪˈtɪrɪə]
+n. （批评、判断等的） 标准，准则( criterion的名词复数 ); (criterion的复数) ;
+[例句]Each hotel is inspected and, if it fulfils certain criteria, is recommended.
+会对每家旅馆都进行检查，如果它达到了一定的标准，就获得推荐。
+[其他] 	原型： criterion  
+
+fatigue 英 [fəˈti:g] 美 [fəˈtiɡ]
+n. 	疲劳，疲乏; 劳务杂役; （士兵穿的） 工作服;
+vt. 使疲劳; 使疲乏; vi.  疲劳;
+[例句]She continued to have severe stomach cramps, aches, fatigue, and depression
+她仍然患有严重的胃痉挛，感觉疼痛、疲乏、抑郁。
+[其他] 	第三人称单数：fatigues 复数：fatigues 现在分词：fatiguing 过去式：fatigued 过去分词：fatigued 
+
+lack of concentration  注意力不集中; 不专心; 教师说他缺乏集中力;
+[例句]But normal sadness can also be accompanied by sleeplessness, lack of concentration and changed appetite.
+但正常的悲伤也会伴有失眠、注意力不集中和食欲改变。
+
+concentration 英 [ˌkɒnsnˈtreɪʃn] 美 [ˌkɑ:nsnˈtreɪʃn]
+n. 	浓度; 集中; 专心; 关注;
+[例句]Neal kept interrupting, breaking my concentration
+尼尔不停地打断我，使得我无法集中注意力。
+
+
 
