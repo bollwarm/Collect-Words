@@ -985,5 +985,34 @@ n. 	浓度; 集中; 专心; 关注;
 [例句]Neal kept interrupting, breaking my concentration
 尼尔不停地打断我，使得我无法集中注意力。
 
+coerce 英 [kəʊˈɜ:s] 美 [koʊˈɜ:rs]
+vt. 逼迫; 威胁; 强迫，强制; 控制，限制;
+[例句]Potter had argued that the government coerced him into pleading guilty
+波特辩称是政府强迫他认罪的。
+[其他] 	第三人称单数：coerces 现在分词：coercing 过去式：coerced 过去分词：coerced 
 
+settlement 英 [ˈsetlmənt] 美 [ˈsɛtlmənt]
+n.  结算; 解决; 定居点; <律>金钱或财产的转让（契约）; 沉淀;
+[例句]Our objective must be to secure a peace settlement
+我们一定要达成和平协议。
+[其他] 	复数：settlements 
 
+penalty 英 [ˈpenəlti] 美 [ˈpɛnəlti]
+n. 	刑罚; 惩罚; 害处; 足球点球;
+[例句]One of those arrested could face the death penalty
+被捕的那些人中有一人可能被判死刑。
+[其他] 	复数：penalties 
+
+pitch 英 [pɪtʃ] 美 [pɪtʃ]
+n. 	音高; 场地; 最高点; 说教;推销
+vt. 	用沥青涂; 扔，投; 树起，搭起; 定位于;
+vi. 	抛，扔; [棒球] 当投手; 搭帐篷; 向前跌或冲;
+[例句]There was a swimming-pool, cricket pitches, playing fields
+有一个游泳池、几个板球场和运动场。
+[其他] 	第三人称单数：pitches 复数：pitches 现在分词：pitching 过去式：pitched 过去分词：pitched 
+
+jersey 英 [ˈdʒɜ:zi] 美 [ˈdʒɜ:rzi]
+n. 	泽西岛; 毛织运动衫，毛线衫; 泽西种乳牛;球衣
+[例句]His grey jersey and trousers were sodden with the rain.
+他的灰色针织毛衫和长裤全都被雨水淋透了。
+[其他] 	复数：jerseys 
