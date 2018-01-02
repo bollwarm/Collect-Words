@@ -1016,3 +1016,16 @@ n. 	泽西岛; 毛织运动衫，毛线衫; 泽西种乳牛;球衣
 [例句]His grey jersey and trousers were sodden with the rain.
 他的灰色针织毛衫和长裤全都被雨水淋透了。
 [其他] 	复数：jerseys 
+
+spike 	英 [spaɪk] 美 [spaɪk]
+n. 	长钉; 细高跟; （防滑） 鞋钉; 尖状物;
+vt. 	加烈酒于; 以大钉钉牢; 用尖物刺伤; 打乱某人的计划;
+[例句]Yellowing receipts had been impaled on a metal spike.
+发黄的收据被穿在一根金属扦上。
+[其他] 	第三人称单数：spikes 复数：spikes 现在分词：spiking 过去式：spiked 过去分词：spiked 
+
+upbeat 	英 [ˈʌpbi:t] 美 [ˈʌpˌbit]
+adj. 积极乐观的; 愉快的，高兴的;
+n. 	上升; 弱拍; 兴旺;
+[例句]The Defense Secretary gave an upbeat assessment of the war so far
+国防部长对目前的战事给予了乐观的评价。
