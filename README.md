@@ -1029,3 +1029,40 @@ adj. 积极乐观的; 愉快的，高兴的;
 n. 	上升; 弱拍; 兴旺;
 [例句]The Defense Secretary gave an upbeat assessment of the war so far
 国防部长对目前的战事给予了乐观的评价。
+
+stun 英 [stʌn] 美 [stʌn]
+vt. 击晕，使昏厥; 使震聋; 使目瞪口呆; 使大吃一惊;
+n. 	打击，刺激;
+[例句]Many cinema-goers were stunned by the film's violent and tragic end.
+许多来看电影的人都被这部影片暴力而悲惨的结局所震惊。
+[其他] 	第三人称单数：stuns 现在分词：stunning 过去式：stunned 过去分词：stunned 
+
+stunning 英 [ˈstʌnɪŋ] 美 [ˈstʌnɪŋ]
+adj. 令人震惊的; 令人晕倒（吃惊）的，震耳欲聋的; 极好的，出色的;
+v. 	击晕(stun的现在分词);
+[例句]The minister resigned last night after a stunning defeat in Sunday's vote
+在周日的选举中意外惨败后，部长于昨晚辞职。
+
+engagement 英 [ɪnˈgeɪdʒmənt] 美 [ɛnˈɡedʒmənt]
+n. 	约会; 订婚，婚约; 约定，契约; 雇用;
+[例句]He had an engagement at a restaurant in Greek Street at eight.
+他8点在希腊街的一个餐厅有个约会。
+[其他] 	复数：engagements 
+
+portrait 英 [ˈpɔ:treɪt] 美 [ˈpɔ:rtrət]
+n. 	肖像，肖像画; 模型，标本; 半身雕塑像; 人物描写;
+[例句]Lucian Freud has been asked to paint a portrait of the Queen.
+卢西恩·弗洛伊德已受邀为女王画肖像画。
+[其他] 	复数：portraits 
+
+jurisdiction 英 [ˌdʒʊərɪsˈdɪkʃn] 美 [ˌdʒʊrɪsˈdɪkʃn]
+n. 	管辖权; 管辖范围; 权限; 司法权;
+[例句]The British police have no jurisdiction over foreign bank accounts.
+外国银行账户不在英国警方的管辖权限之内。
+[其他] 	复数：jurisdictions 
+
+assert 英 [əˈsɜ:t] 美 [əˈsɜ:rt]
+vt. 声称，断言; 维护，坚持; 坚持自己的主张; 生效;
+[例句]Mr. Helm plans to assert that the bill violates the First Amendment
+赫尔姆先生打算声明该法案违反了宪法第一修正案。
+[其他] 	第三人称单数：asserts 现在分词：asserting 过去式：asserted 过去分词：asserted 
