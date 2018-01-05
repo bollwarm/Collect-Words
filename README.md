@@ -1066,3 +1066,38 @@ vt. 声称，断言; 维护，坚持; 坚持自己的主张; 生效;
 [例句]Mr. Helm plans to assert that the bill violates the First Amendment
 赫尔姆先生打算声明该法案违反了宪法第一修正案。
 [其他] 	第三人称单数：asserts 现在分词：asserting 过去式：asserted 过去分词：asserted 
+
+almond 	英 [ˈɑ:mənd] 美 [ˈɑmənd]
+n. 杏树; 杏仁色; 杏仁状的东西; 扁桃仁;
+adj. 杏仁制的; 杏仁味的; 杏仁状（或色）的;
+[例句]On the left was a plantation of almond trees.
+左边是一个杏树园。
+[其他] 	复数：almonds 
+
+cholesterol 英 [kəˈlestərɒl] 美 [kəˈlestərɔ:l]
+n. 	胆固醇;
+[例句]See just how much fat and cholesterol you're eating
+看看你究竟摄入了多少脂肪和胆固醇。
+
+falcon 英 [ˈfɔ:lkən] 美 [ˈfælkən]
+n. 	猎鹰;
+[例句]The shooting of The Maltese Falcon proceeded without a hitch.
+《马耳他之鹰》的拍摄进展顺利。
+
+cargo capsule 货物胶囊 
+
+inaugural 英 [ɪˈnɔ:gjərəl] 美 [ɪnˈɔɡjərəl]
+adj. 就职的，就任的; 创始的，最早的;
+n. 就职演说; 就职典礼;
+[例句]In his inaugural address, the President appealed for unity.
+总统在他的就职演说中呼吁国家统一。
+
+relief 英 [rɪˈli:f] 美 [rɪˈlif]
+n.宽慰，安心;免除，减轻;救援物资;代班人
+
+pitcher 英 [ˈpɪtʃə(r)] 美 [ˈpɪtʃɚ]
+n.大水罐;投掷的人
+
+revamp 英 [ˌri:ˈvæmp] 美 [riˈvæmp]
+vt.将（某物）更新，翻新;修补，修改;修理
+n.改进;换新鞋面
