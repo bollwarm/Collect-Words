@@ -1101,3 +1101,17 @@ n.大水罐;投掷的人
 revamp 英 [ˌri:ˈvæmp] 美 [riˈvæmp]
 vt.将（某物）更新，翻新;修补，修改;修理
 n.改进;换新鞋面
+
+spinal cord 英 [ˈspaɪnəl kɔ:d] 美 [ˈspaɪnəl kɔrd]
+n. 	脊髓;
+[例句]The chakras are attached to the spinal cord and nervous system via certain glands and nerve ganglia.
+脉轮通过某些腺体和神经中枢与脊髓和神经系统相连。
+
+asymmetrical 英 [ˌeɪsɪ'metrɪkl] 美 [ˌeɪsɪ'metrɪkl]
+adj. 	不均匀的，不对称的; 非对等;
+[例句]The two parts are asymmetrical. 两部分不对称。
+
+cortex 	英 [ˈkɔ:teks] 美 [ˈkɔ:rteks]
+n. 	皮质; 树皮; 果皮;
+[例句]Most significantly of all, it shrinks the volume of the prefrontal cortex and the hippocampus.
+最为的是，它缩小了前额叶皮质和海马体的体积。
