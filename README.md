@@ -1115,3 +1115,56 @@ cortex 	英 [ˈkɔ:teks] 美 [ˈkɔ:rteks]
 n. 	皮质; 树皮; 果皮;
 [例句]Most significantly of all, it shrinks the volume of the prefrontal cortex and the hippocampus.
 最为的是，它缩小了前额叶皮质和海马体的体积。
+
+feline 	英 [ˈfi:laɪn] 美 [ˈfiˌlaɪn]
+adj. 猫（科）的; n.  猫科动物;
+[例句]The 14lb feline is so fat she can hardly walk.
+这只14磅的猫这么胖，几乎连路都走不动了。
+
+habitat 英 [ˈhæbɪtæt] 美 [ˈhæbɪˌtæt]
+n. 	产地; （动物的） 栖息地，住处; 经常发现某种事物的地方;
+[例句]Few countries have as rich a diversity of habitat as South Africa.
+几乎没有哪个国家像南非那样拥有如此多样化的动植物栖生地。
+
+cougar 英 [ˈku:gə(r)] 美 [ˈkuɡɚ]
+n. 	<美>美洲狮; （追求年轻帅哥的） 熟女;
+[例句]You fought the cougar and lived.
+你和美洲狮搏斗而且活了下来。
+
+puma 英 [ˈpju:mə] 美 [ˈpu:mə]
+n. 	美洲狮; 彪马; 于1948年成立于德国荷索金劳勒(Herzogenaurach)的国际运动品牌; 创始人：鲁道夫及达斯勒。;
+[例句]If Puma were a person, who would he hang out with?
+如果彪马是一个人，他会和谁厮混呢？
+
+predator 英 [ˈpredətə(r)] 美 [ˈprɛdətɚ, -ˌtɔr]
+n. 	以掠夺为生的人; 捕食其他动物的动物，食肉动物;
+[例句]The company is worried about takeovers by various predators.
+公司担心被各种虎视眈眈的集团收购。
+
+cryptic 英 [ˈkrɪptɪk] 美 [ˈkrɪptɪk]
+adj. 神秘的; 隐藏的; 有隐含意义的; 使用密码的;
+[例句]He has issued a short, cryptic statement denying the spying charges
+他发表了一个简短隐晦的声明，否认对其间谍行为的指控。
+
+carnivore 英 [ˈkɑ:nɪvɔ:(r)] 美 [ˈkɑ:rnɪvɔ:(r)]
+n. 	食肉动物，食虫植物;
+[例句]This is a vegetarian dish that carnivores love.
+这是一道肉食主义者爱吃的素菜。
+
+cryptic carnivores 神秘的食肉动物 
+
+athlete 英 [ˈæθli:t] 美 [ˈæθˌlit]
+n. 	运动员; 体育家; 强壮的人;
+[例句]Daley Thompson was a great athlete.
+戴利·汤普森是位著名的运动员。
+
+journalist 英 [ˈdʒɜ:nəlɪst] 美 [ˈdʒɜ:rnəlɪst]
+n. 新闻工作者，新闻记者; 记日志者;
+[例句]She had taken him for a journalist
+她把他错当成记者了。
+
+spectator 英 [spekˈteɪtə(r)] 美 [ˈspekteɪtər]
+n.  观众，旁观者;
+[例句]Thirty thousand spectators watched the final game.
+3万名观众观看了决赛。
+
