@@ -1168,3 +1168,49 @@ n.  观众，旁观者;
 [例句]Thirty thousand spectators watched the final game.
 3万名观众观看了决赛。
 
+conglomerate 英 [kənˈglɒmərət] 美 [kənˈglɑ:mərət]
+n. 砾岩; 联合大企业; 合成物; 组合物;
+adj.  成团的; 砾岩性的; vt. 使聚结; 使成团;
+[例句]Fiat is Italy's largest industrial conglomerate.
+菲亚特是意大利最大的产业集团。
+
+torpedo  英 [tɔ:ˈpi:dəʊ] 美 [tɔ:rˈpi:doʊ]
+n. 	鱼雷; 油井爆破筒; [鱼] 电鯆; 职业杀手;
+vt.  破坏; 用鱼雷袭击; （在油井内） 装置爆破筒; 使失去（活动能力等）;
+[例句]More than a thousand people died when the Lusitania was torpedoed.
+卢西塔尼亚号被鱼雷击沉，导致1,000多人死亡。
+
+  collapse  represents a blow 当头一棒
+
+ collapse  英 [kəˈlæps] 美 [kəˈlæps]
+vi.  崩溃; 倒塌; 折叠; （尤指工作劳累后） 坐下;
+vt.  使倒塌; 使坍塌; 使瓦解;
+n. 	垮台; （身体的） 衰弱;
+[例句]A section of the Bay Bridge had collapsed
+海湾大桥有一段垮塌了。
+
+reef 英 [ri:f] 美 [rif]
+n. 	礁，暗礁; [矿] 矿脉; [航] 缩帆部，榫帆部;
+vt.  收帆，缩帆;
+[例句]An unspoilt coral reef encloses the bay.
+未遭破坏的珊瑚礁环绕着海湾。
+
+coral 英 [ˈkɒrəl] 美 [ˈkɔ:rəl]
+n. 珊瑚; 珊瑚虫; 珊瑚色; 龙虾卵; adj.  珊瑚的; 珊瑚色的;
+[例句]The women have elaborate necklaces of turquoise and pink coral.
+那些女人戴着由绿松石和粉色珊瑚制成的精美项链。
+
+bleach 	英 [bli:tʃ] 美 [blitʃ]
+vt. 漂白; 使褪色; n. 漂白; 漂白剂;
+[例句]These products don't bleach the hair.
+这些产品不会使头发变白。
+
+pilot  英 [ˈpaɪlət] 美 [ˈpaɪlət]
+n. 飞行员; 引航员; 向导; [机械学]导向器（或轴）;
+vt.  试点; 试验; 驾驶; 为（船舶）引航（或操舵）;
+adj.  试验性的; 导向的; 驾驶员的; 辅助的;
+[例句]He spent seventeen years as an airline pilot.
+他当了17年的航空公司飞行员。
+
+
+
