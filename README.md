@@ -1212,5 +1212,28 @@ adj.  试验性的; 导向的; 驾驶员的; 辅助的;
 [例句]He spent seventeen years as an airline pilot.
 他当了17年的航空公司飞行员。
 
+blockchain 	英 [blɒkt'ʃeɪn] 美 [blɒkt'ʃeɪn]
+[词典] 	车链；块环链;区块链
+[例句]First, in theory a blockchain can execute transactions instantly.
+第一，理论上讲区块链可以即时执行交易
 
+corporation 英 [ˌkɔ:pəˈreɪʃn] 美 [ˌkɔ:rpəˈreɪʃn]
+n. 	公司; 法人; 社团，团体; 〈口〉（凸出的）大肚子;
+[例句]The rule applies where a person owns stock in a corporation.
+该规定适用于持有公司股票的人。
 
+fungi 英 [ˈfʌŋgi:] 美 [ˈfʌndʒaɪ]
+n. 	(fungus的复数) 真菌（如蘑菇和霉，霉，霉菌; 真菌( fungus的名词复数 ）; 霉，霉菌;
+[例句]A surprising feature of the higher fungi, in the small sample available, is the number of cryptic or sibling species.
+在合用的小样本中高等真菌的一种惊奇性状是同形种或姊妹种的数量。
+
+acre 英 [ˈeɪkə(r)] 美 [ˈekɚ]
+n. 英亩; 土地，耕地; [口] 大量;
+[例句]The property is set in two acres of land.
+这座房产占地两英亩。
+
+worship 英 [ˈwɜ:ʃɪp] 美 [ˈwɜ:rʃɪp]
+vt. 崇拜，尊崇; 爱慕;
+vi. 做礼拜; 热爱; 爱慕; 崇拜（尤指达到看不到缺点的地步）;
+n. 	崇拜; 礼拜; （对治安官或市长的尊称） 阁下; 尊敬;
+[例句]She had worshipped him for years 她仰慕他已有多年。
