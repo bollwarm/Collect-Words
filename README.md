@@ -1237,3 +1237,53 @@ vt. 崇拜，尊崇; 爱慕;
 vi. 做礼拜; 热爱; 爱慕; 崇拜（尤指达到看不到缺点的地步）;
 n. 	崇拜; 礼拜; （对治安官或市长的尊称） 阁下; 尊敬;
 [例句]She had worshipped him for years 她仰慕他已有多年。
+
+anthem  英 [ˈænθəm] 美 [ˈænθəm]
+n. 	国歌; 校歌; [宗] 赞美诗，圣歌，赞歌; 圣歌，赞歌;
+vt. 	唱圣歌庆祝; 唱赞歌;
+[例句]The band played the Czech anthem.
+乐队演奏了捷克国歌。
+
+brutality 英 [bru:'tælətɪ] 美 [bruˈtælɪti]
+n. 	残忍; 野蛮; 暴虐行为;
+[例句]Her experience of men was of domination and brutality.
+男人给她的感受是支配一切，野蛮残暴。
+
+glaucoma  英 [glɔ:ˈkəʊmə] 美 [glaʊˈkoʊmə]
+n. 	绿内障，青光眼; 绿风内障;
+[例句]His eyes are going; he says he has glaucoma
+他的视力在下降，他说自己得了青光眼。
+
+coronary artery 英 [ˈkɔrəˌneri ˈɑ:təri] 美 [ˈkɒrən(ə)ri ˈɑrtəri]
+n. 	冠状动脉; 冠状血管;
+[例句]A muscular spasm in the coronary artery can cause a heart attack
+冠状动脉的肌肉痉挛可能导致心脏病。
+
+coronary 英 [ˈkɒrənri] 美 [ˈkɔ:rəneri]
+adj. 	冠的，花冠的，冠状的; 冠状动脉或静脉的;
+n. 	冠状动脉; （病理学） 冠状动脉血栓形成;
+[例句]If all the coronary arteries are free of significant obstructions, all parts of the heart will receive equal amounts of oxygen.
+如果所有的冠状动脉均没有较大的阻塞物，心脏各部分将得到等量的氧气。
+
+artery 英 [ˈɑ:təri] 美 [ˈɑ:rtəri]
+n. 	[解剖] 动脉; 干线，要道;
+[例句]Clarence Street was one of the northbound arteries of the central business district.
+克拉伦斯街是中央商业区北段部分的主干路之一。
+
+blood clots 		
+na. 	血栓；血凝块（血块）;
+[例句]He was admitted yesterday for treatment of blood clots in his lungs.
+他昨天入院治疗肺部的血块。
+
+clot 英 [klɒt] 美 [klɑ:t]
+vt. 凝结; 拥塞;
+n. 	凝块; （人，动物等的） 聚集;
+[例句]He needed emergency surgery to remove a blood clot from his brain.
+他需要进行紧急手术以清除脑部的一处血块。
+
+stroke 英 [strəʊk] 美 [stroʊk]
+n. 	中风; 一击; 击球; 划水动作;
+vt. 划掉; 轻抚; 轻触; 敲击;
+vi. 击球; 作尾桨手，指挥划桨;
+[例句]Carla, curled up on the sofa, was smoking a cigarette and stroking her cat
+卡拉正蜷缩在沙发上，一边吸着烟，一边轻抚着她的猫咪。
