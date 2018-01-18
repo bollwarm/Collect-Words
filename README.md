@@ -1287,3 +1287,39 @@ vt. 划掉; 轻抚; 轻触; 敲击;
 vi. 击球; 作尾桨手，指挥划桨;
 [例句]Carla, curled up on the sofa, was smoking a cigarette and stroking her cat
 卡拉正蜷缩在沙发上，一边吸着烟，一边轻抚着她的猫咪。
+
+barrier 英 [ˈbæriə(r)] 美 [ˈbæriɚ]
+n. 屏障; 障碍; 栅栏; 分界线;
+vt. 把…关入栅栏; 用栅栏围住;
+[例句]Duties and taxes are the most obvious barrier to free trade.
+关税和税收是自由贸易的最大壁垒。
+
+decline 英 [dɪˈklaɪn] 美 [dɪˈklaɪn]
+n. 下降; （力量、健康、品格、权力、价值等的） 衰退; 下倾; （人、生命等的） 衰退期;
+vt. 辞谢，谢绝（邀请等）;
+vi. （道路、物体等） 下倾; （太阳） 落下; （在品格、价值上） 降低; 衰落，谢绝;
+[例句]The number of staff has declined from 217,000 to 114,000
+员工人数从21.7万减少到了11.4万。
+
+devastation 英 [ˌdevəˈsteɪʃn] 美 [ˌdevəˈsteɪʃn]
+n. 毁坏; 荒废; 极度震惊或悲伤;
+[例句]Adam stumbles on, leaving a trail of devastation in his wake
+亚当蹒跚而行，沿路留下毁坏的痕迹。
+
+hemophilic 英 [ˌhi:mə'fɪlɪk] 美 [ˌhi:mə'fɪlɪk]
+adj. 	血友病的，嗜血的;
+[例句]A Defined Medium for Growth of Hemophilic Bacteria, Candida and Mycoplasm in Reproductive Tract Infection Study
+嗜血菌、念珠菌和支原体组合培养基诊断生殖道感染的研究
+
+phenomenal 英 [fəˈnɒmɪnl] 美 [fəˈnɑ:mɪnl]
+adj. 现象的; 显著的; 异常的; 能知觉的;
+[例句]Exports of Australian wine are growing at a phenomenal rate
+澳大利亚葡萄酒出口正在以惊人的速度增长。
+
+Satum 土星; 杀草丹;
+
+interstellar 英 [ˌɪntəˈstelə(r)] 美 [ˌɪntərˈstelə(r)]
+adj. 星际的; 恒星际;
+[例句]These elements become part of the interstellar gas and dust.
+这些元素成了星际气体和星际尘埃的一部分。
+
