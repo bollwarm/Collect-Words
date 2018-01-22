@@ -1323,3 +1323,51 @@ adj. 星际的; 恒星际;
 [例句]These elements become part of the interstellar gas and dust.
 这些元素成了星际气体和星际尘埃的一部分。
 
+sleek 英 [sli:k] 美 [slik]
+adj. 时髦的; 圆滑的，花言巧语的; 有光泽的; （动植物） 喂养得好的，长得好的;
+vt. 使光滑，使有光泽; 掩饰，隐瞒; 使整洁;
+vi. 打扮整洁; 滑动;
+[例句]The horse's sleek body gleamed.
+这匹马全身光滑，皮毛闪亮。
+
+smooth 	英 [smu:ð] 美 [smuð]
+adj.  光滑的; 流畅的; 柔软的; 温和的，安详的;
+vt. 使平滑; 排除，消除; 安抚，平息; 使优雅;
+vi.  变平和，变缓和;
+[例句]The flagstones beneath their feet were worn smooth by centuries of use.
+他们脚下的石板路经过数百年的踩踏，磨得光溜溜的。
+
+resilient 英 [rɪˈzɪliənt] 美 [rɪˈzɪljənt]
+adj. 能复原的; 弹回的，有弹性的; 能立刻恢复精神的; 社会渣滓;
+[例句]Cotton is more resistant to being squashed and polyester is more resilient.
+棉布更抗压，而涤纶更有弹性。
+
+derail 英 [dɪˈreɪl] 美 [diˈrel]
+vt. 出轨; vt. 使（火车）出轨，使脱轨;
+[例句]The present wave of political killings is the work of people trying to derail peace talks.
+当前的这一系列政治谋杀乃是那些想阻挠和平谈判的人所为。
+
+clinical 英 [ˈklɪnɪkl] 美 [ˈklɪnɪkəl]
+adj. 临床的; 诊所的; 冷静的; 简陋的;
+[例句]The first clinical trials were expected to begin next year.
+第一批临床实验有望明年开始。
+
+algorithm 英 [ˈælgərɪðəm] 美 [ˈælɡəˌrɪðəm]
+n. 	演算法; 运算法则; 计算程序;
+[例句]This is the same algorithm used for functions, procedures and data types.
+这与函数、过程和数据类型使用的是相同的算法。
+
+journal  英 [ˈdʒɜ:nl] 美 [ˈdʒɜ:rnl]
+n. 	日报，日志，日记; 定期刊物，期刊，杂志; [会计] 分类账;
+[例句]All our results are published in scientific journals.
+我们的研究结果全都发表在科学刊物上了。
+
+respiratory 英 [rəˈspɪrətri] 美 [ˈrespərətɔ:ri]
+adj. 呼吸的;
+[例句]If you smoke then the whole respiratory system is constantly under attack.
+如果抽烟，整个呼吸系统就会一直受到损害。
+
+prematurely 英 ['premətʃə(r)lɪ] 美 [ˌpriməˈtjʊrlɪ]
+adv. 过早地，贸然地;
+[例句]According to the air force, the missile merely impacted with the ground prematurely
+根据空军提供的消息，导弹只是提前撞向了地面。
