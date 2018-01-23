@@ -1371,3 +1371,71 @@ prematurely 英 ['premətʃə(r)lɪ] 美 [ˌpriməˈtjʊrlɪ]
 adv. 过早地，贸然地;
 [例句]According to the air force, the missile merely impacted with the ground prematurely
 根据空军提供的消息，导弹只是提前撞向了地面。
+
+curb 英 [kɜ:b] 美 [kɜ:rb]
+n. 限制，抑制; 勒马绳，马衔索; （人行道的） 镶边; （证券的） 场外市场;
+vt. 制止，束缚; 给（马）扣上马衔; 给…加路缘; 在…处设井栏;
+[例句]Inflation needs to be curbed in Russia.
+俄罗斯需要抑制通货膨胀。
+
+trim  英 [trɪm] 美 [trɪm]
+vt. 装饰; 修剪; 整理;
+adj. 整齐的，整洁的; 修长的; 苗条的;
+n. 	修剪; 整齐; 健康状态; 装束;
+[例句]The neighbours 'gardens were trim and neat.
+邻居们的花园整洁美观。
+
+portfolio 英 [pɔ:tˈfəʊliəʊ] 美 [pɔ:rtˈfoʊlioʊ]
+n. 	证券投资组合; 公文包; 代表作品集; 部长[大臣]的职位;
+[例句]After dinner that evening, Edith showed them a portfolio of her own political cartoons.
+那天吃过晚饭，伊迪丝向他们展示了她的一组政治漫画作品。
+
+bond portfolio 债券投资组合
+
+treasury 英 [ˈtreʒəri] 美 [ˈtrɛʒəri]
+n. 国库，金库; （政府的） 财政部; 宝库，宝藏; 贮藏所，库房;
+[例句]The Treasury has long been predicting an upturn in consumer spending.
+财政部早就预测消费者支出会出现上扬。
+
+treasury bonds 		
+[词典] 	库藏债券，库存公司债，财政长期债券;
+[例句]The insurance company will take warehouse stocks or treasury bonds as surety
+该保险公司将接受仓库库存货物或长期国库券作为担保。
+
+snag 英 [snæg] 美 [snæɡ]
+n. 	小困难或障碍; 突出物; 钩丝;
+vt.  抓住; 戳坏; 清除暗桩;
+vi. 妨碍; 被戳坏;
+[例句]A police clampdown on car thieves hit a snag when villains stole one of their cars
+警方打击偷车贼的行动遭遇了一点小挫折：匪徒偷走了一辆警车。
+
+spark  英 [spɑ:k] 美 [spɑ:rk]
+n. 电火花; 燃烧的颗粒; 火星，火花，余火; （金属的） 发光的颗粒;
+vi. 发出火星，发出闪光; 热烈赞同; 正常运转;
+vt.  动，触发; 激起运动，鼓舞;
+[例句]The fire gradually got bigger and bigger. Sparks flew off in all directions.
+火越燃越烈，火星四溅。
+
+imperil 英 [ɪmˈperəl] 美 [ɪmˈpɛrəl]
+vt. 使陷于危险，危及;
+[例句]You imperilled the lives of other road users by your driving.
+你的驾驶危及了其他路人的生命安全。
+
+yield 英 [ji:ld] 美 [jild]
+vt. 屈服，投降; 生产; 获利; 不再反对;
+vi. 放弃，屈服; 生利; 退让，退位;
+n. 	产量，产额; 投资的收益; 屈服，击穿; 产品;
+[例句]Will she yield to growing pressure for her to retire?
+面对要求其隐退的压力越来越大，她会屈服吗？
+
+ yields jumped 收益率上升 
+
+slump 英 [slʌmp] 美 [slʌmp]
+vi.  大幅度下降，暴跌; 沉重或突然地落下[倒下];
+n. （物价等的） 暴跌; <美>（个人、球队等的）低潮状态; （销售量、价格、价值等的） 骤降; （精神等的） 消沉，萎靡;
+[例句]Net profits slumped by 41% 净利润暴跌了41%。
+
+selloff 英 ['selˌɒf] 美 ['selˌɒf]
+n. 股市暴跌;
+[例句]The selloff started last week with a flight from government bonds issued by weaker European states.
+上周，就在抛售开始的同时，欧洲经济弱国发行了国债。
