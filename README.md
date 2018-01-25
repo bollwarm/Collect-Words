@@ -1428,7 +1428,7 @@ n. 	产量，产额; 投资的收益; 屈服，击穿; 产品;
 [例句]Will she yield to growing pressure for her to retire?
 面对要求其隐退的压力越来越大，她会屈服吗？
 
- yields jumped 收益率上升 
+yields jumped 收益率上升 
 
 slump 英 [slʌmp] 美 [slʌmp]
 vi.  大幅度下降，暴跌; 沉重或突然地落下[倒下];
@@ -1439,3 +1439,76 @@ selloff 英 ['selˌɒf] 美 ['selˌɒf]
 n. 股市暴跌;
 [例句]The selloff started last week with a flight from government bonds issued by weaker European states.
 上周，就在抛售开始的同时，欧洲经济弱国发行了国债。
+
+the mnemonic name 略缩名
+
+as stated before 如前所述
+
+surveillance 英 [sɜ:ˈveɪləns] 美 [sɜ:rˈveɪləns]
+n. 盯梢，监督; [法] 管制，监视;
+[例句]He was arrested after being kept under constant surveillance
+在被连续监视了一段时间后，他被逮捕了。
+
+vaccine 英 [ˈvæksi:n] 美 [vækˈsi:n]
+n. 疫苗，痘苗; adj. 痘苗的，疫苗的;
+[例句]Anti-malarial vaccines are now undergoing trials
+抗疟疾的疫苗正在试验阶段。
+
+bout 英 [baʊt] 美 [baʊt]
+n. 拳击（或摔跤）比赛; 一段（工作）; （尤指坏事的） 一通; （疾病的） 发作;
+[例句]He was recovering from a severe bout of flu
+他患了严重的流感，尚未痊愈
+
+pandemic 英 [pænˈdemɪk] 美 [pænˈdɛmɪk]
+adj.  （疾病） 大流行的; 普遍的，全世界的;
+n. （全国或全球性） 流行病，大流行病;
+[例句]They feared a new cholera pandemic
+他们担心新一轮的霍乱大流行。
+
+soar 英 [sɔ:(r)] 美 [sɔr, sor]
+vi. 高飞; 飞腾; 猛增，剧增; 高耸，屹立;
+n. 高飞; 高涨; 高飞范围; 上升高度;
+vt. 高飞越过; 飞升到;
+[例句]Insurance claims are expected to soar
+预计保险索赔数量会急剧增加。
+
+revenue  英 [ˈrevənju:] 美 [ˈrevənu:]
+n.收益;财政收入;税收收入
+
+thrive 英 [θraɪv] 美 [θraɪv]
+vi.茁壮成长;兴盛，兴隆;长得健壮
+
+disparage 英 [dɪˈspærɪdʒ] 美 [dɪˈspærɪdʒ]
+vt.贬低;轻视;批评;非难
+
+infuenza 流感
+
+veterinary 英 [ˈvetrənəri] 美 [ˈvetərəneri]
+adj. 兽医的; n. 	兽医;
+[例句]It was decided that our veterinary screening of horses at events should be continued.
+已经决定继续对参赛马匹进行疾病筛查。
+
+symptom 英 [ˈsɪmptəm] 美 [ˈsɪmtəm, ˈsɪmp-]
+n. 	症状; 征兆;
+[例句]One of the most common symptoms of schizophrenia is hearing imaginary voices.
+精神分裂症的最常见的一个症状就是幻听。
+
+sneezing  英 ['sni:zɪŋ] 美 ['sni:zɪŋ]
+v. 打喷嚏( sneeze的现在分词 );
+[例句]See your doctor now to beat summer sneezing.
+马上去看病，把花粉过敏引起的打喷嚏治好。
+
+nasal discharge 英 [ˈneɪzəl disˈtʃɑ:dʒ] 美 [ˈnezəl dɪsˈtʃɑrdʒ]
+[词典] 	鼻涕;
+[例句]There is blood in my nasal discharge. 我鼻涕中带血。
+
+reliant 英 [rɪˈlaɪənt] 美 [rɪˈlaɪənt]
+adj. 依赖的; 信赖的; 依靠的; 信任的;
+[例句]These people are not wholly reliant on Western charity
+这些人并非完全依赖西方慈善团体。
+
+permanent 英 [ˈpɜ:mənənt] 美 [ˈpɜ:rmənənt]
+adj. 永久（性）的，永恒的，不变的，耐久的，持久的，经久的; 稳定的; 常务的，常设的;
+n. 	电烫发，烫发;
+[例句]Heavy drinking can cause permanent damage to the brain
+酗酒能造成永久性大脑损伤。
