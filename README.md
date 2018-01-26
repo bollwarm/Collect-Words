@@ -1512,3 +1512,34 @@ adj. 永久（性）的，永恒的，不变的，耐久的，持久的，经久
 n. 	电烫发，烫发;
 [例句]Heavy drinking can cause permanent damage to the brain
 酗酒能造成永久性大脑损伤。
+
+plunge 英 [plʌndʒ] 美 [plʌndʒ]
+vt. 用力插入; 使陷入;
+vi. 跳入; 全心投入; 突降，俯冲;
+n. 投入，陷入; 游泳，跳水;
+[例句]The government's political and economic reforms threaten to plunge the country into chaos
+政府的政治和经济改革可能会使国家陷入混乱局面。
+
+persuade 英 [pəˈsweɪd] 美 [pərˈsweɪd]
+vt. 说服; 劝说; 使相信; 使信服;
+[例句]My husband persuaded me to come
+我丈夫说服我前来。
+
+ballistic 英 [bəˈlɪstɪk] 美 [bəˈlɪstɪk]
+adj. 弹道学的; 发射学的; 飞行物体的;
+[例句]Ballistic tests have matched the weapons with bullets taken from the bodies of victims.
+
+ballistic missile 英 [bəˈlɪstɪk ˈmisail] 美 [bəˈlɪstɪk ˈmɪsəl]
+n. 	弹道飞弹;
+[例句]The paper verifies navigation effect of GPS/ GLONASS orientation system used in ballistic missile by simulation calculation.
+为了验证GPS/GLONASS定位系统用于弹道导弹的导航效果，文中对其进行了仿真计算。
+
+council 英 [ˈkaʊnsl] 美 [ˈkaʊnsəl]
+n. 	委员会; （郡、镇等） 政务会; （尤指旧时讨论特定步骤的） 协商会议; 市政（或地方管理）服务机构;
+[例句]The city council has voted almost unanimously in favour.
+市政委员会几乎一致投票表示赞同。
+
+antitrust 英 [ˌæntiˈtrʌst] 美 [ˌæntiˈtrʌst, ˌæntaɪ-]
+adj. 反垄断的; 反托拉斯的;
+[例句]The jury found that the NFL had violated antitrust laws.
+陪审团裁决全国橄榄球联盟触犯了反垄断法。
