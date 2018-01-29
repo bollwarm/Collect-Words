@@ -1543,3 +1543,37 @@ antitrust 英 [ˌæntiˈtrʌst] 美 [ˌæntiˈtrʌst, ˌæntaɪ-]
 adj. 反垄断的; 反托拉斯的;
 [例句]The jury found that the NFL had violated antitrust laws.
 陪审团裁决全国橄榄球联盟触犯了反垄断法。
+
+brick 英 [brɪk] 美 [brɪk]
+n. 	砖，砖块; 砖块状物体; 一砖的厚度; 〈口〉大好人;
+vt. 用砖建造、砌或铺; 用砖围住或堵住;
+adj. 用砖做的; 似砖的;
+[例句]She built bookshelves out of bricks and planks.
+她用砖和木板制作书架。
+
+mortar 英 [ˈmɔ:tə(r)] 美 [ˈmɔ:rtə(r)]
+n. 	砂浆; 迫击炮; 房产; 研钵;
+vt. 用迫击炮攻击（或袭击）; 用灰泥涂抹[结合];
+[例句]The two sides exchanged fire with artillery, mortars and small arms
+双方交火时动用了大炮、迫击炮和轻武器。
+
+brick-and-mortar 英 [b'rɪk'ændm'ɔ:tər] 美 [b'rɪk'ændm'ɔ:tər]
+[词典] 	实体的，具体的;
+[例句]Smartphones are already helping brick-and-mortar stores in large Internet markets.
+智能手机已经在一些较大的互联网市场中对实体商店产生了促进作用。
+
+grocery  英 [ˈgrəʊsəri] 美 [ˈgroʊsəri]
+n. 食品杂货店; 食品杂货业;
+[例句]I worked stocking shelves in a grocery store
+我在一家杂货店工作，负责为货架上货。
+
+warhead 英 [ˈwɔ:hed] 美 [ˈwɔ:rhed]
+n. （尤指导弹的） 弹头;
+[例句]The missile warhead hit the target, effecting a nuclear explosion.
+导弹弹头命中目标，完成了一次核爆炸。
+
+stockpile 英 [ˈstɒkpaɪl] 美 [ˈstɑ:kpaɪl]
+n. （原料，食品等的） 储备，准备急用的备用原料或物资，贮存; 资源，富源，矿藏量; （为战争准备的） 核武器;
+vt. 大量贮备;
+[例句]People are stockpiling food for the coming winter.
+人们正在为即将到来的冬天贮备大量食物。
