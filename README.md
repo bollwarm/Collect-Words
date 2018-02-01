@@ -1619,3 +1619,73 @@ n. 	出价，投标; 努力争取; 喊价; 叫牌;
 vt.  出价， 投标;vt.  恳求; 命令; 说（问候话）; 邀请，致敬;
 [例句]The Government has already closed down two newspapers in a bid to silence its critics.
 政府已经查禁了两家报纸，试图压制批评人士的言论。
+
+roughly 英 [ˈrʌfli] 美 [ˈrʌflɪ]
+adv. 粗略地; 大致上; 大体上; 粗暴地;
+[例句]This trail was roughly parallel to the border.
+这条小路与边境线大致平行。
+
+diameter 英 [daɪˈæmɪtə(r)] 美 [daɪˈæmɪtɚ]
+n. 直径，直径长; 放大率;
+[例句]This hole was a scant. 23 inches in diameter
+这个洞眼的直径只有0.23英寸。
+
+meter 英 [ˈmi:tə(r)] 美 [ˈmitɚ]
+n. 计量器; 计量仪;
+v. 用仪表测量;
+[例句]He was there to read the electricity meter
+他到那里抄电表。
+
+alleviate 	英 [əˈli:vieɪt] 美 [əˈliviˌet]
+vt.减轻，缓和;
+[例句]Nowadays, a great deal can be done to alleviate back pain.
+如今，减轻背部疼痛可以有许多方法。
+
+aviate 英 ['eɪvɪeɪt] 美 ['eɪvɪeɪt]
+vi. 驾驶飞机，乘坐飞机;
+vt. 驾驶（飞机）;
+
+autopilot 英 [ˈɔ:təʊpaɪlət] 美 [ˈɔ:toʊpaɪlət]
+n. 	自动驾驶仪;
+[例句]My body was on autopilot as I trailed through passport control, baggage reclaim and customs.
+我机械性地跟着通过了过境检查、行李认领和海关。
+
+staggeringly 英 ['stæɡərɪŋlɪ] 美 ['stæɡərɪŋlɪ]
+adv. 难以置信地; 令人震惊地; 摇晃地; 蹒跚地;
+[例句]The cost was so staggeringly high that the client removed the traceability requirement from the contract.
+我们发现代价高得惊人，客户也因此在合约中取消了对可跟踪性的需求。
+
+stagger  英 [ˈstægə(r)] 美 [ˈstæɡɚ]
+vi. 蹒跚; 动摇; 犹豫;
+vt. 使蹒跚，使摇摆; 使犹豫; 错开时间; 使吃惊;
+n. 摇晃; 一种不稳定形式，部署或者秩序; 摇摆不定;
+[例句]He lost his balance, staggered back against the rail and toppled over
+他失去平衡，往后趔趄了一下，撞到栏杆摔倒了。
+
+mutually 英 [ˈmju:tʃuəli] 美 [ˈmjuːtʃuəli]
+adv. 互相地，互助; 对;
+[例句]She will try to arrange a mutually convenient time and place for an interview
+她会尽力安排一个双方都方便的时间和地点进行面试。
+
+exclusive 英 [ɪkˈsklu:sɪv] 美 [ɪkˈsklusɪv]
+adj. 专用的; 高级的; 排外的; 单独的;
+n. 独家新闻; 专有物; 独家经营的产品（或项目、设计等）; 排外者;
+[例句]He is already a member of Britain's most exclusive club
+他已经是英国最高级俱乐部的成员了。
+
+mutually exclusive 		
+adj. 	互斥的; 互不相交;
+[例句]They both have learnt that ambition and successful fatherhood can be mutually exclusive.
+他们两个人都认识到了追求理想和做个好父亲不能两者兼顾。
+
+staple 英 [ˈsteɪpl] 美 [ˈstepəl]
+n. 主食; 主要产品; 钉书钉，U 形钉; 主题，主要部份;
+vt. 用钉书钉钉住; adj. 最基本的，最重要的;
+[例句]Rice is the staple food of more than half the world's population
+稻米是全世界一半以上人口的主食。
+
+flashy 英 [ˈflæʃi] 美 [ˈflæʃi]
+adj. 浮华的，俗丽的; 闪光的，瞬间的，昙花一现的; （脾气等） 暴烈的;
+[例句]He was much less flashy than his brother.
+他远没有他的兄弟那么招摇。
+
