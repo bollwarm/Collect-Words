@@ -1689,3 +1689,42 @@ adj. 浮华的，俗丽的; 闪光的，瞬间的，昙花一现的; （脾气�
 [例句]He was much less flashy than his brother.
 他远没有他的兄弟那么招摇。
 
+aluminum 英 [ə'lju:minəm] 美 [ə'lju:minəm]
+n. 	<美>铝;
+[例句]He had a house there and a dock and a little aluminum boat.
+他在那儿有一所房子、一个泊船的码头和一艘小铝船。
+
+retaliatory 英 [rɪ'tælɪətrɪ] 美 [rɪ'tælɪrtrɪ]
+adj. 报复的;
+[例句]There's been talk of a retaliatory blockade to prevent supplies getting through.
+有人在谈论实施报复性封锁，阻止供应物资通过。
+
+pale 英 [peɪl] 美 [pel]
+adj. 苍白的; 无力的; 暗淡的; 浅色的;
+vi. 变得苍白; 失色; 变得暗淡;
+vt. 用栅栏围; 使失色; 使变苍白;
+[例句]Migrating birds filled the pale sky
+灰白的天空中满是迁徙的飞鸟。
+
+swell  英 [swel] 美 [swɛl]
+vt. 膨胀; 肿胀; 增强; 充满（激情）;
+n. 汹涌; 重要人士; （尤指身体部位） 凸起的形状; 声音渐强;
+adj.  极好的; 了不起的; 非常棒的;
+[例句]The human population swelled, at least temporarily, as migrants moved south
+随着移居者南移，人口出现膨胀，至少是暂时性膨胀。
+
+droopy 	
+adj. 下垂的，无精打采的;
+[例句]How can I make my eyes look less droopy?
+我如何能让我的眼睛看起来不那么下垂？
+
+dull 英 [dʌl] 美 [dʌl]
+adj.  迟钝的; 钝的; 呆滞的; 阴暗的;
+v. 缓和; 减轻; 使阴暗;
+[例句]They are both nice people but can be rather dull
+他俩都是好人但非常沉闷。
+
+patchier	
+adj. patchy（补缀的；补缀而成的）的变形;
+[例句]Reforms to humanitarian food aid have been patchier.
+人道主义粮食援助改革的进展更加参差不齐。
