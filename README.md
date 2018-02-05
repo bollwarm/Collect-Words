@@ -36,20 +36,31 @@ n.成年，成熟
 
 stand-up comedy 脱口秀
 
-viral 英 [?va?r?l] 美 [?va?r?l]
-adj.病毒的，病毒引起的
+viral 英 [ˈvaɪrəl] 美 [ˈvaɪrəl]
+adj. 病毒的，病毒引起的;
+[例句]Two types of viral symmetry have been recognized, the cubical symmetry and helical symmetry.
+已经证实病毒有两种对称型，即立体对称和螺旋对称。
 
 went viral 快速散播，疯传
 
-notoriously 英 [n??'t?:r??sl?] 美 [no?t?r??sl?]
-adv.恶名昭彰地;声名狼藉地;著名地;众所周知地
+notoriously 英 [nəʊ'tɔ:rɪəslɪ] 美 [noˈtɔrɪəslɪ]
+adv. 恶名昭彰地; 声名狼藉地; 著名地; 众所周知地;
+[例句]Diplomats can be a notoriously unreliable and misleading source of information
+外交官可能会提供一些靠不住的误导性信息，这是众所周知的。
 
-headquarters 英 [?hed?kw?:t?z] 美 [?hedkw?:rt?rz]
-n.指挥部;司令部;（机构，企业等的）总部;总店
+quarter 英 [ˈkwɔ:tə(r)] 美 [ˈkwɔ:rtə(r)]
+n. 四分之一; 一刻钟; 地区; （美式足球的） 一节;
+vt. 把…四等分; 供…住宿; 使（士兵）驻扎;
+[例句]The group said results for the third quarter are due on October 29.
+该集团表示第三季度的结果将于10月29日公布。
+
+headquarters 英 [ˌhedˈkwɔ:təz] 美 [ˈhedkwɔ:rtərz]
+n. 	指挥部; 司令部; （机构，企业等的） 总部; 总店;
+[例句]The building is the headquarters of the family firm.
+这座大楼是该家族公司的总部。
 
 churning 英 ['tʃɜ:nɪŋ]  美 ['tʃɜ:nɪŋ]
-n. 	搅拌;
-v. 	搅拌（牛奶或乳脂）以制黄油( churn的现在分词 ); 搅动，扰乱某物; （尤指液体） 翻腾;
+n. 	搅拌;v. 搅拌（牛奶或乳脂）以制黄油( churn的现在分词 ); 搅动，扰乱某物; （尤指液体） 翻腾;
 [例句]Inside, he admits, his emotions may be churning, but you would never guess it.
 他承认，内心里他可能心潮起伏，但你根本不会猜到。
 [其他] 	原型： churn 
@@ -58,14 +69,14 @@ churning out 产出
 
 trillion 英 [ˈtrɪljən] 美 [ˈtrɪljən]
 n. 	万亿; 兆; [英] 百万兆; 大量;
-adj. 	万亿的;
-num. 	数万亿;
+adj. 万亿的;
+num. 数万亿;
 [例句]Between July 1st and October 1st, the central bank printed over 2 trillion roubles.
 在7月1日至10月1日之间，中央银行印发了逾两万亿卢布。
 
 shelves 英 [ʃelvz] 美 [ʃelvz]
-n. 	架子; 架( shelf的名词复数 ); 棚; 沙洲; 暗礁;
-v. 	将（书等）放置在架子上( shelve的第三人称单数 ); 将…搁在一边; （陆地） 逐渐倾斜;
+n. 架子; 架( shelf的名词复数 ); 棚; 沙洲; 暗礁;
+v. 将（书等）放置在架子上( shelve的第三人称单数 ); 将…搁在一边; （陆地） 逐渐倾斜;
 [例句]I worked stocking shelves in a grocery store
 我在一家杂货店工作，负责为货架上货。
 [其他] 	原型： shelf / shelve 
@@ -82,15 +93,14 @@ n. 	过道，通道; 侧廊，耳堂; 狭长的通路;
 他从中间过道开始往前走。
 [其他] 	复数：aisles 
 
-threshold 英 [ˈθreʃhəʊld]
-	美 [ˈθreʃhoʊld]
+threshold 英 [ˈθreʃhəʊld] 美 [ˈθreʃhoʊld]
 n. 	门槛，入口，开始; [物理学] 临界值; <英>级限协定; [航空学] 跑道入口;
 adj. 	阈值的，临界值的; <英>按物价指数变动工资的，工资极限的，级限的;
 [例句]He stopped at the threshold of the bedroom
 他在卧室门口停住了。
 threshold 阈值，门槛
 
-kiosks 	n. 	小摊棚，售货亭( kiosk的名词复数 ); 公用电话亭;
+kiosks n. 小摊棚，售货亭( kiosk的名词复数 ); 公用电话亭;
 [例句]It is targeted not just for desktops and laptops, but also for mobile devices and kiosks.
 它不仅仅针对台式机和笔记本，还适用于移动设备和kiosk。
 
@@ -1728,3 +1738,13 @@ patchier
 adj. patchy（补缀的；补缀而成的）的变形;
 [例句]Reforms to humanitarian food aid have been patchier.
 人道主义粮食援助改革的进展更加参差不齐。
+
+feasibility 英 [ˌfi:zə'bɪlətɪ] 美 [ˌfizəˈbɪlətɪ]
+n. 可行性; 可能性; 现实性;
+[例句]Derek persuaded me of the feasibility of the idea.
+德里克让我相信这个想法是可行的。
+
+hyperloop 英 ['haɪpəlu:p] 美 ['haɪpəlu:p]
+n. 超回路，超回线;
+[例句]Elon Musk just brought his Hyperloop project one step closer to reality.
+埃伦·穆斯克最近让他的Hyperloop超级高铁项目距离成为现实又近了一步。
