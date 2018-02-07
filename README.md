@@ -1748,3 +1748,66 @@ hyperloop 英 ['haɪpəlu:p] 美 ['haɪpəlu:p]
 n. 超回路，超回线;
 [例句]Elon Musk just brought his Hyperloop project one step closer to reality.
 埃伦·穆斯克最近让他的Hyperloop超级高铁项目距离成为现实又近了一步。
+
+flagship 英 [ˈflægʃɪp] 美 [ˈflæɡˌʃɪp]
+n. 	旗舰; 〈比喻〉最重要的一个; 佼佼者;
+[例句]The hospital has been the government's flagship, leading the health service reforms
+这家医院一直是政府的旗舰机构，引领着医疗服务的改革。
+
+engagement 英 [ɪnˈgeɪdʒmənt] 美 [ɛnˈɡedʒmənt]
+n. 约会; 订婚，婚约; 约定，契约; 雇用;
+[例句]He had an engagement at a restaurant in Greek Street at eight.
+他8点在希腊街的一个餐厅有个约会。
+
+flamethrower 英 [fleɪmθrə'ʊər] 美 [fleɪmθrə'ʊr]
+n. 火焰喷射器，喷火器;
+[例句]Flamethrower first in the appearance of World War I trench warfare in World War II is widely used.
+火焰喷射器最初于第一次世界大战的堑壕战中亮相，在第二次世界大战中更是被广泛使用。
+
+gimmick 英 [ˈgɪmɪk] 美 [ˈɡɪmɪk]
+n. 花招，诡计; 骗人的玩意; 暗机关; <俚>产品广告噱头;
+v. 使暗机关; 搞骗人的玩意; 在…上暗设机关;
+[例句]It is just a public relations gimmick
+这只不过是一种公关伎俩。
+
+ignite 	英 [ɪgˈnaɪt] 美 [ɪɡˈnaɪt]
+vt. 点燃; 使燃烧; 使激动; 使灼热;
+vi.  点火; 燃烧;
+[例句]The bombs ignited a fire which destroyed some 60 houses
+炸弹引发的大火烧毁了大约60栋房屋。
+
+soup  英 [su:p] 美 [sup]
+n. 汤，羹; 浓雾; 硝化甘油炸药; 困境;
+vt.  加大马力;
+[例句]She has a knack of landing herself rig
+
+souped-up 英 ['su:pt'ʌp] 美 ['su:pt'ʌp]
+[词典] 提高效率;
+[例句]And suddenly I get a souped-up second chance.
+突然间我就有了再世为人的机会。
+
+cigar lighter 英 [siˈɡɑ: ˈlaɪtə] 美 [sɪˈɡɑr ˈlaɪtɚ]
+[词典] 	火星塞; 打火机
+[例句]Dual-purpose cigar lighter plug, meeting your diversified needs;
+两面型点烟插头，适合您的需要；
+
+iconic 英 [aɪˈkɒnɪk] 美 [aɪˈkɑ:nɪk]
+adj. 图标的; 符号的; 图符的; 偶像的;
+[例句]Murphy's powerfully spoken Oedipus is an autocrat of iconic grandeur
+墨菲激情演绎的俄狄浦斯王是位圣像般威严的独裁者。
+
+racist 英 ['reɪsɪst] 美 ['reɪsɪst]
+n. 种族主义者;
+[例句]You have to acknowledge that we live in a racist society.
+你得承认我们生活在一个有种族偏见的社会中。
+
+caricature 英 [ˈkærɪkətʃʊə(r)] 美 [ˈkærɪkətʃər]
+n. 漫画，讽刺画; 漫画手法; 夸张讽刺的描绘; 滑稽可笑的模仿;
+vt. 把…画成漫画; 画成漫画讽刺; 用漫画手法描绘;
+[例句]The poster showed a caricature of Hitler with a devil's horns and tail
+海报漫画中的希特勒长着魔鬼的犄角和尾巴。
+
+negotiation 英 [nɪˌgəʊʃiˈeɪʃn] 美 [nɪˌgoʊʃiˈeɪʃn]
+n. 	协商，谈判; 转让; 通过;
+[例句]We have had meaningful negotiations and I believe we are very close to a deal
+我们已进行了有益的磋商，我相信我们很快能成交。
