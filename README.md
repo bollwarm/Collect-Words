@@ -1811,3 +1811,44 @@ negotiation 英 [nɪˌgəʊʃiˈeɪʃn] 美 [nɪˌgoʊʃiˈeɪʃn]
 n. 	协商，谈判; 转让; 通过;
 [例句]We have had meaningful negotiations and I believe we are very close to a deal
 我们已进行了有益的磋商，我相信我们很快能成交。
+
+inadequacy 英 [ɪnˈædɪkwəsi] 美 [ɪnˈædɪkwəsi]
+n. 	不充分，不适当; 不完全; [医] 官能不足，机能不全; 不十分;
+[例句]The inadequacies of the current system have already been recognised
+人们已经认识到现行体制的不足。
+
+shot up 		
+[词典] 	喷出; 发芽; 急升;
+[例句]Sales shot up by 9% last month
+销售量上个月猛增了9%。
+
+episode 英 [ˈepɪsəʊd] 美 [ˈepɪsoʊd]
+n. 插曲; 一集; 片段; 一段经历;
+[例句]This episode is bound to be a deep embarrassment for Washington
+这一事件肯定会让华盛顿非常难堪。
+
+mammogram 	英 [ˈmæməgræm] 美 ['mæməɡræm]
+n. 	乳房X线照片;
+[例句]It means quitting smoking, going in for that mammogram or colon cancer screening.
+这意味着我们主动戒烟，主动进行乳腺X光和结肠癌检查；
+
+serum 英 [ˈsɪərəm] 美 [ˈsɪrəm]
+n. <医>血清，血浆; 浆液，树液; 乳清;
+[例句]And compared with the serum level of carcinoembryonic antigen.
+并与血清癌胚抗原水平进行比较。
+
+carbon 英 [ˈkɑ:bən] 美 [ˈkɑ:rbən]
+n. [化学] 碳; （一张） 复写纸; [电]碳精棒[片，粉] ，碳精电极; 复写的副本;
+adj.  碳的; 碳处理的;
+[例句]He inserted the paper and two carbons.
+他放入了那张纸和两张复写纸。
+
+hydrogen 英 [ˈhaɪdrədʒən] 美 [ˈhaɪdrədʒən]
+n. 	<化>氢;
+[例句]Zinc displaces the hydrogen of dilute acids.
+锌置换了稀酸中的氢。
+
+molecule  英 [ˈmɒlɪkju:l] 美 [ˈmɑ:lɪkju:l]
+n. 	分子; 微小颗粒;
+[例句]A methane molecule is composed of one carbon atom attached to four hydrogens.
+甲烷分子由1个碳原子与4个氢原子构成。
