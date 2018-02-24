@@ -1852,3 +1852,121 @@ molecule  英 [ˈmɒlɪkju:l] 美 [ˈmɑ:lɪkju:l]
 n. 	分子; 微小颗粒;
 [例句]A methane molecule is composed of one carbon atom attached to four hydrogens.
 甲烷分子由1个碳原子与4个氢原子构成。
+
+exploit 英 [ɪkˈsplɔɪt] 美 [ɪkˈsplɔɪt]
+vt. 开拓; 剥削; 开采; 利用（…为自己谋利）;
+n. 功绩; 功劳; 勋绩;
+[例句]Critics claim he exploited black musicians for personal gain.
+批评家声称他压榨黑人音乐家谋求私利。
+
+suspicious 英 [səˈspɪʃəs] 美 [səˈspɪʃəs]
+adj. 可疑的;猜疑的，怀疑的;多疑的，不信任的;多心
+He was rightly suspicious of meeting me until I reassured him I was not writing about him
+当然他很不放心见我，直到我再一次向他保证我不是在写他。
+
+homicide 英 [ˈhɒmɪsaɪd] 美 [ˈhɑ:mɪsaɪd]
+n. 杀人罪; 杀人犯; 杀人（行为）;
+[例句]The police arrived at the scene of the homicide.
+警方赶到了凶杀现场。
+
+decline 英 [dɪˈklaɪn] 美 [dɪˈklaɪn]
+n. 	下降; （力量、健康、品格、权力、价值等的） 衰退; 下倾; （人、生命等的） 衰退期;
+vt. 辞谢，谢绝（邀请等）;
+vi.  （道路、物体等） 下倾; （太阳） 落下; （在品格、价值上） 降低; 衰落，谢绝;
+[例句]The number of staff has declined from 217,000 to 114,000
+员工人数从21.7万减少到了11.4万。
+
+suspect 英 [səˈspekt] 美 [səˈspɛkt]
+vt. 猜疑（是）; 怀疑，不信任; 怀疑…有罪;
+n. 	嫌疑犯;vi. 怀疑;
+[例句]I suspect they were right
+我感觉他们是对的。
+
+darn 英 [dɑ:n] 美 [dɑ:rn]
+vt. 织补; 缝补; 补缀; n. 织补之处; 补丁;
+[例句]Aunt Emilie darned old socks
+埃米莉姨妈织补旧袜子。
+
+arduous 英 [ˈɑ:djuəs] 美 [ˈɑ:rdʒuəs]
+adj. 艰巨的; 努力的; 难克服的; 陡峭的;
+[例句]The task was more arduous than he had calculated.
+这项任务比他所估计的要艰巨得多。
+
+underwent 英 [ˌʌndəˈwent] 美 [ˌʌndɚˈwɛnt]
+v. 经历，承受( undergo的过去式 );
+[例句]Only 12 weeks ago he underwent major heart transplant surgery
+12个星期前他才刚刚接受了风险很高的心脏移植手术。
+
+monster 英 [ˈmɒnstə(r)] 美 [ˈmɑ:nstə(r)]
+adj. 巨大的，庞大的; （建筑物） 巍峨的;
+n. 	怪物; 庞然大物; 恶魔，恶人; 畸形，畸胎;
+[例句]The film will be a monster hit.
+这部电影将会非常卖座。
+
+mutant 英 [ˈmju:tənt] 美 [ˈmjutn:t]
+n. 突变体; 突变; 突变异种; 变种生物;
+adj. 突变的; 变异的; 变异所引起的; 经过突变的;
+[例句]By using the complementation test an unknown mutant can be rapidly assigned to a particular gene.
+采用互补测验可迅速地将某一未知突变型归属于某一特定基因。
+
+asexually 英 [ˌeɪ'sekʃəlɪ] 美 [ˌeɪ'sekʃəlɪ]
+adv. 无性地，无性生殖地
+
+confinement 英 [kənˈfaɪnmənt] 美 [kənˈfaɪnmənt]
+n. 	监禁，关押; 分娩，生产; 限制，约束;
+[例句]She had been held in solitary confinement for four months
+她被单独关押了4个月。
+
+invasion 英 [ɪnˈveɪʒn] 美 [ɪnˈveʒən]
+n. 侵袭; 入侵，侵略; 侵害，侵犯; [医] 发病;
+[例句]He was commander in chief during the invasion of Panama.
+在侵略巴拿马的战役中他是总司令。
+
+voracious 英 [vəˈreɪʃəs] 美 [vɔˈreʃəs, və-]
+adj. 贪婪的; 如饥似渴的; 贪吃的; 渴求的;
+adv. 贪婪地; n. 贪婪，贪吃;
+[例句]Joseph Smith was a voracious book collector.
+约瑟夫·史密斯是个如饥似渴的藏书家。
+
+marble 英 [ˈmɑ:bl] 美 [ˈmɑ:rbl]
+n. 大理石; 大理石制品; 弹子游戏; 理智，常识;
+adj.  大理石的; 冷酷无情的; 有大理石花纹的;
+v. 把（书边）弄上大理石花纹;
+[例句]The house has a superb staircase made from oak and marble
+这座房子的楼梯堪称一流，是由橡木与大理石制成的。
+
+crayfish 英 [ˈkreɪfɪʃ] 美 [ˈkreˌfɪʃ]
+n. 龙虾; 淡水螯虾（肉）;
+[例句]Tarantulas have an exoskeleton ( that means its skeleton is on the outside) like crayfish and crabs.
+狼蛛它有外骨骼（意味着其骨骼是长在外面的）这与小龙虾和螃蟹有点像。
+
+invasive 英 [ɪnˈveɪsɪv] 美 [ɪnˈvesɪv]
+adj. 侵略性的，侵害的; 攻击性的; 扩散性的，蔓延性的;
+[例句]They found invasive cancer during a routine examination.
+他们在常规体检中发现了扩散性的癌变。
+
+aquarium 英 [əˈkweəriəm] 美 [əˈkweriəm]
+n. 水族馆; 水族槽，养鱼缸; 玻璃鱼池;
+[例句]Previous attempts at filtering and oxygenating aquarium water had failed.
+之前尝试过几次将鱼缸中的水过滤并充氧，但都没有成功。
+
+crustacean 	英 [krʌˈsteɪʃn] 美 [krʌˈsteʃən]
+n. 甲壳纲动物（如蟹、龙虾）;
+adj. 甲壳纲的;
+[例句]Glucosamine can help to synthesize chitin in crustacean shells, which AIDS growth.
+葡萄糖氨是甲壳类动物帮助壳中几丁质的生成，可促进生长。
+
+devastation 英 [ˌdevəˈsteɪʃn] 美 [ˌdevəˈsteɪʃn]
+n. 毁坏; 荒废; 极度震惊或悲伤;
+[例句]Adam stumbles on, leaving a trail of devastation in his wake
+亚当蹒跚而行，沿路留下毁坏的痕迹。
+
+genome 英 [ˈdʒi:nəʊm] 美 [ˈdʒi:noʊm]
+n. 基因组，染色体组;
+[例句]They were comparing notes on each other's progress towards solving that most taxing of all puzzles: the riddle of the human genome
+他们就解决人类所面临的最大难题，即人类基因组之谜的进展情况交换了意见。
+
+subsequently 英 [ˈsʌbsɪkwəntli] 美 [ˈsʌbsɪˌkwɛntlɪ]
+adv. 其后，随后，接着; “subsequent”的派生; 嗣后; 尔后;
+[例句]The data can subsequently be loaded on a computer for processing.
+接下来可将数据载入计算机处理。
