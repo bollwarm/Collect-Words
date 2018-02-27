@@ -1970,3 +1970,34 @@ subsequently 英 [ˈsʌbsɪkwəntli] 美 [ˈsʌbsɪˌkwɛntlɪ]
 adv. 其后，随后，接着; “subsequent”的派生; 嗣后; 尔后;
 [例句]The data can subsequently be loaded on a computer for processing.
 接下来可将数据载入计算机处理。
+
+pancreas 英 [ˈpæŋkriəs] 美 [ˈpæŋkriəs, ˈpæn-]
+n. 	<解剖>胰，胰腺;
+[例句]Insulin is secreted by the pancreas.
+胰岛素是胰腺分泌的。
+
+kidney 英 [ˈkɪdni] 美 [ˈkɪdni]
+n. 	肾，肾脏; （可食用的动物的） 腰子; 脾气，性格;
+[例句]Liver and kidney are particularly rich in vitamin A
+肝脏和肾脏的维生素A含量尤其丰富。
+
+icon 英 [ˈaɪkɒn] 美 [ˈaɪkɑ:n]
+n. 偶像，崇拜对象; 图标，图符; [宗] 圣像; 肖像;
+[例句]Only Marilyn has proved as enduring a fashion icon.
+只有玛丽莲是常青的时尚偶像。
+
+wine  英 [waɪn] 美 [waɪn]
+n. 	葡萄酒; 果酒; 紫红色，深红色;
+vt. 请…喝酒; vi.  喝酒;
+[例句]This is a nice wine.
+这种葡萄酒味道不错。
+
+enthusiasm 英 [ɪnˈθju:ziæzəm] 美 [ɪnˈθu:ziæzəm]
+n. 热情，热忱; 热衷的事物; 宗教的狂热;
+[例句]The lack of enthusiasm for unification among most West Germans fills him with disappointment
+大多数西德人都没有渴望统一的热情，这令他无比失望。
+
+permanently 英 ['pɜ:mənəntlɪ] 美 [ˈpəmənəntlɪ]
+adv. 	永久地，长期不变地;
+[例句]On paper, I am the healthiest man alive, yet I feel permanently unwell.
+理论上，我是活着的最健康的人，但是我总感觉不舒服。
