@@ -2001,3 +2001,50 @@ permanently 英 ['pɜ:mənəntlɪ] 美 [ˈpəmənəntlɪ]
 adv. 	永久地，长期不变地;
 [例句]On paper, I am the healthiest man alive, yet I feel permanently unwell.
 理论上，我是活着的最健康的人，但是我总感觉不舒服。
+
+marvel 	英 [ˈmɑ:vl] 美 [ˈmɑ:rvl]
+n. 奇迹; 令人惊奇的事物（或事例）; 成就; 漫威;
+vt. 惊奇，对…感到惊奇;
+[例句]The whale, like the dolphin, has become a symbol of the marvels of creation
+鲸和海豚一样，已经成为造物杰作的象征。
+
+condominium 英 [ˌkɒndəˈmɪniəm] 美 [ˌkɑ:ndəˈmɪniəm]
+n. 公寓; 一套公寓住房; 公寓的单元;
+[例句]They bought a condominium in new jersey.
+他们在新泽西买了间公寓。
+
+correlated 	英 ['kɒrəleɪtɪd] 美 ['kɒrəleɪtɪd]
+adj. 有相互关系的;
+[例句]At the highest executive levels earnings and performance aren't always correlated.
+在最高管理层，收入与工作表现并不总是相关的。
+
+amino acid 英 [əˌmi:nəʊ ˈæsɪd] 美 [əˌmi:noʊ ˈæsɪd]
+n. 	氨基酸;
+[例句]Arginine accumulates extensively in some plants as a soluble amino acid.
+在某些植物中，精氨酸以可溶性氨基酸大量积累。
+
+nitric oxide 英 [ˈnaɪtrɪk ˈɔksaid] 美 [ˈnaɪtrɪk ˈɑkˌsaɪd]
+[词典] 	一氧化氮;
+[例句]Objective To investigate the expression of osteopontin in gastric cancer and its correlation with inducible nitric oxide synthase.
+目的研究骨桥蛋白在胃癌组织中的表达及其与诱导型一氧化氮合成酶表达的关系。
+
+immune 	英 [ɪˈmju:n] 美 [ɪˈmjoon]
+adj.  免疫的; 有免疫力的; 不受影响的; 免除…的;
+[例句]This blood test will show whether or not you're immune to the disease
+这个血检会显示你是否对这种疾病具有免疫力。
+
+preliminary 英 [prɪˈlɪmɪnəri]美 [prɪˈlɪmɪneri]
+adj. 初步的，初级的; 预备的; 开端的; 序言的;
+n. 预赛; 准备工作; 初步措施; （对学生等的） 预考;
+[例句]Preliminary results show the Republican party with 11 percent of the vote
+初步结果显示共和党获得了11%的选票。
+
+inflammatory 英 [ɪnˈflæmətri] 美 [ɪnˈflæmətɔ:ri]
+adj. 令人激动的; 有煽动性的; 炎性的，发炎的;
+[例句]She described his remarks as irresponsible, inflammatory and outrageous.
+她称他的话不负责任、具煽动性且极端无礼。
+
+arginine 英 ['ɑ:dʒəˌni:n] 美 ['ɑ:dʒəˌni:n]
+n. 	精氨酸;
+[例句]Arginine accumulates extensively in some plants as a soluble amino acid.
+在某些植物中，精氨酸以可溶性氨基酸大量积累。
