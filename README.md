@@ -2048,3 +2048,28 @@ arginine 英 ['ɑ:dʒəˌni:n] 美 ['ɑ:dʒəˌni:n]
 n. 	精氨酸;
 [例句]Arginine accumulates extensively in some plants as a soluble amino acid.
 在某些植物中，精氨酸以可溶性氨基酸大量积累。
+
+millenia 	
+网络 美年; 千年;
+
+helm 英 [helm] 美 [hɛlm]
+n. 头盔; 舵，舵柄; 掌舵，掌管; （国家，企业等的） 机要部门，领;
+vt. 指挥; 给…掌舵; 给…戴上头盔;
+[例句]I got into our dinghy while Willis took the helm and positioned the boat for the photograph.
+我钻进我们的小艇，威利斯掌舵，将船摆好位置准备拍照。
+
+thermal 英 [ˈθɜ:ml] 美 [ˈθɜ:rml]
+adj. 热的，保热的; 温热的;
+n. 上升的暖气流;
+[例句]Volcanic activity has created thermal springs and boiling mud pools.
+火山活动产生了温泉和沸腾的泥浆池。
+
+creditor 英 [ˈkredɪtə(r)] 美 [ˈkrɛdɪtɚ]
+n. 债权人，债主; [会] 贷方;
+[例句]The company said it would pay in full all its creditors.
+该公司称将偿清所有债权人的债务。
+
+viable 英 [ˈvaɪəbl] 美 [ˈvaɪəbəl]
+adj. 切实可行的; 能养活的; 能自行生产发育的; 有望实现的;
+[例句]Cash alone will not make Eastern Europe's banks viable
+仅靠现金不能使东欧的银行维持下去。
