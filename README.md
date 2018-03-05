@@ -2073,3 +2073,50 @@ viable 英 [ˈvaɪəbl] 美 [ˈvaɪəbəl]
 adj. 切实可行的; 能养活的; 能自行生产发育的; 有望实现的;
 [例句]Cash alone will not make Eastern Europe's banks viable
 仅靠现金不能使东欧的银行维持下去。
+
+ride-hailing 
+约车
+
+futuristic 英 [ˌfju:tʃəˈrɪstɪk] 美 [ˌfjutʃəˈrɪstɪk]
+adj. 未来的; 未来主义的; 未来派的;
+[例句]The theatre is a futuristic steel and glass structure.
+这家剧院是钢筋和玻璃结构的未来派建筑。
+
+dedicate 英 [ˈdedɪkeɪt] 美 [ˈdɛdɪˌket]
+vt.  奉献，献身; （为表示感情或敬意将著作、乐曲、艺术作品等） 题献给（某人、某事业等）(to); （在书、音乐或作品的前部） 题献辞; 以…供奉;
+[例句]Back on the island, he dedicated himself to politics 回到岛上后，他便投身于政治。
+
+nascent 英 [ˈnæsnt] 美 [ˈnæsənt, ˈnesənt]
+adj. 初生的; 初期的; 开始形成的; 发生中的;
+[例句]The nascent plan was for the tapes to be flooded into Iraq and the Arab world.
+这个录像带的初生的计划，涌入了伊拉克和阿拉伯世界。
+
+dampen  英 [ˈdæmpən] 美 [ˈdæmpən]
+vt. 抑制; 使潮湿; 使…沮丧; 隔音，防音;
+vi. 变得潮湿; 丧气;
+[例句]Nothing seems to dampen his perpetual enthusiasm
+似乎没有什么能让他那持久的热情消退。
+
+elevate 英 [ˈelɪveɪt] 美 [ˈɛləˌvet]
+vt. 提高; 提升; 举起; 鼓舞;
+[例句]He was elevated to the post of prime minister.
+他升任总理。
+
+pilot 英 [ˈpaɪlət] 美 [ˈpaɪlət]
+n. 飞行员; 引航员; 向导; [机械学]导向器（或轴）;
+vt. 试点; 试验; 驾驶; 为（船舶）引航（或操舵）;
+adj. 试验性的; 导向的; 驾驶员的; 辅助的;
+[例句]He spent seventeen years as an airline pilot.
+他当了17年的航空公司飞行员。
+
+ultimately 英 [ˈʌltɪmətli] 美 [ˈʌltəmɪtli]
+adv. 根本; 最后，最终; 基本上; 郅;
+[例句]Whatever the scientists ultimately conclude, all of their data will immediately be disputed.
+不管科学家们最后得出什么样的结论，他们的全部数据将会立即引起争议。
+
+immersive 英 [ɪˈmɜ:sɪv] 美 [ɪˈmɜ:rsɪv]
+adj. 拟真的;
+[例句]Games and kiosk applications may use heavy application theming to achieve an immersive experience.
+游戏和凉亭应用程序可以使用重度的应用程序主题来达到一个沉浸式的体验效果。
+
+
