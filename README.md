@@ -2119,4 +2119,44 @@ adj. 拟真的;
 [例句]Games and kiosk applications may use heavy application theming to achieve an immersive experience.
 游戏和凉亭应用程序可以使用重度的应用程序主题来达到一个沉浸式的体验效果。
 
+attorney 英 [əˈtɜ:ni] 美 [əˈtɜ:rni]
+n. 	律师; 代理人;
+[例句]We had a long meeting with the attorney general
+我们和检察总长开了一个长会。
 
+Attorney General 		
+n. 	检察总长；首席检察官；司法部长;
+[例句]We had a long meeting with the attorney general
+我们和检察总长开了一个长会。
+
+opioid 英 [əʊ'pi:əʊɪd] 美 [oʊ'pi:oʊɪd]
+adj.  类鸦片（引起）的;
+n. 类鸦片活性肽;
+[例句]Dopamine pathways are closely associated with addiction and the deep-level pain relief induced by morphine and other opioid drugs.
+多巴胺和成瘾密切联系，所以吗啡和其他阿片药物可以缓解重度疼痛。
+
+epidemic 英 [ˌepɪˈdemɪk] 美 [ˌɛpɪˈdɛmɪk]
+n. 	流行病; 迅速的传播、生长或发展; 风尚等的流行;
+adj. 流行性的; 极为盛行的;
+[例句]A flu epidemic is sweeping through Moscow.
+一场流感正席卷莫斯科。
+
+pharmacy 英 [ˈfɑ:məsi] 美 [ˈfɑ:rməsi]
+n. 药房; 配药学，药学; 制药业; 一批备用药品;
+[例句]Make sure you understand exactly how to take your medicines before you leave the pharmacy.
+在离开药房之前，一定要弄明白自己的药该怎么吃。
+
+pacy 英 ['peɪsɪ] 美 ['peɪsɪ]
+adj.  （尤指运动员） 动作迅速的，快速的; （故事或电影） 节奏快的，一环紧似一环的;
+[例句]Set in contemporary Dublin, this pacy thriller features kidnapping, mayhem and murder.
+这部节奏紧张刺激的惊悚片以当代都柏林为背景，包含了绑架、暴力致人伤残和谋杀情节。
+
+painkiller 英 [ˈpeɪnkɪlə(r)] 美 [ˈpenˌkɪlɚ]
+n. 	止痛药;
+[例句]You can pre-empt pain by taking a painkiller at the first warning sign
+刚出现征兆时，就服用止痛片来预防疼痛。
+
+deceptive 英 [dɪˈseptɪv] 美 [dɪˈsɛptɪv]
+adj. 虚伪的; 欺诈的，骗人的; 靠不住的; 迷惑的;
+[例句]Appearances can be deceptive.
+外表可能是靠不住的。
