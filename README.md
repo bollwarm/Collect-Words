@@ -2160,3 +2160,27 @@ deceptive 英 [dɪˈseptɪv] 美 [dɪˈsɛptɪv]
 adj. 虚伪的; 欺诈的，骗人的; 靠不住的; 迷惑的;
 [例句]Appearances can be deceptive.
 外表可能是靠不住的。
+
+wage 英 [weɪdʒ] 美 [wedʒ]
+n. 工资; 报应;
+vt. 实行，进行，作（战等）; 〈方〉雇佣; 〈古〉打赌，抵押，担保;
+[例句]His wages have gone up 他涨工资了。
+
+slog 英 [slɒg] 美 [slɑ:g]
+vt.  猛击; 步履艰难地行; 努力苦干;
+n. 苦干; 吃力地行进;
+[例句]They secure their degrees by slogging through an intensive 11-month course
+他们苦学了11个月的强化课程，拿到了学位。
+
+stretch 英 [stretʃ] 美 [strɛtʃ]
+v. 伸展; 延伸; 持续; 包括;
+n. 伸展; 弹性; 一片; 一段时间;
+adj. 可伸缩的; 弹性的;
+[例句]The procession stretched for several miles
+游行队伍长达数英里。
+
+short seller 英 [ʃɔ:t ˈselə] 美 [ʃɔrt ˈsɛlɚ]
+[词典] 卖空者;
+[例句]The company had been accused of fraud by a short seller, which it denied.
+此前该公司被一家卖空投资者指控欺诈（该公司否认相关指控）。
+
