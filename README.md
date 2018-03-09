@@ -793,12 +793,6 @@ n. 	[生] 恐龙; 守旧落伍的人，过时落后的东西;
 恐龙在人类出现以前就灭绝了。
 [其他] 	复数：dinosaurs 
 
-diagnosis 英 [ˌdaɪəgˈnəʊsɪs] 美 [ˌdaɪəgˈnoʊsɪs]
-n. 	诊断; 诊断结论; 判断; 结论;
-[例句]I need to have a second test to confirm the diagnosis
-我需要再进行一次检查以确诊。
-[其他] 	复数：diagnoses 
-
 gigantic 英 [dʒaɪˈgæntɪk] 美 [dʒaɪˈɡæntɪk]
 adj. 	巨大的，庞大的; 巨人似的; 硕大无比; 排山倒海;
 [例句]A gigantic task of national reconstruction awaits us.
@@ -2184,3 +2178,48 @@ short seller 英 [ʃɔ:t ˈselə] 美 [ʃɔrt ˈsɛlɚ]
 [例句]The company had been accused of fraud by a short seller, which it denied.
 此前该公司被一家卖空投资者指控欺诈（该公司否认相关指控）。
 
+cigarette 英 [ˌsɪgəˈret] 美 [ˈsɪgəret]
+n. 	纸烟，香烟;
+[例句]He went out to buy a packet of cigarettes. 他出去买包烟。
+
+infiltrate 英 [ˈɪnfɪltreɪt] 美 [ɪnˈfɪlˌtret, ˈɪnfɪl-]
+vt. （使） 渗透，（使）渗入; （使） 潜入;
+n. 渗透物;
+[例句]Some countries have infiltrated their agents into the Republic.
+一些国家已派间谍渗入了该共和国内部。
+
+vaporizer 英 ['veɪpəraɪzə] 美 ['veɪpəˌraɪzə]
+n. 	蒸馏器，喷雾器;
+[例句]Customer installations generally include a tank, vaporizer, and pressure control manifold.
+用户使用的设备一般包括储存罐、汽化器和压力控制管。
+
+discreet 英 [dɪˈskri:t] 美 [dɪˈskrit]
+adj. 持重; 小心的; 谨慎的，慎重的; 考虑周到的;
+[例句]They were gossipy and not always discreet
+他们很爱传闲话，而且常常口无遮拦。
+
+cocktail 英 [ˈkɒkteɪl] 美 [ˈkɑ:kteɪl]
+n. 	鸡尾酒; 混合物; 餐前开胃菜;
+adj.  鸡尾酒的; （女服） 在半正式场合穿的;
+[例句]On arrival, guests are offered wine or a champagne cocktail
+每位宾客一到场都会有人送上葡萄酒或香槟鸡尾酒。
+
+potent 英 [ˈpəʊtnt] 美 [ˈpoʊtnt]
+adj. 有效的，强有力的; 有权势的; 烈性的; 有说服力的;
+[例句]Their most potent weapon was the Exocet missile
+飞鱼导弹是他们最有攻击力的武器。
+
+dose 英 [dəʊs] 美 [doʊs]
+n. 剂量，药量; （药的） 一服，一剂; （处罚等） 一回，一次，一番; （酒中的） 配料，增味剂;
+vi. 服药; vt. 给药; 给…服药; 把（药等）配分剂量; 在（酒）中加料;
+[例句]One dose of penicillin can wipe out the infection.  一剂青霉素就能消除感染。
+
+addictive 英 [əˈdɪktɪv] 美 [əˈdɪktɪv]
+adj. 上瘾的; 使成瘾的; 易令人沉溺的;
+[例句]Cigarettes are highly addictive
+香烟很容易使人上瘾。
+
+diagnosis 英 [ˌdaɪəgˈnəʊsɪs] 美 [ˌdaɪəgˈnoʊsɪs]
+n. 	诊断; 诊断结论; 判断; 结论;
+[例句]I need to have a second test to confirm the diagnosis
+我需要再进行一次检查以确诊。
