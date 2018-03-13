@@ -2223,3 +2223,37 @@ diagnosis 英 [ˌdaɪəgˈnəʊsɪs] 美 [ˌdaɪəgˈnoʊsɪs]
 n. 	诊断; 诊断结论; 判断; 结论;
 [例句]I need to have a second test to confirm the diagnosis
 我需要再进行一次检查以确诊。
+
+tariff 英 [ˈtærɪf] 美 [ˈtærɪf]
+n. 关税; 关税表; 价格表;
+vt. 征收关税; 定税率; 定收费标准;
+[例句]America wants to eliminate tariffs on items such as electronics.
+美国打算取消电子产品等的关税。
+
+aluminum 英 [ə'lju:minəm] 美 [ə'lju:minəm]
+n. <美>铝;
+[例句]He had a house there and a dock and a little aluminum boat.
+他在那儿有一所房子、一个泊船的码头和一艘小铝船。
+
+terrain 英 [təˈreɪn] 美 [təˈren]
+n. 地形，地势; 地面，地带; [地理] 岩层; （知识的） 领域范围;
+[例句]The terrain changed quickly from arable land to desert.
+那个地带很快就从耕地变成了沙漠。
+
+submerge 英 [səbˈmɜ:dʒ] 美 [səbˈmɜ:rdʒ]
+vt. 淹没; 把…浸入; 沉没，下潜; 使沉浸;
+vi. 淹没; 潜入水中; 湮没;
+[例句]Hippos are unable to submerge in the few remaining water holes
+在仅剩的几个水坑里，河马根本无法没入水中。
+
+tropical 英 [ˈtrɒpɪkl] 美 [ˈtrɑ:pɪkl]
+adj. 热带的; 炎热的; 热情的;
+[例句]I had deliberately picked a city with a tropical climate.
+我特意选了一个热带气候的城市。
+
+gorge 英 [gɔ:dʒ] 美 [gɔ:rdʒ]
+n. 山峡，峡谷; 咽喉; 暴食; 障碍物;
+vt. 使吃饱; 吞下; 使扩张;
+vi. 狼吞虎咽，拚命吃;
+[例句]I could spend each day gorging on chocolate
+我可以每天只吃巧克力就够了。
