@@ -2257,3 +2257,34 @@ vt. 使吃饱; 吞下; 使扩张;
 vi. 狼吞虎咽，拚命吃;
 [例句]I could spend each day gorging on chocolate
 我可以每天只吃巧克力就够了。
+
+aristocrat 英 [ˈærɪstəkræt] 美 [əˈrɪsttəkræt]
+n. 	贵族; 贵族政治论者; 有贵族派头的人;
+[例句]It was not the aristocrat but the yeoman who determined the nation's policies.
+决定国家政策的不是贵族，而是自由民。
+
+glide  英 [glaɪd] 美 [ɡlaɪd]
+n. 滑行，滑翔; [乐] 滑音，延音; 流逝，消逝; 静悄悄的流水;
+vt. （鸟或飞机） 滑翔，滑动; 掠过; 悄悄地走; 消逝;
+vi. 使滑行; 使滑动;
+[例句]Waiters glide between tightly packed tables bearing trays of pasta.
+侍者们端着一盘盘意大利面在拥挤的餐桌之间自如穿行。
+
+pursue 英 [pəˈsju:] 美 [pərˈsu:]
+vt. 追求; 继续; 追捕; 进行;
+vi. 追，追赶; 继续进行;
+[例句]It became harder for women married to diplomats to pursue their own interests
+与外交官结婚的女性要追求自己的爱好就变得更加困难了。
+
+sonic 英 [ˈsɒnɪk] 美 [ˈsɑ:nɪk]
+adj. <物>音波的，音速的; 能发声音的;
+[例句]He activated the door with the miniature sonic transmitter.
+他用微型声波发射器开启了门。
+
+hypersonic 英 [ˌhaɪpə'sɒnɪk] 美 [ˌhaɪpə'sɒnɪk]
+adj.  极超音速的，远超过音速的;
+[例句]The essential of using experimental design method to configuration design of hypersonic aircraft are expounded.
+阐述了在进行高超声速飞行器外形设计中，应用试验设计方法的必要性。
+
+
+
