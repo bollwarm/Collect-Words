@@ -2286,5 +2286,30 @@ adj.  极超音速的，远超过音速的;
 [例句]The essential of using experimental design method to configuration design of hypersonic aircraft are expounded.
 阐述了在进行高超声速飞行器外形设计中，应用试验设计方法的必要性。
 
+uphill 英 [ˌʌpˈhɪl] 美 [ˈʌpˌhɪl]
+adj. 上坡的，向上的; 费力的，辛苦的，艰难的; 位于高处的;
+adv. 上山地，上坡地; 艰难地;
+n. 登高，上坡;
+[例句]He had been running uphill a long way
+他已经跑了一段很长的上坡路。
 
+slog 英 [slɒg] 美 [slɑ:g]
+vt. 猛击; 步履艰难地行; 努力苦干;
+n. 苦干; 吃力地行进;
+[例句]They secure their degrees by slogging through an intensive 11-month course
+他们苦学了11个月的强化课程，拿到了学位。
 
+uphill slog 举步维艰
+
+wreckage 英 [ˈrekɪdʒ] 美 [ˈrɛkɪdʒ]
+n. 失事; （坠毁物） 残片，碎片，残骸; 折断;
+[例句]Mark was dragged from the burning wreckage of his car.
+马克被人从他着火的汽车残骸中拉了出来。
+
+footage 英 [ˈfʊtɪdʒ] 美 [ˈfʊtɪdʒ]
+n. 进尺; 以英尺表示的长度或距离; （电影或电视的） 片段的数量或长度; 连续镜头;
+[例句]They are planning to show exclusive footage from this summer's festivals.
+他们准备播放今年夏天节日庆典的独家镜头。
+
+stock footage 	
+网络 资料片镜头; 资料镜头;
