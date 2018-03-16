@@ -2313,3 +2313,41 @@ n. 进尺; 以英尺表示的长度或距离; （电影或电视的） 片段的
 
 stock footage 	
 网络 资料片镜头; 资料镜头;
+
+pledge 英 [pledʒ] 美 [plɛdʒ]
+n. 保证，誓言; [法] 抵押权; 公约; （表示友谊的） 干杯;
+vt. 使发誓，保证; 典当，抵押;
+vt. 许诺; 用…担保; 以誓言约束; 向…祝酒;
+[例句]The meeting ended with a pledge to step up cooperation between the six states of the region.
+会议以承诺加快这一地区六国间的合作而结束。
+
+philanthropic 英 [ˌfɪlən'θrɒpɪk] 美 [ˌfɪlənˈθrɑpɪk]
+adj. 博爱的，慈善的;
+[例句]Some of the best services for the ageing are sponsored by philanthropic organizations.
+一些一流老人服务机构是由慈善组织资助的。
+
+tonsil 英 [ˈtɒnsl] 美 [ˈtɑ:nsl]
+n. 扁桃体;
+[例句]Fluorescent cells were not detected in tonsil, liner, larynx, and kidney.
+在扁桃体、肝、喉部和肾脏中没有查到荧光细胞。
+
+pediatric 英 [ˌpi:dɪ'ætrɪk] 美 [ˌpi:dɪ'ætrɪk]
+adj. 小儿科的;
+[例句]He completed his pediatric residency at Stanford University Hospital.
+他在斯坦福大学附属医院完成了自己的儿科实习。
+
+surgery 英 [ˈsɜ:dʒəri] 美 [ˈsɜ:rdʒəri]
+n. 外科学，外科手术; 手术室; 诊所; 诊断时间;
+[例句]His father has just recovered from heart surgery
+他父亲刚刚从心脏外科手术中康复过来。
+
+undergo 英 [ˌʌndəˈgəʊ] 美 [ˌʌndərˈgoʊ]
+vt. 经历，经验; 遭受，承受;
+[例句]He underwent an agonising 48-hour wait for the results of tests.
+他苦苦等待了48个小时，化验结果才出来。
+
+tonsillectomy 英 [ˌtɒnsəˈlektəmi] 美 [ˌtɑ:nsəˈlektəmi]
+n. 扁桃体切除术;
+[例句]Objective: To evaluate the hemostatic efficacy and safety of a human thrombin in tonsillectomy.
+目的：评价外用人凝血酶对扁桃腺手术创面的止血作用和安全性。
+
