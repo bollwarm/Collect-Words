@@ -2351,3 +2351,46 @@ n. 扁桃体切除术;
 [例句]Objective: To evaluate the hemostatic efficacy and safety of a human thrombin in tonsillectomy.
 目的：评价外用人凝血酶对扁桃腺手术创面的止血作用和安全性。
 
+fry 英 [fraɪ] 美 [fraɪ]
+n. 鱼苗，鱼秧; 弗赖伊（姓氏）; 油炸食物; （口语） 烦恼，愤激;
+vi. 油炸; 用油煎; 用油炸烤炒;
+vt. 油炸; 油煎; （美俚） 使被处电刑; 瓦解;
+[例句]Fry the breadcrumbs until golden brown.
+把面包屑炸成金褐色为止。
+
+intend 	英 [ɪnˈtend] 美 [ɪnˈtɛnd]
+vt. 意欲，计划; 为特殊目的而设计; 为特定用途而打算; 意指或意味;
+vi. 怀有某种意图或目的;
+[例句]She intends to do A levels and go to university
+她计划先参加高级考试，然后去读大学。
+
+patent 英 [ˈpætnt] 美 [ˈpætnt]
+n. 专利; 专利权; 专利品; 专利证;
+adj. 专利的; 显然，显露; 明摆着的;
+vt. 获得…专利，给予…专利权; 取得专利权;
+[例句]P& G applied for a patent on its cookies
+宝洁公司为它的饼干申请专利权。
+
+infringement 英 [ɪn'frɪndʒmənt] 美 [ɪnˈfrɪndʒmənt]
+n. 侵权; 违反; 违背;
+[例句]They see it as an infringement on their own freedom of action.
+他们把它视为对他们行动自由的侵犯。
+
+patent infringement 专利侵权
+
+allegedly 英 [ə'ledʒɪdlɪ] 美 [ə'ledʒɪdlɪ]
+adv. 据说; 依其申述;
+[例句]He lost his job for allegedly being incapable.
+据说他由于软弱无能而丢掉了工作。
+
+monetary 英 [ˈmʌnɪtri] 美 [ˈmʌnɪteri]
+adj.  货币的，金钱的; 钱的（尤指一国的金融）; 金融的; 财政的，财政（上）的;
+[例句]Some countries tighten monetary policy to avoid inflation
+一些国家实行紧缩银根的货币政策，以避免通货膨胀。
+
+allege 英 [ə'ledʒd] 美 [əˈlɛdʒd, əˈlɛdʒɪd]
+adj. 声称的，所谓的; 被断言的; 可疑的，靠不住的;
+v. 	宣称，断言( allege的过去式和过去分词);
+[例句]They have begun a hunger strike in protest at the alleged beating.
+他们开始绝食以抗议有人所宣称的殴打行为。
+[其他] 
