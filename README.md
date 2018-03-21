@@ -2393,4 +2393,19 @@ adj. 声称的，所谓的; 被断言的; 可疑的，靠不住的;
 v. 	宣称，断言( allege的过去式和过去分词);
 [例句]They have begun a hunger strike in protest at the alleged beating.
 他们开始绝食以抗议有人所宣称的殴打行为。
-[其他] 
+
+drone 英 [drəʊn] 美 [droʊn]
+n. 雄蜂; 无人驾驶飞机; 嗡嗡声; 持续低音;
+v. 嗡嗡叫; 嗡嗡响; 絮絮叨叨地说;
+[例句]Above him an invisible plane droned through the night sky.
+在他头顶上一架隐形飞机嗡嗡地飞过夜空。
+
+intermittent 英 [ˌɪntəˈmɪtənt] 美 [ˌɪntərˈmɪtənt]
+adj. 间歇性; 间歇的; ，断断续续的;
+[例句]After three hours of intermittent rain, the game was abandoned.
+3个小时断断续续的降雨之后，比赛取消了。
+
+intermittent fasting 	
+网络 断食疗法; 断续性禁食;
+[例句]I practice intermittent fasting, which means that I eat my first meal around noon each day.
+我尝试过间歇禁食，也就是每天在中午的时候吃第一顿饭。
