@@ -2409,3 +2409,34 @@ intermittent fasting
 网络 断食疗法; 断续性禁食;
 [例句]I practice intermittent fasting, which means that I eat my first meal around noon each day.
 我尝试过间歇禁食，也就是每天在中午的时候吃第一顿饭。
+
+illegitimate 英 [ˌɪləˈdʒɪtəmət] 美 [ˌɪlɪˈdʒɪtəmɪt]
+adj. 非婚生的，私生的; 法律不容的; （指辩论等的结论） 不合逻辑的;
+n. 非嫡出子;
+[例句]The election was dismissed as illegitimate by the opposition
+反对党以不合法为由拒绝接受选举结果。
+
+controversial 英 [ˌkɒntrəˈvɜ:ʃl] 美 [ˌkɑ:ntrəˈvɜ:rʃl]
+adj. 有争议的，引起争议的，被争论的; 好争论的;
+[例句]Immigration is a controversial issue in many countries
+在很多国家，移民都是一个颇有争议的问题。
+
+suspend 英 [səˈspend] 美 [səˈspɛnd]
+v.  暂停; 悬; 挂; 延缓;
+[例句]The union suspended strike action this week
+这周工会暂停了罢工。
+
+consequential 英 [ˌkɒnsɪˈkwenʃl] 美 [ˌkɑ:nsəˈkwenʃl]
+adj. 重要的; 作为结果的，间接的;
+[例句]The actual estimate for extra staff and consequential costs such as accommodation was an annual £ 9.18m.
+额外聘请员工以及随之发生的食宿费用等实际估算下来为每年918万英镑
+
+inconsequential 英 [ɪnˌkɒnsɪˈkwenʃl] 美 [ɪnˌkɑ:nsɪˈkwenʃl]
+adj. 不重要的，无足轻重的，不值得考虑的;
+[例句]Seemingly inconsequential details can sometimes contain significant clues.
+貌似无足轻重的细节有时可能隐含着重大的线索。
+
+firestorm 英 [ˈfaɪəstɔ:m] 美 [ˈfaɪərstɔ:rm]
+n. 	大爆发;
+[例句]The speech has resulted in a firestorm of controversy.
+这一讲话已引发了激烈的争议。
