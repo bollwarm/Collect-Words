@@ -2440,3 +2440,15 @@ firestorm 英 [ˈfaɪəstɔ:m] 美 [ˈfaɪərstɔ:rm]
 n. 	大爆发;
 [例句]The speech has resulted in a firestorm of controversy.
 这一讲话已引发了激烈的争议。
+
+pedestrian 英 [pəˈdestriən] 美 [pəˈdɛstriən]
+n. 行人; 步行者;
+adj. 徒步的; 平淡无奇的; 一般的;
+[例句]In Los Angeles a pedestrian is a rare spectacle
+在洛杉矶很少见到步行者。
+
+creep  英 [kri:p] 美 [krip]
+vi. 爬行，匍匐; 缓慢地行进;
+n. 爬行，蠕动; 虫爬着似的感觉，毛骨悚然; 卑鄙小人，谄媚者;
+[例句]Back I go to the hotel and creep up to my room
+我回到旅馆，蹑手蹑脚地上楼回到房间。
