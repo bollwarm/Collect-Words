@@ -2452,3 +2452,25 @@ vi. 爬行，匍匐; 缓慢地行进;
 n. 爬行，蠕动; 虫爬着似的感觉，毛骨悚然; 卑鄙小人，谄媚者;
 [例句]Back I go to the hotel and creep up to my room
 我回到旅馆，蹑手蹑脚地上楼回到房间。
+
+controversial 英 [ˌkɒntrəˈvɜ:ʃl] 美 [ˌkɑ:ntrəˈvɜ:rʃl]
+adj. 有争议的，引起争议的，被争论的; 好争论的;
+[例句]Immigration is a controversial issue in many countries
+在很多国家，移民都是一个颇有争议的问题。
+
+illegitimate 英 [ˌɪləˈdʒɪtəmət] 美 [ˌɪlɪˈdʒɪtəmɪt]
+adj. 非婚生的，私生的; 法律不容的; （指辩论等的结论） 不合逻辑的;
+n. 非嫡出子;
+[例句]The election was dismissed as illegitimate by the opposition
+反对党以不合法为由拒绝接受选举结果。
+
+squeaky-clean 英 [sk'wi:ki:kl'i:n] 美 [sk'wi:ki:kl'i:n]
+[词典] 	<口>非常干净的; 道德高尚的，无可指责的;
+[例句]Obviously Daniel and Emma Watson are under more pressure to keep a squeaky-clean image.
+丹尼尔和艾玛·沃特森（Emma Watson）为了保持公众形象承受了比以往更大的压力。
+
+inhibiting 英 [ɪn'hɪbɪtɪŋ] 美 [ɪn'hɪbɪtɪŋ]
+adj. 抑制作用的，约束的;
+v. 阻止，抑制( inhibit的现在分词 ); 使拘束，使尴尬;
+[例句]The high cost of borrowing is inhibiting investment by industry in new equipment.
+借款的高成本抑制了企业对新设备的投资。
