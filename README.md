@@ -2474,3 +2474,30 @@ adj. 抑制作用的，约束的;
 v. 阻止，抑制( inhibit的现在分词 ); 使拘束，使尴尬;
 [例句]The high cost of borrowing is inhibiting investment by industry in new equipment.
 借款的高成本抑制了企业对新设备的投资。
+
+prior 英 [ˈpraɪə(r)] 美 [ˈpraɪɚ]
+adj. 优先的; 占先的; 在…之前;
+n. 小修道院院长，大修道院的副院长; （隐修院） 会长; [史] 行政长官; 普赖尔;
+adv. 在前; 居先;
+[例句]He claimed he had no prior knowledge of the protest
+他声称自己事先并不知道这次抗议的事。
+
+skyrocket 英 [ˈskaɪrɒkɪt] 美 [ˈskaɪrɑ:kɪt]
+vi 突升，猛涨;
+[例句]Production has dropped while prices and unemployment have skyrocketed.
+物价和失业率猛涨的同时，生产却下降了。
+
+controversy 英 [ˈkɒntrəvɜ:si] 美 [ˈkɑ:ntrəvɜ:rsi]
+n. 论战; 公开辩论;
+[例句]The proposed cuts have caused considerable controversy.
+削减开支的提议引起了诸多争议。
+
+scandal 英 [ˈskændl] 美 [ˈskændl]
+n. 丑闻，丑名，丑事，丑行，丢脸的事件，舞弊案件，耻辱; 流言蜚语; 闲话; 诽谤;
+[例句]He loved gossip and scandal
+他喜欢说三道四，散布谣言。
+
+backlash 英 [ˈbæklæʃ] 美 [ˈbækˌlæʃ]
+n. 反击; 后坐; 激烈反应;
+[例句]He also warned of a possible anti-Western backlash.
+他还警告有可能会出现对西方的强烈抵制。
