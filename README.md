@@ -2501,3 +2501,60 @@ backlash 英 [ˈbæklæʃ] 美 [ˈbækˌlæʃ]
 n. 反击; 后坐; 激烈反应;
 [例句]He also warned of a possible anti-Western backlash.
 他还警告有可能会出现对西方的强烈抵制。
+
+rival 英 [ˈraɪvl] 美 ['raɪvl]
+n. 	对手; 竞争者;
+vt. 与…竞争; 比得上某人;
+vi. 竞争;
+[例句]The world champion finished more than two seconds ahead of his nearest rival
+世界冠军领先第二名2秒多钟到达终点。
+
+bribe 英 [braɪb] 美 [braɪb]
+vt. 贿赂，行贿;
+n. 	贿赂; 诱惑物;
+[例句]He was being investigated for receiving bribes.
+他因收受贿赂正在接受调查。
+
+severance 英 [ˈsevərəns] 美 [ˈsɛvərəns, ˈsɛvrəns]
+n. 	断绝; 切断; 割断; 离职金;
+[例句]We were offered 13 weeks 'severance pay.
+我们拿到了13个星期的薪水作为遣散费。
+
+scarlet 英 [ˈskɑ:lət] 美 [ˈskɑ:rlət]
+n. 猩红色; 红衣; 象征罪恶的深红色; 绯红色;
+adj. 	深红的; 鲜红色的; 罪孽深重的; 淫荡的;
+[例句]She turned scarlet from embarrassment, once she realized what she had done
+等她明白自己的所作所为后，尴尬得满脸通红。
+
+contagious 	英 [kənˈteɪdʒəs] 美 [kənˈtedʒəs]
+adj.  有传染性的; 传染病的; 有感染力的; 会蔓延的;
+[例句]Laughing is contagious 笑是有感染力的。
+
+antibiotic 英 [ˌæntibaɪˈɒtɪk] 美 [ˌæntibaɪˈɑ:tɪk]
+n. 抗生素; 抗菌素;
+adj. 抗生素的; 抗生的; 抗菌的; 抗菌作用的;
+[例句]Your doctor may prescribe a course of antibiotics.
+你的医生可能会开一个疗程的抗生素。
+
+illicit  英 [ɪˈlɪsɪt] 美 [ɪˈlɪsɪt]
+adj. 不正当的; 法律不许可的，非法的;
+[例句]Dante clearly condemns illicit love.
+丹蒂旗帜鲜明地谴责不正当恋情。
+
+harvest 英 [ˈhɑ:vɪst] 美 [ˈhɑ:rvɪst]
+n. 收割; 收成; 收获季节; 结果;
+vt. 收割，收成;
+vt. 收到; 收割（庄稼），捕猎（动物、鱼）;
+[例句]There were about 300 million tons of grain in the fields at the start of the harvest.
+收获伊始地里大概有3亿吨粮食。
+
+dramatic 英 [drəˈmætɪk] 美 [drəˈmætɪk]
+adj. 引人注目的; 戏剧的，戏剧性的; 激动人心的;
+[例句]A fifth year of drought is expected to have dramatic effects on the California economy
+第五年遭受旱灾预计会对加利福尼亚的经济产生巨大的影响。
+
+turnaround 	英 [ˈtɜ:nəraʊnd] 美 [ˈtɜ:rnəraʊnd]
+n. 	车辆调头处; （思想，立场的） 转变; （飞机等） 卸货、加油、服务、重新装货所需时间; 转身，转向;
+[例句]I have personally never done such a complete turnaround in my opinion of a person
+我个人在对人的评价上从没有过如此彻底的转变。
+
