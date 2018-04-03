@@ -2558,3 +2558,59 @@ n. 	车辆调头处; （思想，立场的） 转变; （飞机等） 卸货、�
 [例句]I have personally never done such a complete turnaround in my opinion of a person
 我个人在对人的评价上从没有过如此彻底的转变。
 
+notch 英 [nɒtʃ] 美 [nɑ:tʃ]
+n. 刻痕; (V字形的) 槽口; <美>峡谷; 等级;
+vt. 砍，切; 在…上作刻痕、开槽口; 作刻痕计算; 得分;
+[例句]Average earnings in the economy moved up another notch in August
+8月份这个国家的平均收入又上了一个台阶。
+
+fiery 英 [ˈfaɪəri] 美 [ˈfaɪri]
+adj. 火热的; 激烈的; 火似的; 易燃烧的;
+[例句]A helicopter crashed in a fiery explosion in Vallejo.
+一架直升机在瓦列霍爆炸起火并坠毁。
+
+streamline 英 [ˈstri:mlaɪn] 美 [ˈstrimˌlaɪn]
+vt. 把…做成流线型; 使现代化; 组织; 使简单化;
+n. 流线; 流线型;
+[例句]They're making efforts to streamline their normally cumbersome bureaucracy
+他们正努力精简本来繁冗复杂的官僚体制。
+
+fascinate 英 [ˈfæsɪneɪt] 美 [ˈfæsəˌnet]
+vt. 蛊惑; 使着迷; 使神魂颠倒;
+vi.  入迷;
+[例句]Politics fascinated Franklin's father
+政治让富兰克林的父亲着迷。
+
+flipper 英 [ˈflɪpə(r)] 美 [ˈflɪpɚ]
+n. （用于游泳或潜水的） 脚蹼，鸭脚板;
+adj. [口语]无礼的，轻率的，油腔滑调的( flip的比较级 ); 冒失的，鲁莽的;
+[例句]But look at how I get the flipper effects with my feet and my ankle flexibility.
+但是我如何用脚和灵活的踝关节制造出脚蹼效果的。
+
+forage 英 [ˈfɒrɪdʒ] 美 [ˈfɔ:rɪdʒ]
+n. 牛马饲料; 寻找粮草;
+vi.  搜寻（食物），尤指动物觅（食）; （尤指用手）搜寻（东西） ;
+[例句]They were forced to forage for clothing and fuel.
+他们不得不去寻找衣服和燃料。
+
+prey 英 [preɪ] 美 [pre]
+n. 被捕食的动物; 捕食（习性）; 受害者; 受骗者;
+vi. 捕食; （疾病等） 使人慢慢衰弱; 折磨; （人） 靠欺诈为生;
+[例句]Electric rays stun their prey with huge electrical discharges
+电鳐能放出强大的电流把猎物击晕。
+
+awkward  英 [ˈɔ:kwəd] 美 [ˈɔ:kwərd]
+adj. 笨拙的; 令人尴尬的; 难对付的; 不方便的;
+[例句]I was the first to ask him awkward questions but there'll be harder ones to come
+我是第一个向他提出尴尬问题的人，不过还会有人问更难回答的问题。
+
+limb  英 [lɪm] 美 [lɪm]
+n. 枝干; 肢，翼; 大树枝; 分支;
+vt. 割断…的四肢，肢解; 砍树枝;
+[例句]She would be able to stretch out her cramped limbs and rest for a few hours.
+她将能伸展一下蜷缩的四肢，休息几个小时。
+
+locomotion 英 [ˌləʊkəˈməʊʃn] 美 [ˌloʊkəˈmoʊʃn]
+n. 	运动; 移动; 运动力; 移动力;
+[例句]Flight is the form of locomotion that puts the greatest demands on muscles
+飞行是对肌肉要求最高的运动形式。
