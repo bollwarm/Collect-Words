@@ -2614,3 +2614,54 @@ locomotion 英 [ˌləʊkəˈməʊʃn] 美 [ˌloʊkəˈmoʊʃn]
 n. 	运动; 移动; 运动力; 移动力;
 [例句]Flight is the form of locomotion that puts the greatest demands on muscles
 飞行是对肌肉要求最高的运动形式。
+
+gross 英 [grəʊs] 美 [groʊs]
+adj. 总的; 粗俗的; 显而易见的; 恶劣的;
+n. 	总额;
+vt.  总共收入;
+[例句]The company were guilty of gross negligence.
+该公司犯有严重过失。
+
+domestic  英 [dəˈmestɪk] 美 [dəˈmɛstɪk]
+adj. 国内的; 家庭的，家的; 驯养的; 热心家务的;
+n. 佣人; 国货;
+[例句]She was kind and domestic and put her family before her part-time job.
+她人很好也顾家，把家庭看得比兼职工作更为重要
+
+gross domestic product 英 [ɡrəus dəˈmestik ˈprɔdʌkt] 美 [ɡros dəˈmɛstɪk ˈprɑdəkt]
+[词典] 	国内生产毛额，国内生产总值;
+[例句]The gap between exports and imports indicates that net exports are an important contributing factor to gross domestic product.
+出口和进口之间的差距说明，净出口是国内生产总值（GDP）的一个重要贡献因素。
+
+peony 英 [ˈpi:əni] 美 [ˈpiəni]
+n. 牡丹，芍药;
+[例句]A peony is a showy flower.
+牡丹是艳丽的花。
+
+foxglove 英 [ˈfɒksglʌv] 美 [ˈfɑ:ksglʌv]
+n. 	毛地黄;
+[例句]She picked up a pink flower from a foxglove.
+她从毛地黄上斋了一朵港花。
+
+beech 英 [bi:tʃ] 美 [bitʃ]
+n. [植] 山毛榉; 山毛榉木材;
+adj. 山毛榉的，山毛榉木材的;
+[例句]The worktop is made of solid beech.
+操作台是由结实的山毛榉木做成的。
+
+birch 英 [bɜ:tʃ] 美 [bɜ:rtʃ]
+n. 桦树，桦木; （鞭打用的） 桦条;
+vt.  （用桦条） 抽打，鞭挞;
+[例句]Birch trees sprouted from the rubble and grew into a dense young wood.
+桦树从瓦砾中长出来，形成了一片茂密的新林。
+
+hornbeam 英 [ˈhɔ:nbi:m] 美 [ˈhɔ:rnbi:m]
+n. 	鹅耳枥; 角树，角树材;
+[例句]Study on dynamics of pubescent hornbeam population in karst mountain of Guiyang
+贵阳喀斯特山地云贵鹅耳枥种群动态研究
+
+nuptial 英 [ˈnʌpʃl] 美 [ˈnʌpʃəl, -tʃəl]
+adj. 婚姻的，婚礼的;
+n. 婚礼;
+[例句]I went to the room which he had called the nuptial chamber.
+我走进了他称之为洞房的房间。
