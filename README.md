@@ -2665,3 +2665,13 @@ adj. 婚姻的，婚礼的;
 n. 婚礼;
 [例句]I went to the room which he had called the nuptial chamber.
 我走进了他称之为洞房的房间。
+
+reeling  英 ['ri:lɪŋ] 美 ['ri:lɪŋ]
+v. 把东西用卷轴卷起来，从卷轴上放出来( reel的现在分词 ); 感到震惊; 发昏; 似乎在不停旋转;
+[例句]I stood up and almost fell, reeling against the deck rail.
+我站了起来，几乎跌倒，身体摇晃着靠在甲板的围栏上。
+
+scrutiny 英 [ˈskru:təni] 美 [ˈskrutni]
+n. 监督; 细看，细阅; 仔细的观察;
+[例句]His private life came under media scrutiny
+他的私生活受到媒体的密切关注。
