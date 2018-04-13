@@ -2675,3 +2675,34 @@ scrutiny 英 [ˈskru:təni] 美 [ˈskrutni]
 n. 监督; 细看，细阅; 仔细的观察;
 [例句]His private life came under media scrutiny
 他的私生活受到媒体的密切关注。
+
+hyper-connectivity 	
+网络 超接性;
+[例句]Second, hyper-connectivity has created hyper-transparency.
+第二，超连接性也造成了超透明度。
+
+erode 英 [ɪˈrəʊd] 美 [ɪˈroʊd]
+vt.  侵蚀，腐蚀;
+vi. 逐渐毁坏; 削弱，损害;
+[例句]By 1980, Miami beach had all but totally eroded
+到1980年，迈阿密海滩已经完全风蚀了。
+[其他] 	第三人称单数：erodes 现在分词：eroding 过去式：eroded 过去分词：eroded 
+
+hrive  英 [θraɪv] 美 [θraɪv]
+vi. 茁壮成长; 兴盛，兴隆; 长得健壮;
+[例句]Today his company continues to thrive
+今天，他的公司继续蓬勃发展。
+[其他] 	第三人称单数：thrives 现在分词：thriving 过去式：thrived 过去分词：thrived 
+
+apparel 英 [əˈpærəl] 美 [əˈpærəl]
+n. （商店出售的） 衣服; 外观，外表; 覆盖物;
+vt. 给…穿衣服（尤指华丽或特殊的服装）;
+[例句]Women's apparel is offered in petite, regular, and tall models.
+出售的女装有小号、中号和大号。
+[其他] 	第三人称单数：apparels 现在分词：appareling 过去式：appareled 过去分词：appareled 
+
+vow 英 [vaʊ] 美 [vaʊ]
+n. 誓言; 郑重宣布;
+vt. 起誓，发誓; 郑重宣告;
+[例句]While many models vow to go back to college, few do
+很多模特发誓要重回大学校园，但很少有人做到。
