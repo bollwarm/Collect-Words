@@ -2706,3 +2706,87 @@ n. 誓言; 郑重宣布;
 vt. 起誓，发誓; 郑重宣告;
 [例句]While many models vow to go back to college, few do
 很多模特发誓要重回大学校园，但很少有人做到。
+
+thrus 英 [θrʌst] 美 [θrʌst]
+vt.  猛推; 逼迫; 强行推入; 延伸;
+n. 推力; 刺; [军] 突击; [地] 逆断层;
+vi. 插入; 用力向某人刺去; 猛然或用力推;
+[例句]They thrust him into the back of a jeep 他们把他硬塞进吉普车后座。
+
+pivot 英 [ˈpɪvət] 美 [ˈpɪvət]
+n. 枢轴; 中心点，中枢; [物] 支点，支枢; [体] 回转运动;
+vi. 在枢轴上转动; 随…转移;
+vt.  把…放在枢轴上; 以…为核心; 使绕枢轴旋转; 由…而定;
+[例句]Forming the pivot of the exhibition is a large group of watercolours.
+整个展览的重点是一大组水彩画。
+
+pilot 英 [ˈpaɪlət] 美 [ˈpaɪlət]
+n. 飞行员; 引航员; 向导; [机械学]导向器（或轴）;
+vt. 试点; 试验; 驾驶; 为（船舶）引航（或操舵）;
+adj. 试验性的; 导向的; 驾驶员的; 辅助的;
+[例句]He spent seventeen years as an airline pilot.
+他当了17年的航空公司飞行员。
+
+coordination 英 [kəʊˌɔ:dɪˈneɪʃn] 美 [koʊˌɔ:rdɪˈneɪʃn]
+n. 	协调; 和谐;
+[例句]This exercise improves your coordination, balance, timing and footwork.
+这项锻炼可以提高协调能力、平衡力、把握时机的能力和脚法。
+
+maneuver 英 [mə'nu:və] 美 [məˈnuvɚ, -ˈnju-]
+v. 机动，演习;
+n. 策略，谋略，花招;
+vi. 移动，用策略;
+[例句]She tried to maneuver her body into a more comfortable position.
+她试着把身子挪了挪，换了一个较为舒服的姿势。
+
+vecton 	英 ['vektən] 美 ['vektən]
+[词典] 矢量粒子;
+[例句]Multi-Fault Classification Algorithm Based on Inter-Class Separability and Support Vecton Machine
+基于类间可分性度量和SVM的多故障分类算法
+
+sawtooth 英 ['sɔ:tu:θ] 美 ['sɔ:ˌtu:θ]
+n. 	锯齿，锐齿;
+[例句]Let's consider the sawtooth pattern of similar triangles in Fig. 9.
+我们来研究图9中一组相似三角形的锯齿形模型。
+
+outfit 英 [ˈaʊtfɪt] 美 [ˈaʊtˌfɪt]
+n. 全套装备; 一套服装; 集体; 组织;
+vt. 装备; 配置设备; 供给服装;
+vi. 得到装备;
+[例句]She was wearing an outfit she'd bought the previous day
+她穿着前一天买的那套衣服。
+
+nozzle 英 [ˈnɒzl] 美 [ˈnɑ:zl]
+n. 管嘴，喷嘴; 〈俚〉鼻子;
+[例句]If he put his finger over the nozzle he could produce a forceful spray.
+如果他把手指按在喷嘴上，就可以产生强力的喷射。
+
+tension  英 [ˈtenʃn] 美 [ˈtɛnʃən]
+n. 紧张，不安; 紧张气氛; [物] 张力，拉力; 矛盾;
+vt. 紧张; 使紧张;
+[例句]The tension between the two countries is likely to remain
+那两个国家间的紧张局面可能会持续下去。
+
+escalate 英 [ˈeskəleɪt] 美 [ˈɛskəˌlet]
+vt. 使逐步升级; 使逐步上升; 乘自动梯上升;
+vi. 逐步扩大; 逐步上升; （战争） 逐步升级; 像乘自动梯上升;
+[例句]Both unions and management fear the dispute could escalate
+工会和管理层都担心争端会恶化。
+
+flurry 	英 [ˈflʌri] 美 [ˈflɜ:ri]
+n. 一阵风、雨或雪; 爆发，骚动;
+vt. 使迷乱; 使慌张;
+vi. 慌张地行动;
+[例句]These young fellows are all in a flurry.
+他们全都是一些毛毛楞楞的小伙子。
+
+tariff 英 [ˈtærɪf] 美 [ˈtærɪf]
+n. 关税; 关税表; 价格表;
+vt. 征收关税; 定税率; 定收费标准;
+[例句]America wants to eliminate tariffs on items such as electronics.
+美国打算取消电子产品等的关税。
+
+commodity 英 [kəˈmɒdəti] 美 [kəˈmɑ:dəti]
+n. 商品; 日用品; 有价值的物品; 有利，有益;
+[例句]The government increased prices on several basic commodities like bread and meat.
+政府提高了面包、肉类等几种基本商品的价格。
