@@ -2790,3 +2790,77 @@ commodity 英 [kəˈmɒdəti] 美 [kəˈmɑ:dəti]
 n. 商品; 日用品; 有价值的物品; 有利，有益;
 [例句]The government increased prices on several basic commodities like bread and meat.
 政府提高了面包、肉类等几种基本商品的价格。
+
+auto-injector 英 ['ɔ:təʊɪndʒ'ektə] 美 ['ɔ:toʊɪndʒ'ektə]
+[词典] 	[医] 自动（肌肉）注射器;
+[例句]Conclusion: The digital subtraction method with high-pressure auto-injector could improve the quality of uterotubography image.
+结论：采用数字减影与高压注射器行子宫输卵管造影能提高造影质量。
+
+outrage 英 [ˈaʊtreɪdʒ] 美 [ˈaʊtˌredʒ]
+n. 	愤慨; 暴行; 义愤; 骇人听闻的事件;
+vt. 引起…的义愤，激怒; 凌辱，强奸; 虐待，迫害; 违反;
+[例句]Many people have been outraged by some of the things that have been said
+其中的一些言论激怒了很多人。
+
+germ 英 [dʒɜ:m] 美 [dʒɜ:rm]
+n. 微生物; [生] 幼芽，胚芽; 起源，萌芽;
+[例句]Chlorine is widely used to kill germs.
+氯气被广泛用于杀菌。
+
+lofty 英 [ˈlɒfti] 美 [ˈlɔ:fti]
+adj. 高尚的; 高耸的，巍峨的; 傲慢的;
+[例句]It was a bank that started out with grand ideas and lofty ideals
+这是一家创办伊始抱有雄心壮志的银行。
+
+adhere 英 [ədˈhɪə(r)] 美 [ədˈhɪr]
+vi. 坚持; 附着; 黏附; 追随;
+vt. 使粘附; 遵循，坚持; 追随，依附;
+[例句]All members of the association adhere to a strict code of practice
+协会的所有成员都遵守一套严格的行为规范。
+
+mood 英 [mu:d] 美 [mud]
+n. 心情; 语气; 气氛; 坏心境;
+[例句]He is clearly in a good mood today
+明摆着，他今天心情不错。
+
+subscriber 英 [səbˈskraɪbə(r)] 美 [səbˈskraɪbər]
+n. 用户，订户; <英>（慈善机关等的）定期捐款者; 预约者; 签署者;
+[例句]I have been a subscriber to Railway Magazine for many years.
+我订阅《铁路杂志》已有很多年了。
+
+boost 英 [bu:st] 美 [bust]
+vt. 增加; 促进，提高; 吹捧; 向上推起;
+vi. 宣扬; [美国俚语] （尤指在商店） 行窃，偷窃;
+n. 提高，增加; 帮助; 吹捧; 加速[助推]器;
+[例句]We need a big win to boost our confidence
+我们需要大胜一场来增强信心。
+
+immunotherapy 英 [ɪ'mju:nəʊ'θerəpɪ] 美 [ɪ'mjənoʊ'θerəpɪ]
+n. 	免疫疗法
+
+opioid 英 [əʊ'pi:əʊɪd] 美 [oʊ'pi:oʊɪd]
+adj.  类鸦片（引起）的;
+n. 	类鸦片活性肽;
+[例句]Dopamine pathways are closely associated with addiction and the deep-level pain relief induced by morphine and other opioid drugs.
+多巴胺和成瘾密切联系，所以吗啡和其他阿片药物可以缓解重度疼痛。
+
+chronic 英 [ˈkrɒnɪk] 美 [ˈkrɑ:nɪk]
+adj. 慢性的; 长期的; 习惯性的; 痼;
+[例句]Anyone who does not believe that smoking is an addiction has never been a chronic smoker.
+不相信抽烟能上瘾的人肯定不是老烟民。
+
+prescription 英 [prɪˈskrɪpʃn] 美 [prɪˈskrɪpʃən]
+n. 处方药; [医] 药方，处方; 训令，指示; 法规;
+[例句]You will have to take your prescription to a chemist.
+你得拿着处方去找药剂师。
+
+fluctuate 英 [ˈflʌktʃueɪt] 美 [ˈflʌktʃuˌet]
+vi.  波动; 涨落;
+vt.  使波动; 使动摇;
+[例句]Body temperature can fluctuate if you are ill.
+人患病后体温可能会上下波动。
+
+empirical 英 [ɪmˈpɪrɪkl] 美 [ɛmˈpɪrɪkəl]
+adj. 经验主义的; 凭经验的; 以观察或实验为依据的;
+[例句]There is no empirical evidence to support his thesis.
+他的论文缺乏实验证据的支持。
