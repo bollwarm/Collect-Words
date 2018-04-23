@@ -2864,3 +2864,20 @@ empirical 英 [ɪmˈpɪrɪkl] 美 [ɛmˈpɪrɪkəl]
 adj. 经验主义的; 凭经验的; 以观察或实验为依据的;
 [例句]There is no empirical evidence to support his thesis.
 他的论文缺乏实验证据的支持。
+
+embattle 英 [ɪm'bætl] 美 [ɪm'bætəl]
+vt. 布阵; 列阵; 严阵以待; 整军备战;
+[例句]The method of radar optimize embattle and the detection techniques for radar networks are studied in this paper.
+本文研究雷达组网优化布站方法和融合检测技术。
+
+testify 英 [ˈtestɪfaɪ] 美 ['testɪfaɪ]
+vi. 作证; 证明; 证实; 声明;
+vt. 作证; 证明，为…提供证明; 公开宣称，宣布;
+[例句]Several eyewitnesses testified that they saw the officers hit Miller in the face
+几位目击证人证明他们看见那几个警官打了米勒的脸。
+
+misperception 英 [mɪspə'sepʃn] 美 [mɪspə'sepʃn]
+[词典] 错误知觉;
+[例句]But we ran into a wall of misunderstanding and of misperception.
+但我们撞上了误会和误解之墙。
+
