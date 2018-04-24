@@ -2881,3 +2881,26 @@ misperception 英 [mɪspə'sepʃn] 美 [mɪspə'sepʃn]
 [例句]But we ran into a wall of misunderstanding and of misperception.
 但我们撞上了误会和误解之墙。
 
+scam  英 [skæm] 美 [skæm]
+n. 骗局; 诡计; <美俚>诓骗; 故事;
+vt. 欺诈; 诓骗;
+[例句]They believed they were participating in an insurance scam, not a murder
+他们认为自己是在参与一起保险诈骗，而不是谋杀。
+
+sue 英 [su:] 美 [su]
+vt. 起诉; 控告，控诉，和…打官司; 请求; 提起（诉讼）要求判决;
+[例句]The company could be sued for damages
+该公司可能会被起诉，要求其赔偿损失。
+
+ensnare 英 [ɪnˈsneə(r)] 美 [ɪnˈsner]
+vt. 诱捕，使入陷阱，使入圈套;
+[例句]Feminism is simply another device to ensnare women
+女权主义只是使女性陷入圈套的另一种手段。
+
+guise 英 [gaɪz] 美 [ɡaɪz]
+n.  伪装; 〈古〉装束，外衣; 形象，化身; 借口;
+vt. 使化装;
+vi. 伪装;
+[例句]He turned up at a fancy dress Easter dance in the guise of a white rabbit
+他扮成白兔在复活节化装舞会上亮相。
+
