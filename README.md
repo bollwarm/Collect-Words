@@ -2904,3 +2904,52 @@ vi. 伪装;
 [例句]He turned up at a fancy dress Easter dance in the guise of a white rabbit
 他扮成白兔在复活节化装舞会上亮相。
 
+reputation 英 [ˌrepjuˈteɪʃn] 美 [ˌrɛpjəˈteʃən]
+n. 	名气，名声; 好名声; 信誉，声望; 荣誉，名望;
+[例句]Alice Munro has a reputation for being a very depressing writer.
+艾丽斯·芒罗以文风沉郁闻名。
+
+whatsoever 英 [ˌwɒtsəʊ'evə] 美 [ˌhwɑtsoˈɛvɚ,ˌhwʌt-,ˌwɑt,ˌwʌt-]
+pron.  任何; 无论什么;
+[例句]My school did nothing whatsoever in the way of athletics
+我的学校在体育方面无所作为。
+
+plug  英 [plʌg] 美 [plʌɡ]
+n. 插头; 塞子; 消防栓; （内燃机的） 火花塞;
+vt. 插上插头;
+vt. 插入; 以（塞子）塞住; 〈俚〉枪击，殴打;
+[例句]She put the plug in the sink and filled it with cold water.
+她把水槽的塞子塞上，注满凉水。
+
+placate 英 [pləˈkeɪt] 美 [ˈpleɪkeɪt]
+vt. 安抚，抚慰，使平静; 使和解，平息;
+[例句]He smiled, trying to placate me
+他微笑着，想要安抚我。
+
+infuriate 英 [ɪnˈfjʊərieɪt] 美 [ɪnˈfjʊrieɪt]
+vt.  使大怒，激怒;
+adj.  狂怒的;
+[例句]Jimmy's presence had infuriated Hugh
+吉米的到场激怒了休。
+
+angular 英 [ˈæŋgjələ(r)] 美 [ˈæŋɡjəlɚ]
+adj. 有角的; 用角测量的，用弧度测量的; 生硬的，笨拙的; （人） 瘦削的;
+[例句]He had an angular face with prominent cheekbones.
+他的脸棱角分明，颧骨突出。
+
+rectangular 英 [rek'tæŋɡjələ(r)] 美 [rɛkˈtæŋɡjəlɚ]
+adj. 长方; <数> 矩形的; 成直角的; 直角坐标的;
+[例句]Construct a set of rectangular axes and resolve any inclined forces into rectangular components.
+作一组直角坐标轴，把各力都分解成正交分量。
+
+regular 英 [ˈregjələ(r)] 美 [ˈrɛɡjəlɚ]
+adj. 有规律的; 规则，整齐的; 不变的; 合格的;
+n. 正规军; 主力（或正式）队员; 常客;
+adv. 定期地; 经常地;
+[例句]Take regular exercise
+定期进行锻炼。
+
+clunky 英 [ˈklʌŋki] 美 [ˈklʌŋki]
+adj. 粗笨的；笨重的;
+[例句]Or are they too clunky?
+它们是不是太闷了？
