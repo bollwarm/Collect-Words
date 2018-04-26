@@ -2953,3 +2953,24 @@ clunky 英 [ˈklʌŋki] 美 [ˈklʌŋki]
 adj. 粗笨的；笨重的;
 [例句]Or are they too clunky?
 它们是不是太闷了？
+
+complacent 英 [kəmˈpleɪsnt] 美 [kəmˈplesənt]
+adj. 自满的; 自鸣得意的; 踌躇满志; 志得意满;
+[例句]We cannot afford to be complacent about our health.
+对于健康我们决不能掉以轻心。
+
+hijack 英 [ˈhaɪdʒæk] 美 [ˈhaɪˌdʒæk]
+vt. 劫持; 绑架; 拦路抢劫; 操纵（会议等，以推销自己的意图）;
+n. 劫持; 敲诈; 威逼;
+[例句]Two men tried to hijack a plane on a flight from Riga to Murmansk
+两名男子试图劫持一架从里加飞往摩尔曼斯克的飞机。
+
+divinely 英 [dɪ'vaɪnlɪ] 美 [dɪ'vaɪnlɪ]
+adv. 像神一样地，庄严地，凭神的力量;
+[例句]She not only sings like an angel, but also dances divinely.
+她不但唱歌唱得像天使一样，而且跳舞也跟天仙。
+
+immense  英 [ɪˈmens] 美 [ɪˈmɛns]
+adj. 极大的，巨大的; 浩瀚的，无边际的; 〈口〉非常好的; 弘道;
+[例句]With immense relief I stopped running.
+我长长地松了一口气，停止了奔跑。
