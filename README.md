@@ -2974,3 +2974,10 @@ immense  英 [ɪˈmens] 美 [ɪˈmɛns]
 adj. 极大的，巨大的; 浩瀚的，无边际的; 〈口〉非常好的; 弘道;
 [例句]With immense relief I stopped running.
 我长长地松了一口气，停止了奔跑。
+
+compromise 英 [ˈkɒmprəmaɪz] 美 [ˈkɑ:mprəmaɪz]
+n. 妥协; （名誉等的） 损害; 妥协（或折中）方案; 折中物;
+vi. 折中解决; 妥协，退让;
+vt. 违背（原则）; 连累; （尤指因行为不很明智） 使陷入危险;
+[例句]Encourage your child to reach a compromise between what he wants and what you want
+鼓励孩子在他的愿望和你的愿望之间找到一个折中点。
