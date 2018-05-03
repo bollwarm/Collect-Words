@@ -2981,3 +2981,41 @@ vi. 折中解决; 妥协，退让;
 vt. 违背（原则）; 连累; （尤指因行为不很明智） 使陷入危险;
 [例句]Encourage your child to reach a compromise between what he wants and what you want
 鼓励孩子在他的愿望和你的愿望之间找到一个折中点。
+
+emission 英 [iˈmɪʃn] 美 [ɪˈmɪʃən]
+n. 排放，辐射; 排放物，散发物（尤指气体）; （书刊）发行，发布（通知） ;
+[例句]The emission of gases such as carbon dioxide should be stabilised at their present level
+二氧化碳等气体的排放应该稳定在当前水平。
+
+voluntary 英 [ˈvɒləntri] 美 [ˈvɑ:lənteri]
+adj. 志愿的; 自愿的，自发的; 故意的，有意的; [法] 无偿的;
+n. 	自愿者; 自愿行动; 即兴演奏，自选节目; 自愿地做的工作;
+[例句]Attention is drawn to a special voluntary course in Commercial French
+一门特别的商务法语选修课引起了大家的关注。
+
+neutral 英 [ˈnju:trəl] 美 [ˈnu:trəl]
+adj.  中立的; （化学中） 中性的; 暗淡的; 不带电的;
+n. （汽车或其他机器的） 空挡位置; 中立人士; 中立国; 素净色;
+[例句]Let's meet on neutral territory
+
+pentagon 英 [ˈpentəgən] 美 [ˈpentəgɑ:n]
+n. 五边形，五角形; 五角大楼（指美国国防部）;
+[例句]The Pentagon says bad weather is hampering the allied air raids
+五角大楼称恶劣天气妨碍联合空袭。
+
+allegation 英 [ˌæləˈgeɪʃn] 美 [ˌælɪˈɡeʃən]
+n. 	指控; 陈述，主张; 宣称; 陈词，陈述;
+[例句]The company has denied the allegations
+公司否认了这些指控。
+
+peninsula 英 [pəˈnɪnsjələ] 美 [pəˈnɪnsələ]
+n. 	半岛; [史] 伊比利亚半岛，（第一次世界大战中指）加利波利半岛; （第一次世界大战中指） 加利波利半岛;
+[例句]I had walked around the entire peninsula.
+我走遍了整个半岛。
+
+sanction 英 [ˈsæŋkʃn] 美 [ˈsæŋkʃən]
+n. 约束力; 制裁，处罚; 批准，认可; 鼓励;
+vt. 批准; 鼓励，容忍;
+[例句]He may now be ready to sanction the use of force
+他现在可能打算批准使用武力。
+
