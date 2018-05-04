@@ -3019,3 +3019,15 @@ vt. 批准; 鼓励，容忍;
 [例句]He may now be ready to sanction the use of force
 他现在可能打算批准使用武力。
 
+sanction 英 [ˈsæŋkʃn] 美 [ˈsæŋkʃən]
+n. 	约束力; 制裁，处罚; 批准，认可; 鼓励;
+vt.  批准; 鼓励，容忍;
+[例句]He may now be ready to sanction the use of force
+他现在可能打算批准使用武力。
+
+flaw  英 [flɔ:] 美 [flɔ]
+n. 瑕疵，缺点; 一阵狂风; 短暂的风暴; 裂缝，裂纹;
+v. 使生裂缝，使有裂纹; 使无效; 使有缺陷;
+vi. 生裂缝; 变的有缺陷;
+[例句]There were, however, a number of crucial flaws in his monetary theory
+但是，他的货币理论中存在若干关键性错误。
