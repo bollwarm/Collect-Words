@@ -3031,3 +3031,40 @@ v. 使生裂缝，使有裂纹; 使无效; 使有缺陷;
 vi. 生裂缝; 变的有缺陷;
 [例句]There were, however, a number of crucial flaws in his monetary theory
 但是，他的货币理论中存在若干关键性错误。
+
+tan 英 [tæn] 美 [tæn]
+n. 黄褐色，棕黄色; 鞣料; 马戏团; 晒黑的皮色;
+vt. （使） 晒成棕褐色; 鞣（革）;
+vi. 晒成棕褐色;
+[例句]She is tall and blonde, with a permanent tan.
+她高个儿，一头金发，皮肤黝黑。
+
+sake  英 [seɪk] 美 [sek]
+n. 缘故; 理由; 日本米酒; 目的;
+[例句]Let's assume for the sake of argument that we manage to build a satisfactory database
+为了便于讨论，不妨假定我们成功地建立了一个令人满意的数据库。
+
+sunscreen 英 [ˈsʌnskri:n] 美 [ˈsʌnˌskrin]
+n. 防晒霜; （防晒油中的） 遮光剂;
+[例句]Re-apply sunscreen every two hours, especially if you have been swimming.
+每两个小时重新涂一次防晒油，尤其是在游泳的时候。
+
+soak 英 [səʊk] 美 [soʊk]
+vt. 浸泡，浸透; 吸入; 沉浸在（工作或学习中）; 湿透;
+vi. 浸泡; 渗透或浸透，渗出; 讲话者暂停了一下; [俚语] 酗酒;
+n. 湿透; 酒鬼; 浸湿性; [俚语] 醉汉;
+[例句]Soak the beans for 2 hours
+将豆子浸泡2小时。
+
+impact  英 [ˈɪmpækt] 美 [ˈɪmˌpækt]
+n. 影响; 碰撞，冲击，撞击; 冲击力;
+vt. 撞击; 挤入，压紧; 对…产生影响;
+vi. 产生影响; 冲撞，冲击;
+[例句]They say they expect the meeting to have a marked impact on the future of the country
+他们称他们预期会议对国家的未来会产生显著影响。
+
+careen 英 [kəˈri:n] 美 [kəˈrin]
+vt. 将船倾侧，将船倾倒（以清洗、捻缝或修理）;
+vi. 倾斜; 猛冲; 倚靠; <美>（车辆）歪歪斜斜地行驶;
+[例句]He stood to one side as they careened past him
+他们在他身边疾驰而过，他赶紧让到一边。
