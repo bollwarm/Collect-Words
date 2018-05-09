@@ -3068,3 +3068,31 @@ vt. 将船倾侧，将船倾倒（以清洗、捻缝或修理）;
 vi. 倾斜; 猛冲; 倚靠; <美>（车辆）歪歪斜斜地行驶;
 [例句]He stood to one side as they careened past him
 他们在他身边疾驰而过，他赶紧让到一边。
+
+migrant 英 [ˈmaɪgrənt] 美 [ˈmaɪɡrənt]
+n. 候鸟; 移居者，移民; 随季节迁移的工作者; 迁移动物;
+adj. 移居的; 流浪的; 同“migratory”;
+[例句]The government divides asylum-seekers into economic migrants and genuine refugees.
+政府把寻求避难者划分为经济移民与真正的难民。
+
+erect 英 [ɪˈrekt] 美 [ɪˈrɛkt]
+vt. 使直立，使竖起; 建立，创立; 安装; [医] 使勃起;
+adj. 直立的，垂直的; （头、手等） 朝上举的; 直竖的; [医] 勃起的;
+[例句]Opposition demonstrators have erected barricades in roads leading to the parliament building
+反对派示威者已经在通往国会大厦的道路上设置了路障。
+
+asylum 英 [əˈsaɪləm] 美 [əˈsaɪləm]
+n. 庇护; 避难所; 政治避难; 精神病院;
+[例句]He applied for asylum in 1987 after fleeing the police back home.
+1987年他在本国逃脱警察追捕后，就申请了政治庇护。
+
+caravan 英 [ˈkærəvæn] 美 [ˈkærəˌvæn]
+n. （可供居住的） 拖车，大篷车; （穿过沙漠地带的）旅行队（如商队） ; <英>活动住宅; <美>移民列车;
+vi. 乘拖车度假; 参加旅行队旅行;
+[例句]Pendergood had shovelled the sand out of the caravan.
+彭德古德把旅行拖车里的沙子铲了出来。
+
+temporarily 英 [tempəˈrerɪlɪ] 美 [tempəˈrerɪlɪ]
+adv. 暂时地; 临时地;
+[例句]Soldiers had temporarily closed the border between the two countries.
+士兵们临时封锁了两国之间的边境线。
