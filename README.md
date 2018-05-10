@@ -3096,3 +3096,116 @@ temporarily 英 [tempəˈrerɪlɪ] 美 [tempəˈrerɪlɪ]
 adv. 暂时地; 临时地;
 [例句]Soldiers had temporarily closed the border between the two countries.
 士兵们临时封锁了两国之间的边境线。
+
+texture 英 [ˈtekstʃə(r)] 美 [ˈtɛkstʃɚ]
+n. 质地; 结构; 本质;
+v. 使具有某种结构;
+[例句]Aloe Vera is used in moisturisers to give them a wonderfully silky texture
+芦荟用于润肤霜中，使之具有美妙的丝般润滑感。
+
+discoloration 英 [disˌkʌləˈreiʃən] 美 [dɪsˌkʌləˈreʃən]
+n. 变色，褪色，污染;
+[例句]You can use our NATU-CLEAR to remove dark spots, even skin tone and skin discoloration.
+你可以使用我们的自然清楚，以消除暗斑，甚至皮肤口气和皮肤变色。
+
+crucial 英 [ˈkru:ʃl] 美 [ˈkruʃəl]
+adj.  决定性的; 关键性的，极其显要的; 十字形的;
+[例句]He had administrators under him but took the crucial decisions himself
+他手下有管理人员，但重要的决策仍由他自己来做。
+
+exfoliate 英 [eksˈfəʊlieɪt] 美 [eksˈfoʊlieɪt]
+v. 片状剥落; 鳞片样脱落; 使片状脱落; 使鳞片脱落;
+[例句]Exfoliate your back at least once a week.
+每周至少一次搓掉背部死皮。
+
+subscribe 英 [səbˈskraɪb] 美 [səbˈskraɪb]
+vt. 认购; 认捐，捐赠; 签署，题词，署名; 订阅，订购;
+[例句]I've personally never subscribed to the view that either sex is superior to the other.
+我个人从来都不同意性别有优劣之分的观点。
+
+subscriber 英 [səbˈskraɪbə(r)] 美 [səbˈskraɪbər]
+n. 用户，订户; <英>（慈善机关等的）定期捐款者; 预约者; 签署者;
+[例句]I have been a subscriber to Railway Magazine for many years.
+我订阅《铁路杂志》已有很多年了。
+
+carrier 英 [ˈkæriə(r)] 美 [ˈkæriɚ]
+n.  搬运人; 运输公司; 搬运器; [医学] 带菌者; 运营商（电信）
+[例句]There were armoured personnel carriers and tanks on the streets
+街上有装甲运兵车和坦克。
+
+subsidiary 英 [səbˈsɪdiəri] 美 [səbˈsɪdieri]
+adj. 附带的，附属的，次要的; 助的，帮助的; 补足的;
+n. 附属事物，附属机构，子公司; 附属者，附属品;
+[例句]The economics ministry has increasingly played a subsidiary role to the finance ministry.
+经济部已经越来越成了财政部的附属了。
+
+romp 英 [rɒmp] 美 [rɑ:mp]
+vi. 嬉笑玩闹; 欢快地迅速奔跑; [俚] 轻易地取胜，不费力地完成;
+n. 顽皮嬉闹，玩闹; 顽童; 轻易取得的胜利;
+[例句]Mr Foster romped home with 141 votes.
+福斯特先生以141票轻松获胜。
+
+suborbital 英 [sʌ'bɔ:bətl] 美 [sʌ'bɔ:bətəl]
+adj. 眼眶下的; 亚的（亚轨道）
+[例句]Objective To observe the effect of adriamycin to suborbital nerve and trigeminal ganglion in the rabbits.
+目的观察阿霉素对兔眶下神经及三叉神经节的作用。
+
+impressive 英 [ɪmˈpresɪv] 美 [ɪmˈprɛsɪv]
+adj. 可观的; 给人印象深刻的，感人的; 引人注目的; 显赫;
+[例句]It is an impressive achievement
+那是一项了不起的成就。
+
+rival 英 [ˈraɪvl] 美 ['raɪvl]
+n. 对手; 竞争者;
+vt. 与…竞争; 比得上某人; 
+vi. 竞争;
+[例句]The world champion finished more than two seconds ahead of his nearest rival
+世界冠军领先第二名2秒多钟到达终点。
+
+bilateral 英 [ˌbaɪˈlætərəl] 美 [baɪˈlætərəl]
+adj. 两侧的; 双边的，双方的; 双向的; 双系的;
+[例句]China and the United States concluded [ entered into] a bilateral trade agreement after long negotiations.
+中美两国通过长期谈判后订立了一项双边贸易协定。
+
+criticism 英 [ˈkrɪtɪsɪzəm] 美 [ˈkrɪtɪˌsɪzəm]
+n. 批评，批判; 鉴定，审定，考证，校勘; 苛求，[哲]批判主义; 评论，评论文章;
+[例句]This policy had repeatedly come under strong criticism on Capitol Hill
+该政策在美国国会屡遭强烈批评。
+
+rampage 英 [ˈræmpeɪdʒ] 美 [ˈræmˌpedʒ]
+n. 乱闹; （因发怒等） 暴跳，暴怒; 狂暴行为;
+v. 暴跳，暴怒; 狂暴地乱冲;
+[例句]Hundreds of youths rampaged through the town, shop windows were smashed and cars overturned
+数百名年轻人在镇上横冲直撞，砸碎商店玻璃，掀翻车辆。
+
+civilian 英 [səˈvɪliən] 美 [sɪˈvɪljən]
+n. 文官; 市民; 平民，百姓; 民法学者;
+adj. 平民的; 民用的;
+[例句]The safety of civilians caught up in the fighting must be guaranteed.
+必须保证陷入战斗中的平民的人身安全。
+
+mimic 英 [ˈmɪmɪk] 美 [ˈmɪmɪk]
+n. 巧于模仿的人; 复写品或仿制品; 摹拟笑剧的演员;
+vt. 摹拟; 模仿，学样; [生] 拟形，拟色;
+adj. 模仿的，摹拟的; [生] 拟态的; 假装的;
+[例句]He could mimic anybody 他可以模仿任何人。
+
+perk 英 [pɜ:k] 美 [pɜ:rk]
+vt. 振作; （使） 活跃; 竖起，翘起; 滤煮;
+n. 额外津贴，外快;
+[例句]One of the perks of being a student is cheap travel.
+当学生的好处之一是旅行购票可以优惠。
+
+rubber 英 [ˈrʌbə(r)] 美 [ˈrʌbɚ]
+n. 橡胶; 橡皮; 决胜局; 避孕套;
+adj. 橡胶制成的;
+vt. 涂橡胶于; 用橡胶制造;
+[例句]Let's have a few rubbers of bridge.
+我们玩几局桥牌吧。
+
+warranty 英 [ˈwɒrənti] 美 [ˈwɔ:rənti]
+n. 保证，担保; [法] （商品等的） 保单; 根据，理由; 授权，批准;
+[例句]The equipment is still under warranty.
+这套设备仍在保修期内。
+
+
