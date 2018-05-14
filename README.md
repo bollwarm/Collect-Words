@@ -3208,4 +3208,61 @@ n. 保证，担保; [法] （商品等的） 保单; 根据，理由; 授权，�
 [例句]The equipment is still under warranty.
 这套设备仍在保修期内。
 
+handful 英 [ˈhændfʊl] 美 [ˈhændˌfʊl]
+n. 	少数，少量; 一把（的量）; 难以控制的人（或动物）; 棘手事;
+[例句]He surveyed the handful of customers at the bar
+他打量着吧台那边零星的几个顾客。
+
+hush 英 [hʌʃ] 美 [hʌʃ]
+vt. （使） 安静下来;
+n. 安静，寂静;
+vi. 安静，别说话，别叫喊;
+[例句]Hush, my love, it's all right.
+嘘，宝贝，没事了。
+
+reimburse 英 [ˌri:ɪmˈbɜ:s] 美 [ˌri:ɪmˈbɜ:rs]
+vt. 偿还，付还，归还;
+[例句]I'll be happy to reimburse you for any expenses you might have incurred
+我将很乐意赔偿您所发生的任何费用。
+
+campaign 英 [kæmˈpeɪn] 美 [kæmˈpen]
+n. 运动; 战役; 竞选运动; 季节性竞赛;
+vi. 作战; 参加[发起]运动，参加竞选; 参战，参加战役;
+[例句]During his election campaign he promised to put the economy back on its feet
+他在竞选时许诺将重振经济。
+
+hormone 英 [ˈhɔ:məʊn] 美 [ˈhɔ:rmoʊn]
+n. 激素; 荷尔蒙;
+[例句]She has been on hormone replacement therapy for four years and looks fantastic.
+她接受激素替代治疗已经4年了，看起来容光焕发。
+
+obesity 英 [əʊ'bi:sətɪ] 美 [oˈbisɪti]
+n. 肥胖症; 肥胖，过胖;
+[例句]The study also demonstrated a direct link between obesity and mortality
+该研究还表明了肥胖症和死亡率之间存在直接的联系。
+
+boredom 英 [ˈbɔ:dəm] 美 [ˈbɔ:rdəm]
+n. 厌倦; 讨厌，令人讨厌的事物; 无聊，无趣;
+[例句]He had given up attending lectures out of sheer boredom
+他不再去听那些讲座完全是出于厌倦。
+
+irresistible 英 [ˌɪrɪˈzɪstəbl] 美 [ˌɪrɪˈzɪstəbəl]
+adj. 不可抗拒; 无法抗拒的; 不可阻挡; 诱惑人的，具有非常的魅力的;
+[例句]It proved an irresistible temptation to Hall to go back.
+事实证明回去对霍尔是个不可抗拒的诱惑。
+
+peperoni 英 [pepə'rəʊnɪ] 美 [ˌpepə'roʊnɪ]
+n. 意大利辣香肠;
+[例句]Good luck trying to find that open peperoni brain.
+试着找找看，祝你好运，打开你那意大利香肠式的大脑。
+
+secretary 英 [ˈsekrətri] 美 [ˈsekrəteri]
+n. 秘书; 干事，书记员; 部长，大臣;
+[例句]My grandfather was secretary of the Scottish Miners 'Union.
+我的祖父是苏格兰矿工工会干事。
+
+detain 	英 [dɪˈteɪn] 美 [dɪˈten]
+vt.  耽搁; 留住，阻住; 拘留，扣留;
+[例句]The act allows police to detain a suspect for up to 48 hours
+该法令允许警方将嫌疑犯扣押最多48小时。
 
