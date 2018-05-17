@@ -3266,3 +3266,42 @@ vt.  耽搁; 留住，阻住; 拘留，扣留;
 [例句]The act allows police to detain a suspect for up to 48 hours
 该法令允许警方将嫌疑犯扣押最多48小时。
 
+cyber 英 ['saɪbə] 美 ['saɪbə]
+adj.  计算机（网络）的，信息技术的;
+[例句]But the cyber hackers and terrorists are not waiting about, amid this political gridlock.
+但网络黑客和恐怖分子不会在政治僵局中等待。
+
+elimination 英 [ɪˌlɪmɪ'neɪʃn] 美 [ɪˌlɪməˈneʃən]
+n. 淘汰; 排除; 除去; 根除;
+[例句]The elimination of all nuclear weapons would make the world a safer place
+销毁所有的核武器将会使世界变得更安全。
+
+coordinator 英 [kəʊ'ɔ:dɪneɪtə] 美 [koʊ'ɔ:dənˌeɪtə]
+n.  协调者; 同等的人（或物）;
+[例句]Office of the coordinator for humanitarian relief and rehabilitation;
+人道主义救济和重建协调员办事处；
+
+hashtag  [ˈhæʃtæɡ] 
+n. 	井号(#)标签（微博twitter中用来标注线索主题的标签）;
+[例句]The hashtag is Wir sind alle freaks, which means, We are all freaks in German.
+海报上标签写着Wir sind alle freaks就是我们都是怪物的德语。
+
+fragile 英 [ˈfrædʒaɪl] 美 [ˈfrædʒl]
+adj. 易碎的，脆的; 虚弱的;
+[例句]The fragile economies of several southern African nations could be irreparably damaged
+一些南非国家的脆弱经济可能会被彻底破坏，无法挽回。
+
+deforestation 英 [ˌdi:ˌfɒrɪˈsteɪʃn] 美 [ˌdi:ˌfɔ:rɪˈsteɪʃn]
+n. 采伐森林，森林开伐;
+[例句]He said Africa was suffering badly from deforestation: for every ten trees cut down, only one was planted.
+他说非洲的森林砍伐现象非常严重：每砍伐10棵树，仅种植1棵。
+
+rhino 英 [ˈraɪnəʊ] 美 [ˈraɪnoʊ]
+n. 犀牛(=rhinoceros); <俚> 钱，现金;
+[例句]They have driven the rhino to the edge of extinction
+他们已经令犀牛濒临灭绝。
+
+orangutan 英 [ɔ:ˌræŋu:'tæn] 美 [oʊ'ræŋu:ˌtæn]
+n. 猩猩;
+[例句]You could fall in love with an orangutan in that.
+你能和只猩猩在里面谈恋爱。
