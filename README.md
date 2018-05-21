@@ -3305,3 +3305,25 @@ orangutan 英 [ɔ:ˌræŋu:'tæn] 美 [oʊ'ræŋu:ˌtæn]
 n. 猩猩;
 [例句]You could fall in love with an orangutan in that.
 你能和只猩猩在里面谈恋爱。
+
+testimony 英 [ˈtestɪməni] 美 [ˈtestɪmoʊni]
+n. （法庭上证人的） 证词; 证明，证据; 表示，表明; 声明，宣言;
+[例句]His testimony was an important element of the Prosecution case
+他的证词是这宗公诉案件中的一个重要因素。
+
+mock 英 [mɒk] 美 [mɑ:k]
+vt. 愚弄，嘲弄;
+vt. 使受挫折; 不尊重，蔑视;
+adj. 模拟的; 仿制的; 虚假的; 不诚实的;
+[例句]I thought you were mocking me
+我还以为你是在嘲笑我。
+
+rhythm 英 [ˈrɪðəm] 美 [ˈrɪðəm]
+n. [诗] 节奏，韵律; [医] 节律，规律; [乐] 节拍; [艺] 调和;
+[例句]His music of that period fused the rhythms of Jazz with classical forms
+他那个时期的音乐将爵士乐的韵律和古典音乐的形式融合在了一起。
+
+mentality 英 [menˈtæləti] 美 [mɛnˈtælɪti]
+n. 心理; 思想; 智力; 精神力;
+[例句]Running a business requires a very different mentality from being a salaried employee.
+经营企业所要求具备的心态和上班族的心态截然不同。
