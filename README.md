@@ -3327,3 +3327,32 @@ mentality 英 [menˈtæləti] 美 [mɛnˈtælɪti]
 n. 心理; 思想; 智力; 精神力;
 [例句]Running a business requires a very different mentality from being a salaried employee.
 经营企业所要求具备的心态和上班族的心态截然不同。
+
+fascinate 英 [ˈfæsɪneɪt] 美 [ˈfæsəˌnet]
+vt. 蛊惑; 使着迷; 使神魂颠倒;
+vi. 入迷;
+[例句]Politics fascinated Franklin's father
+政治让富兰克林的父亲着迷。
+
+cultivate 英 [ˈkʌltɪveɪt] 美 [ˈkʌltəˌvet]
+vt. 耕作，种植; 教养，栽培; 改善; 交朋友;
+[例句]She also cultivated a small garden of her own.
+她还耕种了一片属于自己的小园子。
+
+curate 	英 [ˈkjʊərət] 美 [ˈkjʊrət]
+n. 〈英〉副牧师，教区牧师; 〈谑〉拨火棍;
+vt.  当（博物馆、美术馆、图书馆）馆长;
+[例句]The Hayward exhibition has been curated by the artist Bernard Luthi.
+海沃德艺术展是由艺术家伯纳德·吕蒂组织的。
+
+empathy 英 [ˈempəθi] 美 [ˈɛmpəθi]
+n. 神入; <心>移情作用; 同感，共鸣;
+[例句]Having begun my life in a children's home I have great empathy with the little ones.
+由于从小生活在儿童院，我对小家伙们产生了强烈的共鸣。
+
+pharmaceutical 英 [ˌfɑ:məˈsu:tɪkl] 美 [ˌfɑ:rməˈsu:tɪkl]
+adj. 制药的，配药的;
+n. 药物;
+[例句]Antibiotics were of no use, neither were other pharmaceuticals.
+抗生素没有效果，其他药物也没有作用。
+
