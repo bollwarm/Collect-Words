@@ -3013,11 +3013,6 @@ n. 	半岛; [史] 伊比利亚半岛，（第一次世界大战中指）加利�
 [例句]I had walked around the entire peninsula.
 我走遍了整个半岛。
 
-sanction 英 [ˈsæŋkʃn] 美 [ˈsæŋkʃən]
-n. 约束力; 制裁，处罚; 批准，认可; 鼓励;
-vt. 批准; 鼓励，容忍;
-[例句]He may now be ready to sanction the use of force
-他现在可能打算批准使用武力。
 
 sanction 英 [ˈsæŋkʃn] 美 [ˈsæŋkʃən]
 n. 	约束力; 制裁，处罚; 批准，认可; 鼓励;
@@ -3356,3 +3351,17 @@ n. 药物;
 [例句]Antibiotics were of no use, neither were other pharmaceuticals.
 抗生素没有效果，其他药物也没有作用。
 
+exemption 英 [ɪgˈzempʃn] 美 [ɪɡˈzɛmpʃən]
+n. （义务等的） 免除; 免（税）; （收入中的） 免税额;
+[例句]Legal exemption from liability for damages.
+免除对损失进行赔偿的责任和义务。
+
+obstacle 英 [ˈɒbstəkl] 美 [ˈɑ:bstəkl]
+n. 障碍（物）; 障碍物（绊脚石，障碍栅栏）;
+[例句]Most competition cars will only roll over if they hit an obstacle
+大多数赛车只有在撞上障碍物时才会翻车。
+
+impede 英 [ɪmˈpi:d] 美 [ɪmˈpid]
+vt. 阻碍; 妨碍; 阻止;
+[例句]Fallen rock is impeding the progress of rescue workers.
+坠落的石头阻滞了救援人员的救援进程。
