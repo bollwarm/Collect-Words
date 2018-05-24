@@ -3365,3 +3365,8 @@ impede 英 [ɪmˈpi:d] 美 [ɪmˈpid]
 vt. 阻碍; 妨碍; 阻止;
 [例句]Fallen rock is impeding the progress of rescue workers.
 坠落的石头阻滞了救援人员的救援进程。
+
+destroyer 英 [dɪˈstrɔɪə(r)] 美 [dɪˈstrɔɪɚ]
+n. 驱逐舰; 破坏者，扑灭者; 驱逐者; 起破坏作用的事物;
+[例句]The company is the world's largest destroyer of tropical forests.
+该公司对热带雨林的破坏位居世界之首。
