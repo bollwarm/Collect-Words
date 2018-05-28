@@ -3370,3 +3370,26 @@ destroyer 英 [dɪˈstrɔɪə(r)] 美 [dɪˈstrɔɪɚ]
 n. 驱逐舰; 破坏者，扑灭者; 驱逐者; 起破坏作用的事物;
 [例句]The company is the world's largest destroyer of tropical forests.
 该公司对热带雨林的破坏位居世界之首。
+
+fend 英 [fend] 美 [fɛnd]
+vt. 谋生; 防御，保护; 供养; 闪避，挡开;
+vi.  照料; 供养; 力争;
+[例句]The woman and her young baby had been thrown out and left to fend for themselves.
+这个女人和她年幼的婴儿被赶了出来，无人照管。
+
+democrat 英 [ˈdeməkræt] 美 [ˈdɛməˌkræt]
+n. 民主党人; 民主主义者，民主人士; <美>民主党党员;
+[例句]Congressman Tom Downey is a Democrat from New York.
+国会议员汤姆·唐尼是来自纽约州的一名民主党人。
+
+wiggle 英 [ˈwɪgl] 美 [ˈwɪɡəl]
+vt. 摆动; 扭动;
+n. 扭动;
+[例句]She wiggled her finger 她扭了扭手指。
+
+soar 英 [sɔ:(r)] 美 [sɔr, sor]
+vi. 高飞; 飞腾; 猛增，剧增; 高耸，屹立;
+n. 高飞; 高涨; 高飞范围; 上升高度;
+vt. 高飞越过; 飞升到;
+[例句]Insurance claims are expected to soar
+预计保险索赔数量会急剧增加。
