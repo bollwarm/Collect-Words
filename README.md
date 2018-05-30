@@ -3393,3 +3393,26 @@ n. 高飞; 高涨; 高飞范围; 上升高度;
 vt. 高飞越过; 飞升到;
 [例句]Insurance claims are expected to soar
 预计保险索赔数量会急剧增加。
+
+skew 英 [skju:] 美 [skju]
+adj.斜的，歪的; [数学] 不对称的; [统计学] 歪斜，扭曲;
+vt.歪曲; 曲解; 使歪斜;
+vi. 偏离，歪斜; 斜视;
+[例句]The arithmetic of nuclear running costs has been skewed by the fall in the cost of other fuels
+核运营成本的计算由于其他燃料的降价而出现了偏差。
+
+hostage 英 [ˈhɒstɪdʒ] 美 [ˈhɑ:stɪdʒ]
+n. 人质; 抵押品;
+[例句]It is hopeful that two hostages will be freed in the next few days.
+有两名人质可望在几天后获释。
+
+lithium 英 [ˈlɪθiəm] 美 [ˈlɪθiəm]
+n. <化>锂;
+[例句]The chemistry and electrochemistry of lithium electrolyte salts are introduced.
+介绍了锂离子电池电解质锂盐的化学和电化学。
+
+fertilizer 英 [ˈfɜ:təlaɪzə(r)] 美 [ˈfɜ:rtəlaɪzə(r)]
+n. 肥料，化肥; 受精媒介物; 促进发展者;
+[例句]The state allotted them large quantities of chemical fertilizer.
+国家给他们调拨了大量化肥。
+
