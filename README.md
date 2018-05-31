@@ -3416,3 +3416,25 @@ n. 肥料，化肥; 受精媒介物; 促进发展者;
 [例句]The state allotted them large quantities of chemical fertilizer.
 国家给他们调拨了大量化肥。
 
+malware  malicious software 英 [məˈlɪʃəs ˈsɔftwɛə] 美 [məˈlɪʃəs ˈsɔftˌwɛr]
+[词典] 	恶意软件;	
+n. 	恶意软件; 恶意软件。malware是malicious software的合成形式; 流氓软件;
+[例句]There is some preliminary automatic analysis and grouping with other malware samples we already have.
+有一些初步的自动分析，并与其他恶意软件的样本分组，我们已经有了。
+
+portrait 英 [ˈpɔ:treɪt] 美 [ˈpɔ:rtrət]
+n. 肖像，肖像画; 模型，标本; 半身雕塑像; 人物描写;
+[例句]Lucian Freud has been asked to paint a portrait of the Queen.
+卢西恩·弗洛伊德已受邀为女王画肖像画。
+
+auction 英 [ˈɔ:kʃn] 美 [ˈɔ:kʃn]
+n. 拍卖; 竞卖; 标售; （桥牌） 拍卖玩法;
+vt. 拍卖; 竞卖;
+[例句]Lord Salisbury bought the picture at auction in London some years ago
+几年前，索尔兹伯里勋爵在伦敦拍得了这幅画。
+
+penetrating 英 [ˈpenɪtreɪtɪŋ] 美 [ˈpɛnɪˌtretɪŋ]
+adj.  敏锐的; 有洞察力的; 聪明的; 响亮的;
+v. 渗透; 贯穿，穿过( penetrate的现在分词); 刺入; 了解;
+[例句]Mary heard the penetrating bell of an ambulance
+玛丽听到了刺耳的救护车警铃声。
