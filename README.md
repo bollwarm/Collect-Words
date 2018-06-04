@@ -3438,3 +3438,54 @@ adj.  敏锐的; 有洞察力的; 聪明的; 响亮的;
 v. 渗透; 贯穿，穿过( penetrate的现在分词); 刺入; 了解;
 [例句]Mary heard the penetrating bell of an ambulance
 玛丽听到了刺耳的救护车警铃声。
+
+obesity 英 [əʊ'bi:sətɪ] 美 [oˈbisɪti]
+n. 肥胖症; 肥胖，过胖;
+[例句]The study also demonstrated a direct link between obesity and mortality
+该研究还表明了肥胖症和死亡率之间存在直接的联系。
+
+regimen 英 [ˈredʒɪmən] 美 [ˈrɛdʒəmən, -ˌmɛn]
+n. 养生之道; （为病人规定的） 生活规则，养生法;
+[例句]Whatever regimen has been prescribed should be rigorously followed.
+不管制订的是什么样的养生计划，都要严格遵守。
+
+dietitian 英 [ˌdaɪəˈtɪʃn] 美 [ˌdaɪɪˈtɪʃən]
+n. 饮食学家，营养学家，膳食学家;
+[例句]The dietitian was helpful, making suggestions as to how I could improve my diet
+这位营养学家就如何改善饮食给我提出了些建议，对我很有帮助。
+
+elusive 英 [iˈlu:sɪv] 美 [ɪˈlusɪv]
+adj. 难以捉摸的; 不易记住的; 逃避的; 难以找到的;
+[例句]In London late-night taxis are elusive and far from cheap.
+在伦敦，深夜时难以打到出租车，而且车费非常贵。
+
+anticipate 英 [ænˈtɪsɪpeɪt] 美 [ænˈtɪsəˌpet]
+vt. 预见; 预料; 预感; 先于…行动;
+vi. 预测; 过早地提出; 过早地考虑（或说、做）一件事; （在口头或用文字） 预言;
+[例句]At the time we couldn't have anticipated the result of our campaigning
+那时我们不可能预料到我们这项运动的结果。
+
+cognitive 英 [ˈkɒgnətɪv] 美 [ˈkɑ:gnətɪv]
+adj. 认知的; 认识的;
+[例句]As children grow older, their cognitive processes become sharper.
+孩子们越长越大，他们的认知过程变得更为敏锐。
+
+clinical 英 [ˈklɪnɪkl] 美 [ˈklɪnɪkəl]
+adj. 临床的; 诊所的; 冷静的; 简陋的;
+[例句]The first clinical trials were expected to begin next year.
+第一批临床实验有望明年开始。
+
+aerobic 英 [eəˈrəʊbɪk] 美 [eˈroʊbɪk]
+adj. 需氧的，有氧的; 有氧健身的，增氧健身法;
+[例句]Aerobic exercise gets the heart pumping and helps you to burn up the fat.
+有氧运动加速心脏跳动，有助于消耗更多脂肪。
+
+dementia 英 [dɪˈmenʃə] 美 [dɪˈmɛnʃə]
+n. [医] 痴呆;
+[例句]She is suffering from senile dementia.
+她患有老年痴呆症。
+
+stealth 英 [stelθ] 美 [stɛlθ]
+n. 秘密行动; 鬼祟; 隐形，潜入;
+[例句]He claimed Tony Blair is trying to get us into the euro by stealth
+他声称托尼·布莱尔正试图神不知鬼不觉地让我们加入欧元体系。
