@@ -3489,3 +3489,37 @@ stealth 英 [stelθ] 美 [stɛlθ]
 n. 秘密行动; 鬼祟; 隐形，潜入;
 [例句]He claimed Tony Blair is trying to get us into the euro by stealth
 他声称托尼·布莱尔正试图神不知鬼不觉地让我们加入欧元体系。
+
+groundless 英 [ˈgraʊndləs] 美 [ˈɡraʊndlɪs]
+adj. 无理由的，无根据的; 平白无故; 飞; 莫须有;
+[例句]Fears that the world was about to run out of fuel proved groundless
+事实证明对于世界燃料即将耗尽的担忧毫无根据。
+
+accusation 英 [ˌækjuˈzeɪʃn] 美 [ˌækjuˈzeʃən]
+n. 指责，谴责; 指控，控告; （被告发、控告的） 罪名;
+[例句]Kim rejects accusations that Country music is over-sentimental
+对于乡村音乐过于感伤的指责，金表示反对。
+
+antagonism 英 [ænˈtægənɪzəm] 美 [ænˈtæɡəˌnɪzəm]
+n. 对立; 敌意; 对抗，敌对; 相克作用;
+[例句]There is still much antagonism between trades unions and the oil companies
+工会和石油公司之间仍然存在着相当大的敌意。
+
+pardon 英 [ˈpɑ:dn] 美 [ˈpɑ:rdn]
+vt. 原谅; 赦免; 宽恕; 劳驾;
+n. 	赦免; 饶恕，原谅; [宗] 免罪符;
+int. 	（用于请求别人重复某事） 什么，请再说一遍;
+[例句]'Will you let me open it?' — 'Pardon?' — 'Can I open it?'
+“我能打开它吗？”——“请再说一遍？”——“我能打开它吗？”
+
+reimburse 英 [ˌri:ɪmˈbɜ:s] 美 [ˌri:ɪmˈbɜ:rs]
+vt. 偿还，付还，归还;
+[例句]I'll be happy to reimburse you for any expenses you might have incurred
+我将很乐意赔偿您所发生的任何费用。
+
+straw 英 [strɔ:] 美 [strɔ]
+n. 稻草; 吸管; 麦秆; 毫无价值的东西;
+adj. 稻草的，麦秆的; 稻草[麦秆]做的; 假的，假想的; 无价值的;
+[例句]The barn was full of bales of straw
+谷仓里堆满了成捆的稻草。
+
