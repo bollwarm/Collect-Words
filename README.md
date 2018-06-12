@@ -3523,3 +3523,60 @@ adj. 稻草的，麦秆的; 稻草[麦秆]做的; 假的，假想的; 无价值�
 [例句]The barn was full of bales of straw
 谷仓里堆满了成捆的稻草。
 
+carbohydrate 英 [ˌkɑ:bəʊˈhaɪdreɪt] 美 [ˌkɑ:rboʊˈhaɪdreɪt]
+n. 碳水化合物，糖类; 淀粉质或糖类食物;
+[例句]Food is made up of carbohydrates, proteins and fats.
+食物由碳水化合物、蛋白质和脂肪构成。
+
+
+dehydration 英 [ˌdi:haɪ'dreɪʃn] 美 [ˌdihaɪˈdreʃən]
+n. 脱水; 失水; 干燥，极度口渴;
+[例句]The reaction mechanisms of the dehydration and alkylation are discussed.
+讨论了脱水反应和烷基化反应的机理。
+
+concession 英 [kənˈseʃn] 美 [kənˈsɛʃən]
+n. 让步，迁就; （尤指由政府或雇主给予的） 特许权; 租借地; 承认或允许;
+[例句]The King made major concessions to end the confrontation with his people.
+为了结束与其臣民的冲突，国王作出了很大的让步。
+
+clemency 英 [ˈklemənsi] 美 [ˈklɛmənsi]
+n. 宽容，仁慈; （尤指气候等） 温和;
+[例句]Seventeen prisoners held on death row are to be executed after their pleas for clemency were turned down.
+17名死刑犯申请宽大处理遭到驳回后即将被处决。
+
+stubborn 英 [ˈstʌbən] 美 [ˈstʌbərn]
+adj.  顽固的，固执的; 顽强的或有决心的; 坚持的; 棘手的;
+[例句]He is a stubborn character used to getting his own way
+他性格固执，惯于一意孤行。
+
+stun 英 [stʌn] 美 [stʌn]
+vt. 击晕，使昏厥; 使震聋; 使目瞪口呆; 使大吃一惊;
+n. 打击，刺激;
+[例句]Many cinema-goers were stunned by the film's violent and tragic end.
+许多来看电影的人都被这部影片暴力而悲惨的结局所震惊。
+
+obstruction 英 [əbˈstrʌkʃn] 美 [əbˈstrʌkʃən, ɑb-]
+n. 障碍物; 阻碍的行为或例子; 阻碍，受阻; 妨碍议事;
+[例句]John was irritated by drivers parking near his house and causing an obstruction.
+约翰对那些在他家附近泊车堵住通道的司机感到恼火。
+
+obstacle 英 [ˈɒbstəkl] 美 [ˈɑ:bstəkl]
+n. 障碍（物）; 障碍物（绊脚石，障碍栅栏）;
+[例句]Most competition cars will only roll over if they hit an obstacle
+大多数赛车只有在撞上障碍物时才会翻车。
+
+overhaul 英 [ˈəʊvəhɔ:l] 美 [ˈoʊvərhɔ:l]
+vt. 彻底检查; 翻修，检修; 赶上（他船）; 解松（船的）绳索;
+n. 大修; 检查; 彻底检修; 详细检查;
+[例句]They had ensured the plumbing was overhauled a year ago
+他们曾保证水管一年前彻底检修过。
+
+compensation 英 [ˌkɒmpenˈseɪʃn] 美 [ˌkɑ:mpenˈseɪʃn]
+n. 补偿，赔偿; 修正; 补救办法;
+[例句]He received one year's salary as compensation for loss of office
+他得到一年的工资作为失业补偿金。
+
+plaintiff 英 [ˈpleɪntɪf] 美 [ˈplentɪf]
+n. <律>原告;
+[例句]Mr. A was counsel for the plaintiff, and Mr. B for the defendant.
+A先生作原告的辩护人，B先生作被告的辩护人。
