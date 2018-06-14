@@ -3580,3 +3580,41 @@ plaintiff 英 [ˈpleɪntɪf] 美 [ˈplentɪf]
 n. <律>原告;
 [例句]Mr. A was counsel for the plaintiff, and Mr. B for the defendant.
 A先生作原告的辩护人，B先生作被告的辩护人。
+
+merchandise 英 [ˈmɜ:tʃəndaɪs] 美 [ˈmɜ:rtʃəndaɪs]
+n. 商品; 货物; vt. 销售; 买卖; vi. 经商;
+[例句]Retailers can return defective merchandise.
+零售商可以退回有缺陷的商品。
+
+speculation 英 [ˌspekjuˈleɪʃn] 美 [ˌspɛkjəˈleʃən]
+n. 投机活动; 投机买卖; 思考; 推断;
+[例句]I am tired of all the speculation
+我厌烦了所有的推测。
+
+unveil 英 [ˌʌnˈveɪl] 美 [ʌnˈvel]
+vt. 揭露; 揭去…的面罩; 拉开…的帷幔; 使公之于众;
+vi. 除去面纱（或覆盖物），揭幕; 揭露出来，显露;
+[例句]Mr Werner unveiled his new strategy this week
+沃纳先生本周公布了其新策略。
+
+befall 英 [bɪˈfɔ:l] 美 [bɪˈfɔl]
+vt. 降临到（某人）头上; 发生，降临;
+vi. 降临;
+[例句]To be cast out from civilization was the worst fate that could possibly befall me.
+被文明社会抛弃是可能降临在我身上的最悲惨的命运。
+
+jeopardize 英 [ˈdʒepədaɪz] 美 [ˈdʒepərdaɪz]
+vt. 危及，损害; 使陷入险境或受伤; 使…遇险;
+[例句]The talks may still be jeopardized by disputes.
+会谈仍有可能因存在争端而破裂。
+
+meltdown 英 [ˈmeltdaʊn] 美 [ˈmɛltˌdaʊn]
+n. 彻底垮台;
+[例句]Emergency cooling systems could fail and a reactor meltdown could occur.
+紧急冷却系统有可能失灵，核反应堆有可能发生堆芯熔毁。
+
+layoff 英 ['leɪɔ:f] 美 [ˈleˌ ɔf]
+n. 临时解雇; 停工，停止活动; 操作停止; 失业期;
+[例句]It will close more than 200 stores nationwide resulting in the layoffs of an estimated 2,000 employees.
+它将关闭全国200多家店铺，估计会有2,000名员工因此失业。
+
