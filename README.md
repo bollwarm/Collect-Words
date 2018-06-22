@@ -3618,3 +3618,79 @@ n. 临时解雇; 停工，停止活动; 操作停止; 失业期;
 [例句]It will close more than 200 stores nationwide resulting in the layoffs of an estimated 2,000 employees.
 它将关闭全国200多家店铺，估计会有2,000名员工因此失业。
 
+courtroom  英 [ˈkɔ:tru:m] 美 [ˈkɔ:rtru:m]
+n. 法庭，审判室;
+[例句]This courtroom battle has been a poor advert for English justice.
+这场法庭上的争论为英格兰的司法制度做了一次拙劣的广告。
+
+bail 英 [beɪl] 美 [bel]
+n. [法律] 保释金; 保释人，保释; [板球] 三柱门上的横木; （马厩的） 栅栏;
+vt. 保释，帮助脱离困境; 将（财物）委托给…; 往外舀水;
+
+appetite 英 [ˈæpɪtaɪt] 美 [ˈæpɪˌtaɪt]
+n. 欲望; 胃口，食欲; 嗜好，爱好;
+[例句]He has a healthy appetite
+他胃口很好。
+
+pending 英 [ˈpendɪŋ] 美 [ˈpɛndɪŋ]
+prep. 直到，在等待…期间;
+adj. 未决的; 待定的; 未定的; 即将发生的;
+[例句]The cause of death was listed as pending
+死亡原因被列为待定。
+
+trial 英 [ˈtraɪəl] 美 [ˈtraɪəl, traɪl]
+n. 试验; [法] 审讯，审判; 磨难，困难; [体] 选拔赛;
+adj. 试验的; [法] 审讯的;
+[例句]New evidence showed the police lied at the trial
+新的证据表明警方在审讯时撒了谎。
+
+ensnare 英 [ɪnˈsneə(r)] 美 [ɪnˈsner]
+vt. 诱捕，使入陷阱，使入圈套;
+[例句]Feminism is simply another device to ensnare women
+女权主义只是使女性陷入圈套的另一种手段。
+
+laundry 英 [ˈlɔ:ndri] 美 [ˈlɔndri, ˈlɑn-]
+n. 洗衣店，洗衣房; 洗好的衣服; 待洗的衣服; 洗熨;
+[例句]We had to have the washing done at the laundry.
+我们得把衣服拿到洗衣店去洗。
+
+postpone  英 [pəˈspəʊn] 美 [poʊˈspoʊn]
+vt. 使延期，延缓; 把…放在次要地位; 把…放在后面;
+vi. 延缓; 延缓发作;
+[例句]He decided to postpone the expedition until the following day
+他决定把探险推迟到第二天。
+
+wardrobe 英 [ˈwɔ:drəʊb] 美 [ˈwɔ:rdroʊb]
+n. 行头; 衣柜，衣橱; 藏衣室; （个人，戏团的） 全部服装;
+[例句]Her wardrobe consists primarily of huge cashmere sweaters and tiny Italian sandals.
+她的衣物主要是宽大的开司米毛衣和小巧的意大利凉鞋。
+
+menswear 英 [ˈmenzweə(r)] 美 [ˈmenzwer]
+n. <正>男装; 男装部; 男服;
+[例句]I could get a job seiiing menswear.
+我可以找一个卖男装的工作。
+
+grumble 英 [ˈgrʌmbl] 美 [ˈɡrʌmbəl]
+vi. 抱怨; 发牢骚; 嘟囔; （雷等） 隆隆响;
+vt. 喃喃地说出;
+n. 抱怨; 牢骚; 咕哝; （雷等的） 隆隆声;
+[例句]I shouldn't grumble about Mum — she's lovely really
+我不该抱怨妈妈——她真的很好。
+
+drastic 英 [ˈdræstɪk] 美 [ˈdræstɪk]
+adj. 激烈的; 极端的; 猛烈的; （法律等） 严厉的;
+[例句]Drastic measures are needed to clean up the profession
+行业清理整顿需要严厉的措施。
+
+conglomerate 英 [kənˈglɒmərət] 美 [kənˈglɑ:mərət]
+n. 	砾岩; 联合大企业; 合成物; 组合物;
+adj. 成团的; 砾岩性的;
+vt. 使聚结; 使成团;
+[例句]Fiat is Italy's largest industrial conglomerate.
+菲亚特是意大利最大的产业集团。
+
+overhaul 英 [ˈəʊvəhɔ:l] 美 [ˈoʊvərhɔ:l]
+vt. 彻底检查; 翻修，检修; 赶上（他船）; 解松（船的）绳索;
+n. 大修; 检查; 彻底检修; 详细检查;
+[例句]They had ensured the plumbing was overhauled a year ago
+他们曾保证水管一年前彻底检修过。
