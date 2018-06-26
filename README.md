@@ -3694,3 +3694,30 @@ vt. 彻底检查; 翻修，检修; 赶上（他船）; 解松（船的）绳索;
 n. 大修; 检查; 彻底检修; 详细检查;
 [例句]They had ensured the plumbing was overhauled a year ago
 他们曾保证水管一年前彻底检修过。
+
+blowout 英 [ˈbləʊaʊt] 美 [ˈbloʊaʊt]
+n. 爆胎; 盛宴; 盛大聚会; 轻易的胜利;
+[例句]Once in a while we had a major blowout.
+我们偶尔会吃顿大餐。
+
+tournament 英 [ˈtʊənəmənt] 美 [ˈtʊrnəmənt]
+n. 锦标赛; 锦标赛，联赛; 中世纪的骑士比武;
+[例句]We produced the best soccer of the tournament. Nobody would argue with that.
+本届比赛中我们踢出了最漂亮的足球，谁都不会否认这一点。
+
+duo 英 [ˈdju:əʊ] 美 [ˈdu:oʊ]
+n. 二重唱; 二人组;
+[例句]The duo set up a scam to settle their respective debts.
+那对搭档设了一计以消除各自的债务。
+
+bonus 英 [ˈbəʊnəs] 美 [ˈboʊnəs]
+n. 奖金，额外津贴; 红利，额外股息; 退职金; 额外令人高兴的事情;
+[例句]Workers in big firms receive a substantial part of their pay in the form of bonuses and overtime.
+大公司的员工有相当一部分薪酬来自奖金和加班费。
+
+scramble 英 [ˈskræmbl] 美 [ˈskræmbəl]
+vi. 攀登，爬; 争夺，抢夺; （植物） 蔓延; [航] 紧急起飞;
+vt. 攀登，爬; 把…搅乱; 炒（蛋）;
+n. 抢夺; 混乱; 攀登; [航] 紧急起飞;
+[例句]Tourists were scrambling over the rocks looking for the perfect camera angle
+游客们在正爬上岩石寻找最佳的拍摄角度。
