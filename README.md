@@ -3721,3 +3721,85 @@ vt. 攀登，爬; 把…搅乱; 炒（蛋）;
 n. 抢夺; 混乱; 攀登; [航] 紧急起飞;
 [例句]Tourists were scrambling over the rocks looking for the perfect camera angle
 游客们在正爬上岩石寻找最佳的拍摄角度。
+
+opponent 英 [əˈpəʊnənt] 美 [əˈpoʊnənt]
+n. 对手; 敌手; 反对者;
+adj. 对立的; 敌对的;
+[例句]He described the detention without trial of political opponents as a cowardly act.
+他称未经审判就将政敌关押起来是懦夫之举。
+
+desperate 英 [ˈdespərət] 美 [ˈdɛspərɪt]
+adj. 绝望的; 由绝望而引起的; 铤而走险的，孤注一掷的; 急切的，极度渴望的;
+[例句]Troops are needed to help get food into Kosovo where people are in desperate need
+需要军队帮助将科索沃人民亟需的食品送抵那里。
+
+penalty 英 [ˈpenəlti] 美 [ˈpɛnəlti]
+n. 刑罚; 惩罚; 害处; 足球点球;
+[例句]One of those arrested could face the death penalty
+被捕的那些人中有一人可能被判死刑。
+
+substantial 英 [səbˈstænʃl] 美 [səbˈstænʃəl]
+adj. 大量的; 结实的，牢固的; 重大的;
+n. 本质; 重要材料;
+[例句]The party has just lost office and with it a substantial number of seats
+该党刚刚竞选失利，同时还失去了许多席位。
+
+scenario 英 [səˈnɑ:riəʊ] 美 [səˈnærioʊ]
+n.（行动的） 方案; 剧情概要; 分镜头剧本;
+[例句]In the worst-case scenario, you could become a homeless person
+最坏的情况是你可能会无家可归。
+
+manipulate 英 [məˈnɪpjuleɪt] 美 [məˈnɪpjəˌlet]
+vt. 操纵; 操作，处理; 巧妙地控制; [医] 推拿，调整;
+[例句]He is a very difficult character. He manipulates people
+他是个极难对付的角色，总是把人玩弄于股掌之间。
+
+yogurt 英 [ˈjəʊgət] 美 [ˈjoɡət]
+n. 酸奶; 酸乳酪;
+[例句]Greek yogurt contains much less fat than double cream
+希腊酸奶比高脂浓奶油所含脂肪要少得多。
+
+hummus 英 [ˈhʊməs] 美 [ˈhʊməs, ˈhʌm-]
+n. 鹰嘴豆泥，鹰嘴豆沙;
+[例句]The organisers claimed world records for both the size of the dish and the quantity of hummus produced.
+组织者声称对大小的菜和所生产的豆沙数量的世界纪录。
+
+tahini 英 [tɑ:ˈhi:ni] 美 [təˈhini]
+n. （中东地区调味用的） 芝麻酱;
+[例句]Above you'll see the dish topped with olive oil, cayenne, tahini sauce, a hard boiled egg, and some diced green veggies.
+图中你看见菜中滴有橄榄油，撒了辣椒，芝麻酱，煮蛋和一些绿色蔬菜丁儿。
+
+assemble 英 [əˈsembl] 美 [əˈsɛmbəl]
+vt. 集合，收集;
+vt. 装配，组合;
+[例句]There wasn't even a convenient place for students to assemble between classes
+在课间，学生们连一个方便凑在一起的地方都没有。
+
+tobacco 英 [təˈbækəʊ] 美 [təˈbækoʊ]
+n. 卷烟; 烟草，烟叶; 烟草制品; 纸烟;
+[例句]Try to do without tobacco and alcohol
+尽量不要抽烟喝酒。
+
+toxic 英 [ˈtɒksɪk] 美 [ˈtɑ:ksɪk]
+adj.  有毒的; 中毒的; 因中毒引起的;
+n. 毒物; 毒剂;
+[例句]These products are not toxic to humans.
+这些产品对人类没有毒性。
+
+metastasize 英 [mɪ'tæstəsaɪz] 美 [mə'tæstəˌsaɪz]
+vi. 转移;
+[例句]Cancer cells metastasize through the body.
+癌细胞蔓延全身。
+
+troll 英 [trɒl] 美 [troʊl]
+v. 使） 旋转; 合唱中的轮唱; 放声高唱; 钓（鱼）;
+n. 旋转，轮唱，钓鱼;
+[例句]I trolled along to see Michael Frayn's play, 'Noises Off'
+我慢悠悠地走着去看迈克尔·弗莱恩的戏剧《糊涂戏班》。
+
+trickle 英 [ˈtrɪkl] 美 [ˈtrɪkəl]
+v. 	滴; 细细地流; 使淌下; 慢慢地移动;
+n. 	滴; 涓流; 细流; 稀稀疏疏缓慢来往的东西;
+[例句]A tear trickled down the old man's cheek
+一滴眼泪沿着老人的脸颊淌了下来。
+
