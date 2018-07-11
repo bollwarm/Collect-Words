@@ -3803,3 +3803,98 @@ n. 	滴; 涓流; 细流; 稀稀疏疏缓慢来往的东西;
 [例句]A tear trickled down the old man's cheek
 一滴眼泪沿着老人的脸颊淌了下来。
 
+enthusiast 英 [ɪnˈθju:ziæst] 美 [ɪnˈθu:ziæst]
+n. 狂热者; 热情者，热心者; 热衷于…的人; 宗教狂;
+[例句]He is a great sports enthusiast.
+他是个超级体育迷。
+
+ineligible 英 [ɪnˈelɪdʒəbl] 美 [ɪnˈɛlɪdʒəbəl]
+adj. 无入选资格的，不合格的; 无被选权;
+[例句]They were ineligible to remain in the USA.
+他们不符合条件，不能继续留在美国。
+
+betray 英 [bɪˈtreɪ] 美 [bɪˈtre]
+vt. 背叛; 出卖; 泄露; 对…不忠;
+[例句]When I tell someone I will not betray his confidence I keep my word
+如果我告诉某人我不会辜负他的信任，我就会恪守诺言。
+
+chorus 英 [ˈkɔ:rəs] 美 [ˈkɔrəs, ˈkor-]
+n. 合唱; 合唱队; （歌曲的） 副歌; 合唱歌（曲）;
+vt. 合唱; 齐声背诵; 异口同声地说;
+[例句]Caroline sang two verses and the chorus of her song
+卡罗琳唱了她歌曲中的两段和副歌部分。
+
+shave 英 [ʃeɪv] 美 [ʃev]
+vt. 剃须，剃毛;
+vt. 剃，削去; 修剪; 切成薄片; 掠过;
+n. 修面; 刮脸，剃胡子; <口>侥幸逃过，幸免; 剃刀，刮刀;
+[例句]He took a bath and shaved before dinner
+晚餐前他洗了澡，刮了脸。
+
+rhesus 英 ['ri:səs] 美 ['ri:səs]
+n. 猕猴; 恒河猴（一种猕猴，多用于实验）; 狙;
+[例句]Objective To investigate the influence of myopic optical defocus on the emmetropization of infant rhesus monkeys.
+研究近视性光学离焦对幼恒河猴正视化过程的影响。
+
+mortgage 英 [ˈmɔ:gɪdʒ] 美 [ˈmɔ:rgɪdʒ]
+n. 抵押; 抵押单据，抵押证明; 抵押权，债权;
+vt. 抵押;
+[例句]They had to mortgage their home to pay the bills.
+他们不得不抵押房屋借贷来支付这些款项。
+
+mortgage lender 
+网络 抵押贷款机构;
+[例句]But the sign makes clear the house has been repossessed by a local mortgage lender and warns against trespassing.
+但那个标识清楚表明，这幢房子已经被当地的抵押贷款发放机构收回，并警示人们未经许可不得进入。
+
+interferon 英 [ˌɪntəˈfɪərɒn] 美 [ˌɪntərˈfɪrɑ:n]
+n. 干扰素;
+[例句]What effects would interferon have on leukemia?
+干扰素会对白血病起什么影响？
+
+patriotic 英 [ˌpeɪtriˈɒtɪk] 美 [ˌpeɪtriˈɑ:tɪk]
+adj. 爱国主义的; 爱国的，有爱国心的;
+[例句]Woosnam is fiercely patriotic
+伍斯纳姆非常爱国。
+
+overturn  英 [ˌəʊvəˈtɜ:n] 美 [ˌoʊvərˈtɜ:rn]
+vt. （使） 翻倒;
+vt. 使垮台，推翻; 撤销（判决等）;
+n. 推翻，垮台; 瓦解; 灭亡，毁灭;
+[例句]The lorry veered out of control, overturned and smashed into a wall
+卡车突然失控，翻倒撞上了一堵墙。
+
+mortality 英 [mɔ:ˈtæləti] 美 [mɔ:rˈtæləti]
+n. 死亡数，死亡率; 必死性，必死的命运;
+[例句]The nation's infant mortality rate has reached a record low.
+该国的婴儿死亡率已降至历史最低水平。
+
+abortion 英 [əˈbɔ:ʃn] 美 [əˈbɔ:rʃn]
+n. 流产; 流产的胎儿; 畸形; 夭折;
+[例句]His girlfriend had an abortion.
+他的女朋友做了流产。
+
+tuberculosis 英 [tju:ˌbɜ:kjuˈləʊsɪs] 美 [tu:ˌbɜ:rkjəˈloʊsɪs]
+n. 肺结核; [医] 结核病; 痨; 痨病;
+[例句]I had tuberculosis and was told I'd be in the sanatorium for two years.
+我得了肺结核，被告知要在疗养院呆两年。
+
+evacuate 英 [ɪˈvækjueɪt] 美 [ɪˈvækjuˌet]
+vt. 撤离，疏散; 排泄; 腾出（房子等）; 除清，抽空;
+vi. 疏散; 撤退; 排空（胃肠）;
+[例句]They were planning to evacuate the seventy American officials still in the country
+他们正计划转移仍滞留在该国的70名美国官员。
+
+HAZMAT 	
+abbr. 	hazardous material(s) 危险品; 
+Hazrdous Materials Response and Assessments Division 危险材料反应和评估部门;
+[例句]I'll take all the hazmat precautions.
+我会戴上所有防护设备。
+
+crew 英 [kru:] 美 [kru]
+n. 全体船员; 全体乘务员; 一群，一帮;
+vt. 当（尤指船上的）工作人员; 当（尤指船上的）工作人员;
+vi. 当船员; 当机务人员;
+[例句]The mission for the crew of the space shuttle Endeavour is essentially over
+“奋进号”航天飞机上全体机组人员的任务基本上已经完成了。
+
