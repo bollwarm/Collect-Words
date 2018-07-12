@@ -3898,3 +3898,8 @@ vi. 当船员; 当机务人员;
 [例句]The mission for the crew of the space shuttle Endeavour is essentially over
 “奋进号”航天飞机上全体机组人员的任务基本上已经完成了。
 
+contender 英 [kənˈtendə(r)] 美 [kənˈtɛndɚ]
+n. （冠军） 争夺者，竞争者; 打孔装置; 钻机;
+[例句]Her trainer said yesterday that she would be a strong contender for a place in Britain's Olympic squad
+她的教练昨天说，她将是英国奥运代表队席位的有力争夺者。
+
