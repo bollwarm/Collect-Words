@@ -3903,3 +3903,35 @@ n. （冠军） 争夺者，竞争者; 打孔装置; 钻机;
 [例句]Her trainer said yesterday that she would be a strong contender for a place in Britain's Olympic squad
 她的教练昨天说，她将是英国奥运代表队席位的有力争夺者。
 
+pulse 英 [pʌls] 美 [pʌls]
+n. 脉搏; [无线电] （电磁波等） 脉动; 活力; 有节奏的跳动（或拍打）;
+vi. 脉动; （心脏） 跳动; 搏动; 震动;
+vt. 使跳动; 有节奏地驱动（机器等）; [电子学] 施以脉冲; [无线电]脉冲地调节（电磁波）;
+[例句]Mahoney's pulse was racing, and he felt confused.
+马奥尼脉搏跳得很快，他感到很慌乱。
+
+meteorite 英 [ˈmi:tiəraɪt] 美 [ˈmitiəˌraɪt]
+n. 陨石; 陨星; 流星; 陨铁;
+[例句]The blast may have vaporised the meteorite.
+爆炸可能使陨石气化了。
+
+cultivate 英 [ˈkʌltɪveɪt] 美 [ˈkʌltəˌvet]
+vt. 耕作，种植; 教养，栽培; 改善; 交朋友;
+[例句]She also cultivated a small garden of her own.
+她还耕种了一片属于自己的小园子。
+
+deflect 英 [dɪˈflekt] 美 [dɪˈflɛkt]
+vt. 使歪斜; 使弯曲; 偏转，偏离;
+[例句]Cage changed his name to deflect accusations of nepotism
+凯奇改了名字以避免别人指责他搞裙带关系。
+
+asteroid 英 [ˈæstərɔɪd] 美 [ˈæstəˌrɔɪd]
+n. [天] 小行星; 海盘车; 海星;
+adj. 星状的;
+[例句]There is an asteroid on a collision course with the Earth.
+有一颗小行星可能会与地球发生碰撞。
+
+steroid 英 [ˈsterɔɪd] 美 [ˈstɪrˌɔɪd, ˈstɛr-]
+n. [生化] 甾类化合物，类固醇;
+[例句]I felt so strange on the steroid injections. I was as high as a kite some of the time.
+注射类固醇后我感觉很奇特。我有时会极度兴奋。
