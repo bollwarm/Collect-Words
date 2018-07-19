@@ -3935,3 +3935,98 @@ steroid 英 [ˈsterɔɪd] 美 [ˈstɪrˌɔɪd, ˈstɛr-]
 n. [生化] 甾类化合物，类固醇;
 [例句]I felt so strange on the steroid injections. I was as high as a kite some of the time.
 注射类固醇后我感觉很奇特。我有时会极度兴奋。
+
+fraudulent 英 [ˈfrɔ:djələnt] 美 [ˈfrɔ:dʒələnt]
+adj. 欺骗的，不诚实的; 奸诈;
+[例句]There is no evidence that the broker was in league with the fraudulent vendor
+没有证据表明该经纪人与进行诈骗的卖主狼狈为奸。
+
+transparency 英 [trænsˈpærənsi] 美 [trænsˈpɛrənsi, -ˈpær-]
+n. 透明度; 透明; 透明性; 透明的东西;
+[例句]Cataracts is a condition that affects the transparency of the lenses.
+白内障是一种影响晶状体透明性的疾病。
+
+unveil 英 [ˌʌnˈveɪl] 美 [ʌnˈvel]
+vt. 揭露; 揭去…的面罩; 拉开…的帷幔; 使公之于众;
+vi. 除去面纱（或覆盖物），揭幕; 揭露出来，显露;
+[例句]Mr Werner unveiled his new strategy this week
+沃纳先生本周公布了其新策略。
+
+deficit 英 [ˈdefɪsɪt] 美 [ˈdɛfɪsɪt]
+n. 赤字; 亏损; 亏空; 不足额;
+[例句]They're ready to cut the federal budget deficit for the next fiscal year.
+他们已准备好削减下一财年的联邦预算赤字。
+
+tournament 英 [ˈtʊənəmənt] 美 [ˈtʊrnəmənt]
+n. 锦标赛; 锦标赛，联赛; 中世纪的骑士比武;
+[例句]We produced the best soccer of the tournament. Nobody would argue with that.
+本届比赛中我们踢出了最漂亮的足球，谁都不会否认这一点。
+
+knockout 英 [ˈnɒkaʊt] 美 [ˈnɑ:kaʊt]
+n. 淘汰赛; 击昏，击倒; 绝代佳人; <俚>轰动一时的东西;
+adj. 	击倒的，打倒的; 引人注目的; 使昏迷的; 迷人的;
+[例句]He delivered a knockout blow to all of his rivals.
+他给所有对手以致命一击。
+
+invasion 英 [ɪnˈveɪʒn] 美 [ɪnˈveʒən]
+n. 侵袭; 入侵，侵略; 侵害，侵犯; [医] 发病;
+[例句]He was commander in chief during the invasion of Panama.
+在侵略巴拿马的战役中他是总司令。
+
+chaotic 英 [keɪˈɒtɪk] 美 [keɪˈɑ:tɪk]
+adj. 混沌的; 一片混乱的; 一团糟的; 无秩序的;
+[例句]My own house feels as filthy and chaotic as a bus terminal
+我自家的房子感觉又脏又乱，活像公共汽车终点站。
+
+hilarious  英 [hɪˈleəriəs] 美 [hɪˈleriəs]
+adj. 欢闹的; 令人捧腹的; 非常滑稽的; 喜不自禁的;
+[例句]We thought it was hilarious when we first heard about it
+我们第一次听说此事时，觉得很好笑。
+
+veteran 英 [ˈvetərən] 美 [ˈvɛtərən]
+n. 	退伍军人; 经验丰富的人，老兵;
+adj. 	老兵的; 有作战经验的; [美国英语] 退伍军人的; 老练的，资深的，经验丰富的;
+[例句]They approved a$ 1.1 billion package of pay increases for the veterans of the Persian Gulf War.
+他们通过了对参加过波斯湾战争的老兵增发共计11亿美元的一揽子提案。
+
+demonstrate 英 [ˈdemənstreɪt] 美 [ˈdɛmənˌstret]
+vt. 论证; 证明，证实; 显示，展示; 演示，说明;
+vi. 示威游行;
+[例句]The study also demonstrated a direct link between obesity and mortality
+该研究还表明了肥胖症和死亡率之间存在直接的联系。
+
+rebellion 英 [rɪˈbeljən] 美 [rɪˈbɛljən]
+n. 反抗; 造反，叛乱;
+[例句]The British soon put down the rebellion.
+英国人很快平息了叛乱。
+
+realm 英 [relm] 美 [rɛlm]
+n. 王国; 领域，范围; （学术的） 部门，界; （动植物分布的） 圈，带;
+[例句]Students 'interests are mostly limited to the academic realm.
+学生们的兴趣大多限于学术领域。
+
+dissident 英 [ˈdɪsɪdənt] 美 [ˈdɪsɪdənt]
+n. 持异议者，公开大唱反调者，持不同政见者;
+adj. 持不同意见的（人）;
+[例句]She was suspected of having links with a dissident group.
+她被怀疑与一个持不同政见的政治团体有关联。
+
+perpetrate 英 [ˈpɜ:pətreɪt] 美 [ˈpɜ:rpətreɪt]
+vt. 犯（罪）; 做（恶）;
+[例句]A high proportion of crime in any country is perpetrated by young males in their teens and twenties
+在任何国家的犯罪者中，十几二十几岁的青年男性都占了很高的比例。
+
+allege 英 [əˈledʒ] 美 [əˈlɛdʒ]
+vt. 断言，宣称，辩解; 提出…作为理由;
+[例句]She alleged that there was rampant drug use among the male members of the group
+她声称该团体中有大量的男性成员吸毒。
+
+heist 英 [haɪst] 美 [haɪst]
+vt. 强夺，拦劫，抢劫;
+[例句]Next time you pull a heist, don't leave your plans on my bed, idiot.
+下一次你要抢劫，别把计划留在我的床上，笨蛋。
+
+surveillance 英 [sɜ:ˈveɪləns] 美 [sɜ:rˈveɪləns]
+n. 盯梢，监督; [法] 管制，监视;
+[例句]He was arrested after being kept under constant surveillance
+在被连续监视了一段时间后，他被逮捕了。
