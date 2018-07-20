@@ -4030,3 +4030,37 @@ surveillance 英 [sɜ:ˈveɪləns] 美 [sɜ:rˈveɪləns]
 n. 盯梢，监督; [法] 管制，监视;
 [例句]He was arrested after being kept under constant surveillance
 在被连续监视了一段时间后，他被逮捕了。
+
+intensify 英 [ɪnˈtensɪfaɪ] 美 [ɪnˈtɛnsəˌfaɪ]
+vt. （使） 增强，（使）加剧; 增加（照片图象）的对比度; 变强或增强;
+[例句]Britain is intensifying its efforts to secure the release of the hostages
+英国正加紧努力确保人质的获释。
+
+bipartisan 英 [ˌbaɪpɑ:tɪˈzæn] 美 [ˌbaɪˈpɑ:rtɪzn]
+adj. 两党的; 代表两党的; 获得两党支持的;
+[例句]The Labour Party rejected churchill's offer of a bipartisan reform.
+工党拒绝了丘吉尔两党合作进行改革的提议。
+
+prostitute 英 [ˈprɒstɪtju:t] 美 [ˈprɑ:stətu:t]
+n. 男妓; 卖淫者，妓女; 卖身投靠的人; 出卖贞操的人;
+vt. 使卖淫，卖身; 出卖（名誉等）; 滥用（能力等）; 卖淫，卖身;
+adj. 卖淫的，堕落的;
+[例句]He admitted last week he paid for sex with a prostitute.
+他承认上个星期嫖娼了。
+
+dossier 英 [ˈdɒsieɪ] 美 [ˈdɔ:sieɪ]
+n. （有关某人或某事等的） 档案材料; 材料汇编，卷宗; 病历表册;
+[例句]The company is compiling a dossier of evidence to back its allegations
+公司正汇编一份证据材料来支持指控。
+
+distract 英 [dɪˈstrækt] 美 [dɪˈstrækt]
+vt. 使分心; 使混乱;
+[例句]Tom admits that playing video games sometimes distracts him from his homework
+汤姆承认玩电子游戏有时会使他无心做作业。
+
+chatterchatter 英 [ˈtʃætə(r)] 美 [ˈtʃætɚ]
+vi. 唠叨，喋喋不休; （鸟等） 鸣，啁啾; （牙齿，机器等） 振动，打颤; 运动时摇摆或嘎嘎作响;
+vt. 不加思索地说出;
+n. 闲聊; 咔哒声; （动物的） 啁啾声; 潺潺流水声;
+[例句]Everyone's chattering away in different languages
+大家操着不同的语言喋喋不休地说着。
