@@ -4058,9 +4058,86 @@ vt. 使分心; 使混乱;
 [例句]Tom admits that playing video games sometimes distracts him from his homework
 汤姆承认玩电子游戏有时会使他无心做作业。
 
-chatterchatter 英 [ˈtʃætə(r)] 美 [ˈtʃætɚ]
+chatter 英 [ˈtʃætə(r)] 美 [ˈtʃætɚ]
 vi. 唠叨，喋喋不休; （鸟等） 鸣，啁啾; （牙齿，机器等） 振动，打颤; 运动时摇摆或嘎嘎作响;
 vt. 不加思索地说出;
 n. 闲聊; 咔哒声; （动物的） 啁啾声; 潺潺流水声;
 [例句]Everyone's chattering away in different languages
 大家操着不同的语言喋喋不休地说着。
+
+illumination 英 [ɪˌlu:mɪˈneɪʃn] 美 [ɪˌluməˈneʃən]
+n. 照明; 阐明，解释清楚; <物>照度; 彩饰，图案花饰;
+[例句]The only illumination came from a small window high in the opposite wall.
+唯一的亮光来自对面墙上高处的一扇小窗子。
+
+metropolitan 英 [ˌmetrəˈpɒlɪtən] 美 [ˌmetrəˈpɑ:lɪtən]
+adj. 大都会的; 大城市的; 宗主国的; 大主教教区的;
+n. 大城市人; 大主教; 宗主国的公民; 有大城市气派的人;
+[例句]Two years ago, he signed over his art collection to the New York Metropolitan Museum of Art
+两年前，他正式签字将他的艺术收藏品转让给了纽约大都会艺术博物馆。
+
+meteor 英 [ˈmi:tiə(r)] 美 [ˈmitiɚ, -ˌɔr]
+n. 流星; 大气现象;
+abbr. 气象学(=meteorology);
+[例句]A bright shooting star, or meteor, is an unforgettable sight.
+明亮的流星，或者说陨石，是番难忘的景象。
+
+declassify 英 [ˌdi:ˈklæsɪfaɪ] 美 [diˈklæsəˌfaɪ]
+vt. 对（机密文件等）销密;
+[例句]These reports were only declassified last year.
+这些报告去年才被撤销了密级。
+
+warran 英 [ˈwɒrənt] 美 [ˈwɔ:rənt]
+n. 授权证; 许可证; 正当理由; 依据;
+vt. 保证，担保; 授权，批准; 辩解;
+[例句]The allegations are serious enough to warrant an investigation
+这些指控很严重，有必要进行一番调查。
+
+wiretap 英 ['waɪətæp] 美 [ˈwaɪrˌtæp]
+v. 搭线窃听，窃听或偷录;
+n. 窃听或偷录，窃听情报，窃听装置;
+[例句]The coach said his club had wiretapped the hotel room of a player during a road trip.
+教练说他的俱乐部曾经窃听了一名开车旅行的运动员所住宾馆房间的电话。
+
+aesthetic 英 [i:sˈθetɪk] 美 [ɛsˈθɛtɪk]
+adj.  审美的; 美的，美学的; 有关美的; 具有审美趣味的;
+n. 审美观; 美学标准，美感;
+[例句]One's appreciation of literature depends on one's level of aesthetic knowledge.
+一个人对文学作品的欣赏能力，取决于他的艺术修养。
+
+spree 英 [spri:] 美 [spri]
+n. 狂欢; 欢闹; 无节制的狂热行为;
+vi. 狂欢; 狂饮;
+[例句]Some Americans went on a spending spree in December to beat the new tax.
+一些美国人在12月疯狂花钱，以避开新税。
+
+attorney 英 [əˈtɜ:ni] 美 [əˈtɜ:rni]
+n. 律师; 代理人;
+[例句]We had a long meeting with the attorney general
+我们和检察总长开了一个长会。
+
+backlash 英 [ˈbæklæʃ] 美 [ˈbækˌlæʃ]
+n. 反击; 后坐; 激烈反应;
+[例句]He also warned of a possible anti-Western backlash.
+他还警告有可能会出现对西方的强烈抵制。
+
+confront  英 [kənˈfrʌnt] 美 [kənˈfrʌnt]
+vt. 面对; 使面对面，使对质; 碰到，遇到; 比较;
+[例句]She was confronted with severe money problems
+她面临严峻的资金问题。
+
+custody 英 [ˈkʌstədi] 美 [ˈkʌstədi]
+n. 监管; 拘留，羁押; 抚养权，监护权;
+[例句]I'm going to go to court to get custody of the children
+我将起诉，要求获得孩子们的监护权。
+
+vaccine 英 [ˈvæksi:n] 美 [vækˈsi:n]
+n. 疫苗，痘苗;
+adj. 痘苗的，疫苗的;
+[例句]Anti-malarial vaccines are now undergoing trials
+抗疟疾的疫苗正在试验阶段。
+
+pedophile 英 ['pi:dəʊfaɪl] 美 [ˈpɛdəˌfaɪl, ˈpidə-]
+n. 	恋童癖者;
+[例句]But Mohammed was a warlord, a mass murderer, a pedophile, and had several marriages-at the same time.
+但是，历史上的穆罕默德却是一个军阀，一个大规模屠杀的凶手，一个伪君子和同时拥有几段婚姻的人。
