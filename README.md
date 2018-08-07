@@ -4141,3 +4141,55 @@ pedophile 英 ['pi:dəʊfaɪl] 美 [ˈpɛdəˌfaɪl, ˈpidə-]
 n. 	恋童癖者;
 [例句]But Mohammed was a warlord, a mass murderer, a pedophile, and had several marriages-at the same time.
 但是，历史上的穆罕默德却是一个军阀，一个大规模屠杀的凶手，一个伪君子和同时拥有几段婚姻的人。
+
+ingenuity 英 [ˌɪndʒəˈnju:əti] 美 [ˌɪndʒəˈnu:əti]
+n.  独创性; 足智多谋，心灵手巧; 独出心裁，设计新颖; 巧妙，精巧;
+[例句]Inspecting the nest may require some ingenuity.
+探查鸟巢是需要些技巧的。
+
+retiree 英 [rɪˌtaɪəˈri:] 美 [rɪˌtaɪrˈi]
+n. 退休者; 退职者; 退役者;
+[例句]My retiree pensions is more than enough for my life.
+我的退休金足以维持我的生活了。
+
+hinge 英 [hɪndʒ] 美 [hɪndʒ]
+n. 铰链，折叶; 关键，转折点; 枢要，中枢;
+vt. 用铰链连接; 依…为转移; 给…安装铰链; （门等） 装有蝶铰;
+vi. 依…而转移;
+[例句]The top swung open on well-oiled hinges.
+用润滑良好的铰链固定的盖子一旋转就打开了。
+
+freight 英 [freɪt] 美 [fret]
+n. 运费; 货运，货物; 船运货物; 货运列车;
+vt. 运输; 装货于;
+[例句]90% of managers wanted to see more freight carried by rail.
+90%的经理希望看到更多的货物经由铁路来运输。
+
+haul 英 [hɔ:l] 美 [hɔl]
+vt. 拖，拉;
+vt. 运送; 传讯;
+n. 拖; 大批赃物; 一网的捕获量; 拖运货物的距离;
+[例句]A crane had to be used to haul the car out of the stream
+只好用了起重机，才将轿车从河里拖出来。
+
+hemorrhagic 英 ['hemərædʒaɪk] 美 ['hemərædʒaɪk]
+adj. 出血性; 出血的;
+[例句]The dengue virus causes dengue hemorrhagic fever, shock and encephalitis.
+登革热病毒导致登革热出血热、休克和脑炎。
+
+hallmark 英 [ˈhɔ:lmɑ:k] 美 [ˈhɔ:lmɑ:rk]
+n. 检验印记; 特点，标志; 质量证明;
+vt. 给…盖上品质证明印记; 使具有…标志;
+[例句]It's a technique that has become the hallmark of Amber Films
+
+brutalist 英 ['bru:təlɪst] 美 ['bru:təlɪst]
+n. 野兽派（信奉美术、建筑或文学上野兽主义的人）;
+[例句]The original neo-Classical-style white marble building was joined by a 1970s Brutalist structure, the Manton Research Center.
+最早的建筑是新古典主义风格的白色大理石建筑，20世纪70年代加入了一个野兽派建筑&曼顿研究中心（Manton Research Center）。
+
+unveil 英 [ˌʌnˈveɪl] 美 [ʌnˈvel]
+vt. 揭露; 揭去…的面罩; 拉开…的帷幔; 使公之于众;
+vi. 除去面纱（或覆盖物），揭幕; 揭露出来，显露;
+[例句]Mr Werner unveiled his new strategy this week
+沃纳先生本周公布了其新策略。
+
