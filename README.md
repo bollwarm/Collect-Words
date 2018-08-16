@@ -4193,3 +4193,52 @@ vi. 除去面纱（或覆盖物），揭幕; 揭露出来，显露;
 [例句]Mr Werner unveiled his new strategy this week
 沃纳先生本周公布了其新策略。
 
+eliminate 英 [ɪˈlɪmɪneɪt] 美 [ɪˈlɪməˌnet]
+vt. 淘汰; 排除，消除; 除掉; <口>干掉;
+[例句]The Sex Discrimination Act has not eliminated discrimination in employment
+《反性别歧视法》并未根除工作中的歧视。
+
+acne 英 [ˈækni] 美 [ˈækni]
+n. <医>痤疮，粉刺; 青春美丽痘; 粉剌;
+[例句]Many kids suffer from acne and angst.
+许多年轻人都会受到青春痘和焦虑的困扰。
+
+rosacea 英 [rəʊ'zeɪʃɪə] 美 [roʊ'zeɪʃi:ə]
+n. 酒渣鼻; 红斑痤疮;
+[例句]Green tea may also reduce reactions to ultraviolet light as well as the visual signs and symptoms of rosacea.
+绿茶同样也可以减少紫外线和酒糟鼻的表现和症状一致。
+
+whey 英 [weɪ] 美 [hwe, we]
+n. 乳清; 苍白的脸，脸色苍白的人;
+[例句]The research development of chitosan and whey isolate was summarized.
+摘要综述了壳聚糖和乳清分离蛋白最新研究进展。
+
+crave 英 [kreɪv] 美 [krev]
+vt. 渴望，热望; 恳求，恳请; 要求，需要;
+vt. 渴望; 恳求，请求;
+[例句]There may be certain times of day when smokers crave their cigarette
+吸烟者可能会在一天中的某些时刻特别想吸烟。
+
+throb 英 [θrɒb] 美 [θrɑ:b]
+n 脉搏; 跳动，悸动;
+vi. 抽痛; （心脏、脉搏等） 跳动;
+[例句]His head throbbed
+他的头阵阵作痛。
+
+meningitis 英 [ˌmenɪnˈdʒaɪtɪs] 美 [ˌmɛnɪnˈdʒaɪtɪs]
+n. 脑膜炎;
+[例句]He died of tubercular meningitis.
+他死于结核性脑膜炎。
+
+ratchet 英 [ˈrætʃɪt] 美 [ˈrætʃɪt]
+n. （防倒转的） 棘齿;
+vt. 安装棘轮于；松脱; 把…造成棘齿形，于…作棘齿，在…上刻锯齿;
+[例句]The chair has a ratchet below it to adjust the height
+这把椅子下面有棘轮调整高度。
+
+staunch 英 [stɔ:ntʃ] 美 [stɔntʃ, stɑntʃ]
+adj. 坚定的，坚固的; 忠诚的，可靠的; 不漏水的;
+vt. 止住; 止血;
+[例句]He's a staunch supporter of controls on government spending.
+他坚决支持控制政府开支。
+
