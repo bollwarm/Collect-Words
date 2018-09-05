@@ -4242,3 +4242,36 @@ vt. 止住; 止血;
 [例句]He's a staunch supporter of controls on government spending.
 他坚决支持控制政府开支。
 
+oddly 英 [ˈɒdli] 美 [ˈɑ:dli]
+adv. 奇怪地，古怪地; 奇妙地; 额外地，附加地; 零碎地，单数地;
+[词典] oddly enough的变体;
+[例句]He said no and seemed oddly reluctant to talk about it
+他说没有，而且奇怪的是似乎不愿谈及此事。
+
+obsession 英 [əbˈseʃn] 美 [əbˈsɛʃən, ɑb-]
+n. 着魔，萦绕; 使人痴迷的人（或物）; 摆脱不了的思想[情感等]; 妄想;
+[例句]She would try to forget her obsession with Christopher
+她会努力忘记对克里斯托弗的迷恋。
+
+haunt 英 [hɔ:nt] 美 [hɔnt, hɑnt]
+vt. 时常萦绕心头，使困窘; 常去; 以鬼魂形式出现; 时常出现在，弥漫;
+vi.  尤指鬼魂重回或常去;
+n. 〈方〉鬼或其它超自然物体; 常去的地方;
+[例句]The decision to leave her children now haunts her
+抛下孩子们的决定现在总让她不安。
+
+defiant 英 [dɪˈfaɪənt] 美 [dɪˈfaɪənt]
+adj. 挑衅的; 目中无人的; 蔑视的; 大胆的;
+[例句]The players are in defiant mood as they prepare for tomorrow's game
+球员在备战明天的比赛时带着蔑视对手的情绪。
+
+obesity 英 [əʊ'bi:sətɪ] 美 [oˈbisɪti]
+n. 肥胖症; 肥胖，过胖;
+[例句]The study also demonstrated a direct link between obesity and mortality
+该研究还表明了肥胖症和死亡率之间存在直接的联系。
+
+detention 英 [dɪˈtenʃn] 美 [dɪˈtɛnʃən]
+n. 拘留，扣押; 阻留; 放学后留校; （非法） 占有;
+[例句]They have been held in detention since the end of June
+他们从6月底以来就一直受到监禁。
+
