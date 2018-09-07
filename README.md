@@ -4275,3 +4275,39 @@ n. 拘留，扣押; 阻留; 放学后留校; （非法） 占有;
 [例句]They have been held in detention since the end of June
 他们从6月底以来就一直受到监禁。
 
+evolve 英 [iˈvɒlv] 美 [iˈvɑ:lv]
+vt. 使发展; 使进化; 设计，制订出; 发出，散发;
+vi. 发展; [生] 通过进化进程发展或发生;
+[例句]The bright plumage of many male birds has evolved to attract females
+很多雄鸟进化出鲜艳的羽毛是为了吸引雌鸟。
+
+scrutinize 英 [ˈskru:tənaɪz] 美 [ˈskrutn:ˌaɪz]
+vt. 仔细检查; n. 仔细或彻底检查;
+[例句]Her purpose was to scrutinize his features to see if he was an honest man
+她的目的是通过仔细观察他的相貌以判断他是否诚实。
+
+suspicion 	英 [səˈspɪʃn] 美 [səˈspɪʃən]
+n. 怀疑; 嫌疑; 疑心; 〈口〉一点儿; vt. 怀疑;
+[例句]There was a suspicion that this runner attempted to avoid the procedures for dope testing
+
+episode 英 [ˈepɪsəʊd] 美 [ˈepɪsoʊd]
+n. 插曲; 一集; 片段; 一段经历;
+[例句]This episode is bound to be a deep embarrassment for Washington
+这一事件肯定会让华盛顿非常难堪。
+
+unveil 	英 [ˌʌnˈveɪl] 美 [ʌnˈvel]
+vt. 揭露; 揭去…的面罩; 拉开…的帷幔; 使公之于众;
+vi. 除去面纱（或覆盖物），揭幕; 揭露出来，显露;
+[例句]Mr Werner unveiled his new strategy this week
+沃纳先生本周公布了其新策略。
+
+congestion 英 [kənˈdʒestʃən] 美 [kənˈdʒestʃən]
+n. 阻塞; 充血; 拥挤，堵车; （人口） 过剩，稠密;
+[例句]The problems of traffic congestion will not disappear in a hurry
+交通拥堵问题不会一下子就消失。
+
+contingent 英 [kənˈtɪndʒənt] 美 [kənˈtɪndʒənt]
+adj. 依情况而定的; 取决于…的; n. 分遣队; 代表团;
+[例句]Nigeria provided a large contingent of troops to the West African Peacekeeping Force
+尼日利亚向西非维和部队派遣了一大批军队。
+
