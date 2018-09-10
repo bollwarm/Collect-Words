@@ -4311,3 +4311,84 @@ adj. 依情况而定的; 取决于…的; n. 分遣队; 代表团;
 [例句]Nigeria provided a large contingent of troops to the West African Peacekeeping Force
 尼日利亚向西非维和部队派遣了一大批军队。
 
+cognitive 英 [ˈkɒgnətɪv] 美 [ˈkɑ:gnətɪv]
+adj. 认知的; 认识的;
+[例句]As children grow older, their cognitive processes become sharper.
+孩子们越长越大，他们的认知过程变得更为敏锐。
+
+glorify 英 [ˈglɔ:rɪfaɪ] 美 [ˈɡlɔrəˌfaɪ, ˈɡlor-]
+vt. 美化; 赞美; 颂扬; 使更壮丽;
+[例句]This magazine in no way glorifies gangs.
+这本杂志绝对没有美化混混们。
+
+sacrilegious 英 [ˌsækrə'lɪdʒəs] 美 [ˌsækrə'lɪdʒəs]
+adj. 犯渎圣罪的，该受天谴的;
+[例句]A number of churches were sacked and sacrilegious acts committed.
+很多教堂都被洗劫一空，而且作出了诸多渎神之举。
+
+ruminate 英 [ˈru:mɪneɪt] 美 [ˈruməˌnet]
+vi. 反刍; 沉思; 反复考虑; 倒嚼;
+[例句]He ruminated on the terrible wastage that typified American life
+他认真地考虑了美国生活中典型的严重浪费问题。
+
+rhetorically 英 [rɪ'tɒrɪklɪ] 美 [rɪ'tɒrɪklɪ]
+adv. 在修辞学上，讲究修辞地;
+[例句]I wish I could read the whole thing because it's rhetorically very powerful.
+我很希望我能把它都念一遍，因为它非常地讲究修辞。
+
+ally 英 [ˈælaɪ] 美 ['ælaɪ]
+n 联盟; 同盟国，同盟者; 助手，支持者; 协约国;
+vt. （使） 联盟，（使）同盟; （使） 结盟，（使）联姻;
+[例句]Washington would not take such a step without its allies 'approval
+没有盟国的同意，华盛顿将不会采取这样一种行动。
+
+offensive 英 [əˈfensɪv] 美 [əˈfɛnsɪv]
+adj. 无礼的，冒犯的，唐突的; 讨厌的，令人不快的; 进攻（性）的，攻击的，攻势的;
+n. 进攻，攻势;
+[例句]Some friends of his found the play horribly offensive.
+他的一些朋友觉得该剧非常让人反感。
+
+antler 英 [ˈæntlə(r)] 美 [ˈæntlɚ]
+n. 鹿角; 角枝;
+[例句]This interest has developed into modern research investigating the pharmacology of velvet antler.
+这一兴趣发展了对鹿茸的药用价值研究和调查。
+
+limb 英 [lɪm] 美 [lɪm]
+n. 枝干; 肢，翼; 大树枝; 分支;
+vt. 割断…的四肢，肢解; 砍树枝;
+[例句]She would be able to stretch out her cramped limbs and rest for a few hours.
+她将能伸展一下蜷缩的四肢，休息几个小时。
+
+headgear 英 [ˈhedgɪə(r)] 美 [ˈhedgɪr]
+n. 头饰，帽子;
+[例句]Dude, I saw you in your headgear.
+哥们，我看见你戴那头饰的样子了。
+
+dispel 英 [dɪˈspel] 美 [dɪˈspɛl]
+vt. 驱逐; 消除（疑虑等）; 驱散（云雾等）;
+[例句]The President is attempting to dispel the notion that he has neglected the economy.
+有人认为总统忽视了经济，总统正试图消除这种看法。
+
+swift 英 [swɪft] 美 [swɪft]
+adj. 迅速的; 敏捷的; 立刻的; 突然发生的;
+n. 	雨燕; 环球金融同业电讯会; [人] 斯威夫特，《格利佛游记》作者;
+adv. 迅速地，敏捷地;
+[例句]Our task is to challenge the UN to make a swift decision
+我们的任务是敦促联合国快速做出决策。
+
+mount 英 [maʊnt] 美 [maʊnt]
+vt. 登上; 骑上; vi. 增加; 上升;
+vt. 安装，架置; 镶嵌，嵌入; 准备上演; 成立（军队等）;
+[例句]The ANC announced it was mounting a major campaign of mass political protests.
+非洲人国民大会宣布他们正在开展一次大规模政治抗议活动。
+
+elk 英 [elk] 美 [ɛlk]
+n. 麋鹿;
+[例句]Elk and deer are gone.
+麋鹿没了，野鹿没了。
+
+eclipse 英 [ɪˈklɪps] 美 [ɪˈklɪps]
+n. [天] （日、月） 食; 消失，黯然失色; 漆黑;
+vt. 使黯然失色; 形成日（或月）食;
+[例句]The gramophone had been eclipsed by new technology such as the compact disc
+激光唱片等新技术使留声机黯然失色。
