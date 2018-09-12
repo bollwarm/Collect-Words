@@ -129,13 +129,6 @@ adj. 	自治的; 有自主权的; [生，植] 自发的;
 [例句]They proudly declared themselves part of a new autonomous province.
 他们自豪地宣布成为新自治省的一部分。
 
-unveiled 英 [??n've?ld]
-	美 [??n've?ld]
-v. 	揭去…的面罩( unveil的过去式和过去分词 ); 拉开…的帷幔; 使公之于众; 揭露;
-[例句]Mr Werner unveiled his new strategy this week
-沃纳先生本周公布了其新策略。
-[其他] 
-
 massacre 英 [ˈmæsəkə(r)] 美 [ˈmæsəkɚ]
 n. 	大屠杀，残杀; （牲畜的） 成批屠宰;
 vt. 	屠杀，残杀; 损害，毁坏; <口>彻底击败; <口>惨败;
@@ -3591,12 +3584,6 @@ n. 投机活动; 投机买卖; 思考; 推断;
 [例句]I am tired of all the speculation
 我厌烦了所有的推测。
 
-unveil 英 [ˌʌnˈveɪl] 美 [ʌnˈvel]
-vt. 揭露; 揭去…的面罩; 拉开…的帷幔; 使公之于众;
-vi. 除去面纱（或覆盖物），揭幕; 揭露出来，显露;
-[例句]Mr Werner unveiled his new strategy this week
-沃纳先生本周公布了其新策略。
-
 befall 英 [bɪˈfɔ:l] 美 [bɪˈfɔl]
 vt. 降临到（某人）头上; 发生，降临;
 vi. 降临;
@@ -3946,12 +3933,6 @@ n. 透明度; 透明; 透明性; 透明的东西;
 [例句]Cataracts is a condition that affects the transparency of the lenses.
 白内障是一种影响晶状体透明性的疾病。
 
-unveil 英 [ˌʌnˈveɪl] 美 [ʌnˈvel]
-vt. 揭露; 揭去…的面罩; 拉开…的帷幔; 使公之于众;
-vi. 除去面纱（或覆盖物），揭幕; 揭露出来，显露;
-[例句]Mr Werner unveiled his new strategy this week
-沃纳先生本周公布了其新策略。
-
 deficit 英 [ˈdefɪsɪt] 美 [ˈdɛfɪsɪt]
 n. 赤字; 亏损; 亏空; 不足额;
 [例句]They're ready to cut the federal budget deficit for the next fiscal year.
@@ -4187,12 +4168,6 @@ n. 野兽派（信奉美术、建筑或文学上野兽主义的人）;
 [例句]The original neo-Classical-style white marble building was joined by a 1970s Brutalist structure, the Manton Research Center.
 最早的建筑是新古典主义风格的白色大理石建筑，20世纪70年代加入了一个野兽派建筑&曼顿研究中心（Manton Research Center）。
 
-unveil 英 [ˌʌnˈveɪl] 美 [ʌnˈvel]
-vt. 揭露; 揭去…的面罩; 拉开…的帷幔; 使公之于众;
-vi. 除去面纱（或覆盖物），揭幕; 揭露出来，显露;
-[例句]Mr Werner unveiled his new strategy this week
-沃纳先生本周公布了其新策略。
-
 eliminate 英 [ɪˈlɪmɪneɪt] 美 [ɪˈlɪməˌnet]
 vt. 淘汰; 排除，消除; 除掉; <口>干掉;
 [例句]The Sex Discrimination Act has not eliminated discrimination in employment
@@ -4392,3 +4367,35 @@ n. [天] （日、月） 食; 消失，黯然失色; 漆黑;
 vt. 使黯然失色; 形成日（或月）食;
 [例句]The gramophone had been eclipsed by new technology such as the compact disc
 激光唱片等新技术使留声机黯然失色。
+
+loophole 英 [ˈlu:phəʊl] 美 [ˈlu:phoʊl]
+n. 漏洞; 枪眼; 观察孔;
+[例句]It is estimated that 60,000 shops open every Sunday and trade by exploiting some loophole in the law to avoid prosecution.
+据估计，每逢周日开门营业的店铺有6万家，通过钻法律漏洞躲避检控。
+
+illegally 英 [ɪ'li:ɡəlɪ] 美 [ɪˈliɡəlɪ]
+adv. 不法地;
+[例句]The government illegally eavesdropped on his telephone conversations
+政府非法窃听了他的电话。
+
+legally 英 ['li:ɡəlɪ] 美 [ˈliɡl:ɪ]
+adv. 法律上，合法地;
+[例句]The liquor was sold legally and trucked out of the state.
+该酒合法出售，用卡车运出了该州。
+
+withdraw 英 [wɪðˈdrɔ:] 美 [wɪðˈdrɔ, wɪθ-]
+vt. 撤退; 撤走; 拿走; （从银行） 取 （钱） ;
+vi. 撤退; （从活动或组织中） 退出;
+[例句]He reached into his pocket and withdrew a sheet of notepaper
+他把手伸进口袋，掏出一张便签。
+
+veil 英 [veɪl] 美 [vel]
+n.面纱; 掩饰; 覆盖物; 托词;
+vt. 用面纱遮盖; 掩饰; 用帷幕分隔; 隐匿;
+[例句]She's got long fair hair but she's got a veil over it
+她有一头金色的长发，但她用头巾包住了。
+
+sentiment 英 [ˈsentɪmənt] 美 [ˈsɛntəmənt]
+n. 情操; 感情，情绪; 意见，观点; 感伤;
+[例句]Public sentiment rapidly turned anti-American
+公众情绪迅速转变，开始反对美国。
