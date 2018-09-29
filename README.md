@@ -1943,11 +1943,6 @@ adj. 甲壳纲的;
 [例句]Glucosamine can help to synthesize chitin in crustacean shells, which AIDS growth.
 葡萄糖氨是甲壳类动物帮助壳中几丁质的生成，可促进生长。
 
-devastation 英 [ˌdevəˈsteɪʃn] 美 [ˌdevəˈsteɪʃn]
-n. 毁坏; 荒废; 极度震惊或悲伤;
-[例句]Adam stumbles on, leaving a trail of devastation in his wake
-亚当蹒跚而行，沿路留下毁坏的痕迹。
-
 genome 英 [ˈdʒi:nəʊm] 美 [ˈdʒi:noʊm]
 n. 基因组，染色体组;
 [例句]They were comparing notes on each other's progress towards solving that most taxing of all puzzles: the riddle of the human genome
@@ -2108,11 +2103,6 @@ adj. 拟真的;
 
 attorney 英 [əˈtɜ:ni] 美 [əˈtɜ:rni]
 n. 	律师; 代理人;
-[例句]We had a long meeting with the attorney general
-我们和检察总长开了一个长会。
-
-Attorney General 		
-n. 	检察总长；首席检察官；司法部长;
 [例句]We had a long meeting with the attorney general
 我们和检察总长开了一个长会。
 
@@ -4399,3 +4389,185 @@ sentiment 英 [ˈsentɪmənt] 美 [ˈsɛntəmənt]
 n. 情操; 感情，情绪; 意见，观点; 感伤;
 [例句]Public sentiment rapidly turned anti-American
 公众情绪迅速转变，开始反对美国。
+
+embarrass 英 [ɪmˈbærəs] 美 [ɛmˈbærəs]
+vt. （使） 窘迫，（使）局促不安; （使） 困难;
+[例句]His clumsiness embarrassed him
+他因自己的笨拙而感到尴尬。
+
+obsess 英 [əbˈses] 美 [əbˈsɛs, ɑb-]
+vt. 使着迷; 缠住，迷住; 使困扰;
+[例句]I must admit that maps obsess me
+我得承认我对地图十分着迷。
+
+firearm 英 [ˈfaɪərɑ:m] 美 [ˈfaɪərɑ:rm]
+n. 火器，尤指手枪或步枪;
+[例句]He was also charged with illegal possession of firearms
+他还被控非法持有枪支。
+
+spike 英 [spaɪk] 美 [spaɪk]
+n. 长钉; 细高跟; （防滑） 鞋钉; 尖状物;
+vt.  加烈酒于; 以大钉钉牢; 用尖物刺伤; 打乱某人的计划;
+[例句]Yellowing receipts had been impaled on a metal spike.
+发黄的收据被穿在一根金属扦上。
+
+enthusiasm 英 [ɪnˈθju:ziæzəm] 美 [ɪnˈθu:ziæzəm]
+n. 热情，热忱; 热衷的事物; 宗教的狂热;
+[例句]The lack of enthusiasm for unification among most West Germans fills him with disappointment
+大多数西德人都没有渴望统一的热情，这令他无比失望。
+
+prosper 英 [ˈprɒspə(r)] 美 [ˈprɑ:spə(r)]
+vi. 繁盛，成功;
+vt. 使…成功; 使…昌盛;
+[例句]The high street banks continue to prosper
+商业街上的银行仍旧一派繁荣景象。
+
+nominee 英 [ˌnɒmɪˈni:] 美 [ˌnɑ:mɪˈni:]
+n. 被提名者，候选人; 被任命者; 代名人;
+[例句]His nominee for vice president was elected only after a second ballot
+他提名的副总统在两轮投票后才当选。
+
+vessel 英 [ˈvesl] 美 [ˈvɛsəl]
+n. 容器; 船，飞船; 血管，管束; …的化身;
+[例句]He makes decorative vessels in copper, stainless steel and silver.
+他用铜、不锈钢和银制造装饰性器皿。
+
+metabolize 英 [məˈtæbəlaɪz] 美 [mə'tæbəlaɪz]
+vt. 使发生新陈代谢;
+[例句]It is, of course, an insulin disorder that impairs the body's ability to metabolize sugar.
+当然，我们知道是胰岛素分泌失调损害了身体代谢糖的能力。
+
+portfolio 英 [pɔ:tˈfəʊliəʊ] 美 [pɔ:rtˈfoʊlioʊ]
+n. 证券投资组合; 公文包; 代表作品集; 部长[大臣]的职位;
+[例句]After dinner that evening, Edith showed them a portfolio of her own political cartoons.
+那天吃过晚饭，伊迪丝向他们展示了她的一组政治漫画作品。
+
+folio 英 [ˈfəʊliəʊ] 美 [ˈfoʊlioʊ]
+n. 对开的纸，（原稿的）一页，页码或张数;
+adj. 对折的，对开的;
+vt. 编页码;
+[例句]Richard told me of three 16th-century folio volumes on alchemy.
+理查德告诉过我16世纪的三卷关于炼金术的对开本书籍的事。
+
+legendary 英 [ˈledʒəndri] 美 [ˈledʒənderi]
+adj. 传奇的; 传说的; 极其著名的;
+n. 传说集; [宗] 圣徒传;
+[例句]His political skill is legendary.
+他的政治手腕高超是出了名的。
+
+franchise 英 [ˈfræntʃaɪz] 美 [ˈfrænˌtʃaɪz]
+n. 特许权; 选举权; 参政权; 经销权;
+vt. 赋予特权; 赋予公民权;
+[例句]Talk to other franchise holders and ask them what they think of the parent company.
+和其他特许经营者谈一谈，问问他们对母公司是什么看法。
+
+loyal 英 [ˈlɔɪəl] 美 [ˈlɔɪəl]
+adj. 忠贞的; 忠诚的，忠心的;
+n. 效忠的臣民; 忠实信徒;
+[例句]They had remained loyal to the president
+他们始终对总统忠心耿耿。
+
+buoy 英 [bɔɪ] 美 [ˈbui, bɔɪ]
+n. 浮标; 航标; 救生圈;
+vt. 使浮起; 支持，鼓励;
+[例句]German domestic consumption buoyed the German economy.
+德国的国内消费刺激了德国经济。
+
+buoyant 英 [ˈbɔɪənt] 美 [ˈbu:jənt]
+adj. 轻快的; 活泼的，开朗的; 有浮力的，易浮的; （价格等） 上涨的;
+[例句]She was in a buoyant mood and they were looking forward to their new life
+她心情愉快，他们正在憧憬未来的新生活。
+
+hurricane 英 [ˈhʌrɪkən] 美 [ˈhɜ:rəkən]
+n. 	飓风，十二级风; 飓风般猛烈的东西; （感情等的） 爆发; <英>飓风式战斗驱逐机;
+[例句]Hurricane Andrew was last night heading into the Gulf of Mexico.
+昨晚，飓风“安德鲁”进入了墨西哥湾。
+
+cane 英 [keɪn] 美 [ken]
+n. 手杖; （植物的） 茎; 棍棒，棒; 藤条，藤料;
+vt.  用苔杖打; 用藤（或竹等）编制（椅等）;
+[例句]Bamboo produces an annual crop of cane
+竹子每年都能长出一批竹竿。
+
+withstand 英 [wɪðˈstænd] 美 [wɪθˈstænd, wɪð-]
+vt. 经受，承受，禁得起; 反抗;
+vi. 反抗; 耐得住，禁得起;
+[例句]They can withstand extremes of temperature and weather without fading or cracking.
+它们能够经受极端的气温和天气状况而不褪色、不破裂。
+
+hectoliter 英 ['hektəʊˌli:tə] 美 ['hektəˌli:tə]
+n. <美>（容量单位）百公升;
+
+aversion 英 [əˈvɜ:ʃn] 美 [əˈvɜ:rʒn]
+n. 厌恶; 讨厌的人或东西; <废>转变方向; 背离;
+[例句]Many people have a natural and emotional aversion to insects.
+很多人生来讨厌昆虫。
+
+monetary 英 [ˈmʌnɪtri] 美 [ˈmʌnɪteri]
+adj. 货币的，金钱的; 钱的（尤指一国的金融）; 金融的; 财政的，财政（上）的;
+[例句]Some countries tighten monetary policy to avoid inflation
+一些国家实行紧缩银根的货币政策，以避免通货膨胀。
+
+property 英 [ˈprɒpəti] 美 [ˈprɑ:pərti]
+n. 特性，属性; 财产，地产; [戏] 道具; 所有权;
+[例句]Richard could easily destroy her personal property to punish her for walking out on him
+理查德能轻易毁掉她的私人财产来惩罚她对他的背叛。
+
+theoretically 英 [ˌθɪə'retɪklɪ] 美 [ˌθiəˈretɪkli]
+adv. 理论地，理论上;
+[例句]Theoretically, the price is supposed to be marked on the shelf
+照理说，价格应该标在货架上。
+
+bolster 英 [ˈbəʊlstə(r)] 美 [ˈboʊlstə(r)]
+vt. 支持; 支撑; 鼓励; 援助;
+n. 垫枕; 长枕; 衬垫; 支持物;
+[例句]Hopes of an early cut in interest rates bolstered confidence.
+利率有望早日下调，从而增强了人们的信心。
+
+stumble 英 [ˈstʌmbl] 美 [ˈstʌmbəl]
+vi. 跌跌撞撞地走，蹒跚; 结巴; 弄错，失足; 偶然碰见;
+n. 绊脚，失足; 差错，失误; 过失，失败;
+[例句]He stumbled and almost fell
+他差点被绊倒。
+
+midterm 英 [ˌmɪdˈtɜ:m] 美 [ˌmɪdˈtɜ:rm]
+adj. 中间的; n. 期中考试;
+[例句]My parents had a long talk with me after the midterm examination.
+期中考试后我父母和我进行了长谈。
+
+folk 英 [fəʊk] 美 [foʊk]
+n. 民族; 人们; 〈口〉家属，亲戚; 民间音乐;
+adj. 民间的; 普通平民的; 流传民间的; 普通百姓的;
+[例句]Country folk can tell you that there are certain places which animals avoid
+老乡会告诉你有些地方动物是不会去的。
+
+overreach 英 [ˌəʊvəˈri:tʃ] 美 [ˌoʊvərˈri:tʃ]
+vt. 因过于雄心勃勃而失败;
+[例句]He overreached himself and lost much of his fortune
+他的雄心太大，结果损失了自己大部分的财产。
+
+democrat 英 [ˈdeməkræt] 美 [ˈdɛməˌkræt]
+n. 民主党人; 民主主义者，民主人士; <美>民主党党员;
+[例句]Congressman Tom Downey is a Democrat from New York.
+国会议员汤姆·唐尼是来自纽约州的一名民主党人。
+
+methan 英 ['meθæn] 美 ['meθæn]
+abbr. methanol 甲醇;
+[例句]These uncultured bacteria are mostly separated from the silt of river bottom, silt of Mediterranean cold sea, rice paddy and methan tank.
+这些未培养菌种大多从河底淤泥、地中海冷海域海底淤泥、稻田及沼气池中分离获得。
+
+plop 英 [plɒp] 美 [plɑ:p]
+n. 扑通声，啪嗒声;
+vi. 扑通地坠落;
+[例句]Another drop of water fell with a soft plop.
+又一滴水嘀嗒一声落下。
+
+legalize 英 [ˈli:gəlaɪz] 美 [ˈliɡəˌlaɪz]
+vt. 使合法化; 使得到法律认可;
+[例句]Divorce was legalized in 1981.
+离婚合法化是在1981年。
+
+supreme 英 [su:ˈpri:m] 美 [sʊˈprim]
+adj. 最高的; 至高的，无上的; 最重要的; （程度） 很大的;
+[例句]MacArthur was Supreme Commander for the allied powers in the Pacific.
+麦克阿瑟将军曾是太平洋战区盟军的最高统帅。
