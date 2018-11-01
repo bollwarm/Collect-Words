@@ -4571,3 +4571,175 @@ supreme 英 [su:ˈpri:m] 美 [sʊˈprim]
 adj. 最高的; 至高的，无上的; 最重要的; （程度） 很大的;
 [例句]MacArthur was Supreme Commander for the allied powers in the Pacific.
 麦克阿瑟将军曾是太平洋战区盟军的最高统帅。
+
+aggregated 英 ['ægrɪgɪtɪd] 美 ['ægrɪgɪtɪd]
+v. 总计达…( aggregate的过去式和过去分词 ); 聚集，集合; （使） 聚集;
+[例句]Different economies, with different currencies, should not be aggregated to produce uniform policies
+不同的经济有着不同的货币，不应该视为一体以制定出统一的政策。
+
+close-knit 	英 [ˌkləʊs ˈnɪt] 美 [ˌkloʊs]
+adj. 紧密的，组织严密的;
+[例句]We're a very close-knit family
+我们家非常团结。
+
+collaborativ 英 [kəˈlæbərətɪv] 美 [kəˈlæbəreɪtɪv]
+adj. 协作的; 合作的;
+[例句]'The First Day' is their first collaborative album.
+《第一天》是他们的首张合作专辑。
+
+pivotal  英 [ˈpɪvətl] 美 [ˈpɪvətl]
+adj. 关键的; 中枢的; 枢轴的;
+[例句]The Court of Appeal has a pivotal role in the English legal system
+上诉法院在英格兰司法体系中起着中心作用。
+
+nominee 英 [ˌnɒmɪˈni:] 美 [ˌnɑ:mɪˈni:]
+n. 	被提名者，候选人; 被任命者; 代名人;
+[例句]His nominee for vice president was elected only after a second ballot
+他提名的副总统在两轮投票后才当选。
+
+mock 英 [mɒk] 美 [mɑ:k]
+vt. 愚弄，嘲弄;
+vt. 使受挫折; 不尊重，蔑视;
+adj. 模拟的; 仿制的; 虚假的; 不诚实的;
+[例句]I thought you were mocking me
+我还以为你是在嘲笑我。
+
+toast 英 [təʊst] 美 [toʊst]
+n. 烤面包; 干杯; 接受敬酒的人; （在某领域） 广受赞誉的人;
+vt. 向…祝酒，为…干杯;
+vi. 烤火，取暖; 使暖和; 烘烤（面包片等）;
+[例句]Toast the bread lightly on both sides.
+稍稍烘烤面包两面。
+
+anonymity 英 [ˌænəˈnɪməti] 美 [ˌænəˈnɪmɪti]
+n.匿名; 作者不详; 匿名者; 无名者;
+[例句]You think the Internet offers you protection, anonymity and privacy.
+你认为互联网为您提供保护，匿名和隐私。
+
+avow 英 [əˈvaʊ] 美 [əˈvaʊ]
+vt. 公开声明，承认;
+adj. 可明言的; 公开声明的，承认的;
+n. 公开宣布;
+[例句]The Prime Minister avowed that he saw no need to change his country's policies.
+首相公开表示他觉得没有必要改变国家政策。
+
+entrepreneur 英 [ˌɒntrəprəˈnɜ:(r)] 美 [ˌɑ:ntrəprəˈnɜ:(r)]
+n. <法>企业家; 主办人; 承包人;
+[例句]An entrepreneur is more than just a risk taker. He is a visionary.
+企业家不仅要能承担风险，还应富于远见。
+
+jeopardize 英 [ˈdʒepədaɪz] 美 [ˈdʒepərdaɪz]
+vt. 危及，损害; 使陷入险境或受伤; 使…遇险;
+[例句]The talks may still be jeopardized by disputes.
+会谈仍有可能因存在争端而破裂。
+
+temperament 英 [ˈtemprəmənt] 美 [ˈtɛmprəmənt, ˈtɛmpərə-]
+n. 性格; （人或动物的） 气质; 易冲动; （性情） 暴躁;
+[例句]His impulsive temperament regularly got him into difficulties
+他容易冲动，经常因此惹麻烦。
+
+lowdown 英 ['ləʊdaʊn] 美 [ˈloˌdaʊn]
+n. <俚>内幕，真相，实情;
+[例句]Give me the lowdown what's the secret to get a job around here?
+告诉我一些内幕，要怎么才能得到这里的工作？
+
+dialectical 英 [ˌdaɪə'lektɪkl] 美 [ˌdaɪə'lektɪkl]
+adj. 方言的，辩证的;
+[例句]The essence of dialectical thought is division.
+辩证思维的核心就是二分法。
+
+harassment 英 ['hærəsmənt] 美 [hə'ræsmənt]
+n. 袭扰; 骚扰，扰乱; 折磨人的东西; 烦恼，忧虑;
+[例句]The party has accused the police of harassment.
+该党指责警方有侵扰行为。
+
+beverag 英 [ˈbevərɪdʒ] 美 [ˈbɛvərɪdʒ, ˈbɛvrɪdʒ]
+n. 饮料;
+[例句]Alcoholic beverages are served in the hotel lounge.
+酒店的公共休息室出售酒精饮料。
+
+apocalypse 英 [əˈpɒkəlɪps] 美 [əˈpɑ:kəlɪps]
+n. 世界毁灭; 大灾变; 末世;
+[例句]We live in the shadow of the apocalypse, of a catastrophe that will mean the end of the world itself.
+我们生活在意味着世界末日将要到来的灾难的阴影当中。
+
+barley 英 [ˈbɑ:li] 美 [ˈbɑ:rli]
+n. 大麦; 大麦粒; 麦子;
+[例句]The aphid is now laying waste to the wheat and barley fields.
+蚜虫正在毁掉一片片的小麦和大麦田地。
+
+rally 英 [ˈræli] 美 [ˈræli]
+vt.  召集，集合; 重整; 重振，恢复;
+vi.  聚集; 集合; 反弹，反败为胜; 恢复（元气等）;
+n. 集合; 重新集合; 重整的信号; 反败为胜;
+[例句]He rallied enough to thank his doctors
+他身体好得差不多了，于是去感谢他的医生。
+
+coronary 英 [ˈkɒrənri] 美 [ˈkɔ:rəneri]
+adj. 冠的，花冠的，冠状的; 冠状动脉或静脉的;
+n. 冠状动脉; （病理学） 冠状动脉血栓形成;
+[例句]If all the coronary arteries are free of significant obstructions, all parts of the heart will receive equal amounts of oxygen.
+如果所有的冠状动脉均没有较大的阻塞物，心脏各部分将得到等量的氧气。
+
+ravage 英 [ˈrævɪdʒ] 美 [ˈrævɪdʒ]
+vt. 毁坏; 劫掠;
+n. 蹂躏; 破坏;
+[例句]For two decades the country has been ravaged by civil war and foreign intervention.
+20年来，这个国家一直被内战外侵所蹂躏。
+
+speculate 英 [ˈspekjuleɪt] 美 [ˈspɛkjəˌlet]
+vt. 思索，猜测，推测;
+vi. 推测; 投机; 思索;
+[例句]Critics of the project speculate about how many hospitals could be built instead
+对该项目持批评态度的人在推测如果改作他用不知可以建多少所医院。
+
+retaliatory 英 [rɪ'tælɪətrɪ] 美 [rɪ'tælɪrtrɪ]
+adj. 报复的;
+[例句]There's been talk of a retaliatory blockade to prevent supplies getting through.
+有人在谈论实施报复性封锁，阻止供应物资通过。
+
+steep 英 [sti:p] 美 [stip]
+adj. 陡峭的，险峻的; 过分的，夸张的; 极高的; 急剧升降的;
+vt. 浸泡; 使渗透或沉溺; 使浸透;
+vi. 在液体中浸泡;
+[例句]San Francisco is built on 40 hills and some are very steep.
+旧金山建在40座小山丘上，其中一些非常陡峭。
+
+avocado 英 [ˌævəˈkɑ:dəʊ] 美 [ˌævəˈkɑ:doʊ]
+n. <植>鳄梨，鳄梨树; 暗黄绿色;
+adj. 暗黄绿色的;
+[例句]The ham is delicious with avocado.
+
+ambitions 英 [æm'bɪʃənz] 美 [æm'bɪʃənz]
+n. 抱负( ambition的名词复数 ); 渴望得到的东西; 追求的目标; 夙愿;
+[例句]Political and personal ambitions are starting to prevail over economic interests.
+政治抱负和个人野心开始压倒经济利益。
+
+mercury 英 [ˈmɜ:kjəri] 美 [ˈmɜ:rkjəri]
+n. [化] 汞，水银; [天] 水星; 温度表; 精神，元气;
+[例句]Mercury has a much greater density than water.
+水银的密度比水大得多。
+
+caravan 英 [ˈkærəvæn] 美 [ˈkærəˌvæn]
+n. （可供居住的） 拖车，大篷车; （穿过沙漠地带的）旅行队（如商队） ; <英>活动住宅; <美>移民列车;
+vi. 乘拖车度假; 参加旅行队旅行;
+[例句]Pendergood had shovelled the sand out of the caravan.
+彭德古德把旅行拖车里的沙子铲了出来。
+
+wistful 英 [ˈwɪstfl] 美 [ˈwɪstfəl]
+adj. 渴望的; 沉思的，默想的; 引起怀念的; 不满足似的;
+[例句]I can't help feeling slightly wistful about the perks I'm giving up
+我不禁对自己将要放弃的津贴感到有点儿不舍。
+
+stumble 英 [ˈstʌmbl] 美 [ˈstʌmbəl]
+vi. 跌跌撞撞地走，蹒跚; 结巴; 弄错，失足; 偶然碰见;
+n. 绊脚，失足; 差错，失误; 过失，失败;
+[例句]He stumbled and almost fell
+他差点被绊倒。
+
+surrender 英 [səˈrendə(r)] 美 [səˈrɛndɚ]
+vi. 投降; 自首; 屈服;
+vt.  交出; 放弃; 使投降; 听任;
+n.  投降; 放弃; 屈服; （保险的） 解约;
+[例句]General Martin Bonnet called on the rebels to surrender
+马丁·邦尼特将军呼吁反叛者投降。
