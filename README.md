@@ -4743,3 +4743,9 @@ vt.  交出; 放弃; 使投降; 听任;
 n.  投降; 放弃; 屈服; （保险的） 解约;
 [例句]General Martin Bonnet called on the rebels to surrender
 马丁·邦尼特将军呼吁反叛者投降。
+
+perk 英 [pɜ:k] 美 [pɜ:rk]
+vt. 振作; （使） 活跃; 竖起，翘起; 滤煮;
+n. 额外津贴，外快;
+[例句]One of the perks of being a student is cheap travel.
+当学生的好处之一是旅行购票可以优惠。
