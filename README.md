@@ -4749,3 +4749,8 @@ vt. 振作; （使） 活跃; 竖起，翘起; 滤煮;
 n. 额外津贴，外快;
 [例句]One of the perks of being a student is cheap travel.
 当学生的好处之一是旅行购票可以优惠。
+
+speculation 英 [ˌspekjuˈleɪʃn] 美 [ˌspekjuˈleɪʃn]
+n. 推测; 猜测; 推断; 投机买卖; 炒股;
+[例句]I am tired of all the speculation 我厌烦了所有的推测。
+[其他] 	复数：speculations 
