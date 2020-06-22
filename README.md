@@ -4754,3 +4754,67 @@ speculation 英 [ˌspekjuˈleɪʃn] 美 [ˌspekjuˈleɪʃn]
 n. 推测; 猜测; 推断; 投机买卖; 炒股;
 [例句]I am tired of all the speculation 我厌烦了所有的推测。
 [其他] 	复数：speculations 
+
+
+venomous 英 [ˈvenəməs] 美 [ˈvenəməs]
+adj. 分泌毒液的; 有毒的; 恶毒的; 恶意的; 充满仇恨的;
+[例句]He heaped abuse on Waite and made venomous personal attacks
+他肆意辱骂韦特，并对他进行恶毒的人身攻击。
+
+sculpt 英 [skʌlpt] 美 [skʌlpt]
+v. 	雕刻; 雕塑; 使具有某种形状;
+[例句]An artist sculpted a full-size replica of her head
+一位艺术家按实际大小雕刻了一个她的头部模型。
+
+trait 英 [treɪt] 美 [treɪt]
+n. (人的个性的) 特征，特性，特点;
+[例句]The study found that some alcoholics had clear personality traits showing up early in childhood
+研究发现一些酗酒者在童年早期就显现出鲜明的人格特征。
+
+inherent 英 [ɪnˈherənt] 美 [ɪnˈhɪrənt]
+adj. 固有的; 内在的;
+[例句]Stress is an inherent part of dieting.
+节食必定会带来压力。
+
+colony  英 [ˈkɒləni] 美 [ˈkɑːləni]
+n. 殖民地; 殖民地定居者群体; (来自同一地方，职业或兴趣相同的) 聚居人群;
+[例句]In France's former North African colonies, anti-French feeling is growing
+在北非的一些前法属殖民地国家，反法情绪日益增长。
+
+subdue 英 [səbˈdjuː] 美 [səbˈduː]
+v. 制伏; 征服; 控制; 抑制，压制，克制(感情);
+[例句]Senior government officials admit they have not been able to subdue the rebels.
+政府高级官员承认他们还没能制服反叛者。
+
+prey 英 [preɪ] 美 [preɪ]
+n. 猎物; 受害者; 受骗者;
+v. 捕食; 掠夺; 折磨;
+[例句]Electric rays stun their prey with huge electrical discharges
+电鳐能放出强大的电流把猎物击晕。
+
+docile 英 [ˈdəʊsaɪl] 美 [ˈdɑːsl]
+adj. 驯服的; 易驾驭的; 易控制的;
+[例句]They wanted a low-cost, docile workforce.
+他们想要廉价的、听话的劳动力。
+
+contingent 英 [kənˈtɪndʒənt] 美 [kənˈtɪndʒənt]
+n. (志趣相投、尤指来自同一地方的) 一组与会者，代表团; (军队的) 分遣队，小分队;
+adj. 依情况而定的;
+[例句]Nigeria provided a large contingent of troops to the West African Peacekeeping Force
+尼日利亚向西非维和部队派遣了一大批军队。
+
+cyclone 英 [ˈsaɪkləʊn] 美 [ˈsaɪkloʊn]
+n. 气旋; 旋风;
+[例句]A cyclone in the Bay of Bengal is threatening the eastern Indian states.
+发生在孟加拉湾的飓风正威胁着印度东部各邦。
+
+forage 英 [ˈfɒrɪdʒ] 美 [ˈfɔːrɪdʒ]
+v. 觅(食); (尤指用手)搜寻(东西) ;
+n. (牛马的) 饲料;
+[例句]They were forced to forage for clothing and fuel.
+他们不得不去寻找衣服和燃料。
+
+trajectory 英 [trəˈdʒektəri] 美 [trəˈdʒektəri]
+n. (射体在空中的) 轨道，弹道，轨迹;
+[例句]They could have an outsized impact on the spider's evolutionary trajectory
+他们可能对蜘蛛的进化轨迹产生巨大影响。
