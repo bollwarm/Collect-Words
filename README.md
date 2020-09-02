@@ -4818,3 +4818,73 @@ trajectory 英 [trəˈdʒektəri] 美 [trəˈdʒektəri]
 n. (射体在空中的) 轨道，弹道，轨迹;
 [例句]They could have an outsized impact on the spider's evolutionary trajectory
 他们可能对蜘蛛的进化轨迹产生巨大影响。
+
+surveillance 英 [sɜːˈveɪləns] 美 [sɜːrˈveɪləns]
+n. (对犯罪嫌疑人或可能发生犯罪的地方的) 监视;
+[例句]He was arrested after being kept under constant surveillance
+在被连续监视了一段时间后，他被逮捕了。
+
+stalk 英 [stɔːk] 美 [stɔːk]
+n. (叶) 柄; (花) 梗; (果实的) 柄; (植物的) 茎，秆; 柄; (动物的) 肉柄，肉茎;
+v. 偷偷接近，潜近(猎物或人); (非法) 跟踪，盯梢; 怒冲冲地走; 趾高气扬地走;
+[例句]A single pale blue flower grows up from each joint on a long stalk.
+一条长长的茎秆的每个节上都会长出一朵浅蓝色的花。
+
+trove 英 [trəʊv] 美 [troʊv]
+n. 	同“treasure-trove”;
+[例句]This Islington shop is a treasure trove of beautiful bridalwear.
+这家位于伊斯灵顿区的商店里汇聚了各种漂亮的新娘服装。
+
+treasure-trove 英 [ˈtreʒə trəʊv] 美 [ˈtreʒər troʊv]
+n. 	埋藏于地下的宝藏;
+[例句]A vast treasure-trove of virtually unheard melody awaits discovery by this new audience.
+大量不为人知的优美旋律正等着这批新听众来发掘。
+
+humble 	英 [ˈhʌmbl] 美 [ˈhʌmbl]
+adj. 谦逊的; 虚心的; 表示谦逊，但不够诚挚或认真; (级别或地位) 低下的，卑微的;
+v. 	贬低; 使感到卑微; 轻松打败(尤指强大的对手); 低声下气; 谦逊; 虚心;
+[例句]He gave a great performance, but he was very humble
+他的表演非常出色，但他却很谦虚。
+
+jeopardize 	英 [ˈdʒepədaɪz] 美 [ˈdʒepərdaɪz]
+v. 冒…的危险; 危及; 危害; 损害;
+[例句]The talks may still be jeopardized by disputes.
+会谈仍有可能因存在争端而破裂。
+
+abuser 网络 虐待者; 施虐者; 商业买家; 恶客; 滥用人土;
+[例句]We found that a drug abuser on rehabilitation through labour treatment had obsessive compulsive disorder.
+在吸毒劳教人员中发现强迫性障碍患者一例。
+
+predator 英 [ˈpredətə(r)] 美 [ˈpredətər]
+n. 捕食性动物; 实行弱肉强食的人(或机构); 剥削者; 掠夺者;
+[例句]The company is worried about takeovers by various predators.
+公司担心被各种虎视眈眈的集团收购。
+
+ironclad 英 [ˈaɪənklæd] 美 [ˈaɪərnˌklæd]
+n. 铁甲舰；装甲舰;
+adj. 打不破的；装甲的；镶铁的；坚固的;
+[例句]The case for testing now is ironclad.
+正在接受检验的这一论据牢不可破。
+
+clad 英 [klæd] 美 [klæd]
+adj. 穿…衣服的; …覆盖的;
+v. 	穿（衣）(clothe的过去式和过去分词); 在（金属）外面包上另一种金属; （用语言） 表达; <文>覆盖;
+[例句]Johnson was clad casually in slacks and a light blue golf shirt.
+约翰逊穿着休闲，宽松的长裤配淡蓝色高尔夫衬衫。
+
+broker 	英 [ˈbrəʊkə(r)] 美 [ˈbroʊkər]
+n. 经纪人; 掮客;
+v. 安排，协商(协议的细节，尤指在两国间);
+[例句]The United Nations brokered a peace in Mogadishu at the end of March.
+3月末，联合国出面在摩加迪沙进行了和平调解。
+
+veer 英 [vɪə(r)] 美 [vɪr]
+v.  突然变向; 猛然转向; 偏离; 改变; 转变; 改变方向;
+[例句]The plane veered off the runway and careered through the perimeter fence
+飞机突然偏离跑道，高速冲过了周围的护栏。
+
+veer off  英 [vɪə(r) ɒf] 美 [vɪr ɔːf]
+网络 离开;
+[例句]The plane seemed to veer off to one side.
+飞机似乎转向一边去了。
+
